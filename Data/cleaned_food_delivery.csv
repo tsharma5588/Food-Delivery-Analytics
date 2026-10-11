@@ -1,0 +1,2001 @@
+order_id,order_date,customer_id,city,restaurant_name,cuisine,order_amount,delivery_fee,discount,total_amount,payment_method,delivery_time_minutes,order_status,customer_rating
+ORD00001,2025-11-24,C0090,Gurugram,Pizza Corner,Pizza,201,40,0,241,Cash on Delivery,65.0,Delivered,1.0
+ORD00002,2025-01-17,C0204,Gurugram,Spice Garden,Indian,341,30,0,371,Cash on Delivery,19.0,Delivered,5.0
+ORD00003,2025-04-23,C0160,Mohali,Taco Street,Mexican,719,20,0,739,Debit Card,39.0,Delivered,3.0
+ORD00004,2025-02-22,C0045,Delhi,Pizza Corner,Pizza,928,20,0,948,Wallet,56.0,Delivered,3.0
+ORD00005,2025-03-05,C0197,Chandigarh,Dosa Point,South Indian,311,40,100,251,UPI,73.0,Delivered,3.0
+ORD00006,2025-12-05,C0465,Panchkula,Biryani House,Indian,742,20,0,762,Credit Card,42.0,Delivered,3.0
+ORD00007,2025-07-09,C0176,Gurugram,Healthy Bowl,Healthy,579,40,100,519,Credit Card,59.0,Delivered,1.0
+ORD00008,2025-03-25,C0058,Mohali,Taco Street,Mexican,927,40,100,867,UPI,32.0,Delivered,3.0
+ORD00009,2025-06-11,C0218,Delhi,Dosa Point,South Indian,698,20,0,718,Cash on Delivery,54.0,Delivered,3.0
+ORD00010,2025-11-26,C0270,Gurugram,Taco Street,Mexican,442,40,0,482,Cash on Delivery,53.0,Delivered,5.0
+ORD00011,2025-10-26,C0113,Mohali,Dosa Point,South Indian,891,30,0,921,Credit Card,23.0,Delivered,1.0
+ORD00012,2025-12-15,C0258,Gurugram,Dosa Point,South Indian,280,50,25,305,UPI,47.0,Delivered,5.0
+ORD00013,2025-12-15,C0004,Panchkula,Pizza Corner,Pizza,696,40,0,736,Wallet,28.0,Delivered,4.0
+ORD00014,2025-04-02,C0544,Chandigarh,Pizza Corner,Pizza,761,30,0,791,Wallet,28.0,Delivered,5.0
+ORD00015,2025-06-15,C0246,Chandigarh,Taco Street,Mexican,189,20,0,209,Credit Card,71.0,Delivered,3.0
+ORD00016,2025-10-18,C0546,Mohali,Pizza Corner,Pizza,325,50,0,0,Credit Card,,Cancelled,
+ORD00017,2025-12-04,C0206,Panchkula,Taco Street,Mexican,488,40,50,478,Cash on Delivery,45.0,Delivered,2.0
+ORD00018,2025-12-10,C0022,Gurugram,Healthy Bowl,Healthy,1047,50,0,1097,Wallet,22.0,Delivered,3.0
+ORD00019,2025-04-28,C0033,Panchkula,Biryani House,Indian,164,20,100,84,UPI,32.0,Delivered,1.0
+ORD00020,2025-09-21,C0485,Mohali,Biryani House,Indian,720,50,0,770,Cash on Delivery,64.0,Delivered,5.0
+ORD00021,2025-07-28,C0479,Chandigarh,Biryani House,Indian,343,20,100,263,UPI,45.0,Delivered,4.0
+ORD00022,2025-02-01,C0144,Delhi,Dosa Point,South Indian,844,20,0,864,Credit Card,52.0,Delivered,4.0
+ORD00023,2025-05-23,C0101,Chandigarh,Taco Street,Mexican,661,20,25,656,Wallet,72.0,Delivered,5.0
+ORD00024,2025-01-08,C0061,Mohali,Pizza Corner,Pizza,634,30,25,639,Cash on Delivery,31.0,Delivered,4.0
+ORD00025,2025-01-02,C0499,Mohali,Dosa Point,South Indian,693,50,0,743,Credit Card,64.0,Delivered,5.0
+ORD00026,2025-06-01,C0489,Gurugram,Biryani House,Indian,269,20,100,189,Wallet,21.0,Delivered,5.0
+ORD00027,2025-03-22,C0414,Chandigarh,Spice Garden,Indian,1190,20,0,1210,Wallet,22.0,Delivered,2.0
+ORD00028,2025-05-07,C0268,Mohali,Spice Garden,Indian,317,50,100,267,Debit Card,51.0,Delivered,3.0
+ORD00029,2025-05-03,C0075,Chandigarh,Wok Express,Chinese,960,30,100,890,Cash on Delivery,47.0,Delivered,3.0
+ORD00030,2025-11-15,C0251,Panchkula,Pizza Corner,Pizza,300,30,50,280,Debit Card,40.0,Delivered,1.0
+ORD00031,2025-03-22,C0138,Panchkula,Taco Street,Mexican,769,20,100,689,UPI,37.0,Delivered,1.0
+ORD00032,2025-02-24,C0271,Gurugram,Burger Hub,Fast Food,707,40,50,697,Cash on Delivery,39.0,Delivered,2.0
+ORD00033,2025-05-09,C0269,Mohali,Spice Garden,Indian,339,50,0,389,Cash on Delivery,39.0,Delivered,2.0
+ORD00034,2025-10-10,C0153,Gurugram,Dosa Point,South Indian,169,20,0,0,UPI,,Cancelled,
+ORD00035,2025-07-09,C0367,Mohali,Burger Hub,Fast Food,1030,30,0,1060,Credit Card,75.0,Delivered,1.0
+ORD00036,2025-12-08,C0182,Delhi,Pizza Corner,Pizza,874,50,50,874,UPI,33.0,Delivered,2.0
+ORD00037,2025-04-02,C0392,Chandigarh,Healthy Bowl,Healthy,993,30,0,1023,Cash on Delivery,62.0,Delivered,1.0
+ORD00038,2025-04-24,C0229,Chandigarh,Biryani House,Indian,1092,40,0,1132,Credit Card,73.0,Delivered,2.0
+ORD00039,2025-07-24,C0550,Panchkula,Healthy Bowl,Healthy,720,20,0,740,UPI,50.0,Delivered,4.0
+ORD00040,2025-03-01,C0322,Delhi,Wok Express,Chinese,515,40,0,555,Wallet,45.0,Delivered,3.0
+ORD00041,2025-09-19,C0533,Gurugram,Pizza Corner,Pizza,938,30,0,968,Credit Card,45.0,Delivered,1.0
+ORD00042,2025-07-06,C0308,Gurugram,Dosa Point,South Indian,293,40,50,283,Debit Card,72.0,Delivered,1.0
+ORD00043,2025-12-08,C0431,Delhi,Dosa Point,South Indian,818,50,100,768,Credit Card,26.0,Delivered,2.0
+ORD00044,2025-11-12,C0330,Delhi,Wok Express,Chinese,981,20,0,1001,Cash on Delivery,45.0,Delivered,5.0
+ORD00045,2025-08-15,C0528,Gurugram,Biryani House,Indian,1196,50,100,1146,Debit Card,23.0,Delivered,3.0
+ORD00046,2025-02-17,C0487,Gurugram,Biryani House,Indian,785,30,0,815,UPI,20.0,Delivered,2.0
+ORD00047,2025-08-22,C0110,Delhi,Dosa Point,South Indian,548,50,25,573,Credit Card,27.0,Delivered,1.0
+ORD00048,2025-04-01,C0544,Gurugram,Taco Street,Mexican,252,30,0,282,Wallet,69.0,Delivered,4.0
+ORD00049,2025-06-12,C0461,Panchkula,Taco Street,Mexican,1183,50,50,1183,Credit Card,28.0,Delivered,4.0
+ORD00050,2025-11-23,C0241,Panchkula,Wok Express,Chinese,1142,30,0,1172,Debit Card,63.0,Delivered,3.0
+ORD00051,2025-06-13,C0066,Delhi,Pizza Corner,Pizza,433,30,0,463,Cash on Delivery,27.0,Delivered,2.0
+ORD00052,2025-06-19,C0021,Gurugram,Taco Street,Mexican,1001,20,0,1021,Cash on Delivery,42.0,Delivered,5.0
+ORD00053,2025-09-02,C0226,Delhi,Spice Garden,Indian,870,40,25,885,Credit Card,71.0,Delivered,4.0
+ORD00054,2025-05-20,C0170,Delhi,Dosa Point,South Indian,1144,20,25,1139,Credit Card,61.0,Delivered,4.0
+ORD00055,2025-11-15,C0187,Chandigarh,Spice Garden,Indian,956,20,0,976,Debit Card,26.0,Delivered,4.0
+ORD00056,2025-07-14,C0285,Delhi,Healthy Bowl,Healthy,583,50,0,633,Debit Card,74.0,Delivered,4.0
+ORD00057,2025-02-11,C0032,Mohali,Taco Street,Mexican,189,20,0,209,Credit Card,22.0,Delivered,1.0
+ORD00058,2025-01-11,C0477,Panchkula,Burger Hub,Fast Food,638,30,25,643,Debit Card,54.0,Delivered,2.0
+ORD00059,2025-03-27,C0385,Delhi,Pizza Corner,Pizza,485,40,0,525,Credit Card,37.0,Delivered,5.0
+ORD00060,2025-02-08,C0043,Panchkula,Biryani House,Indian,358,40,100,298,Wallet,25.0,Delivered,5.0
+ORD00061,2025-08-08,C0109,Delhi,Healthy Bowl,Healthy,291,40,0,331,Debit Card,70.0,Delivered,4.0
+ORD00062,2025-11-22,C0496,Delhi,Taco Street,Mexican,463,50,0,513,Cash on Delivery,59.0,Delivered,3.0
+ORD00063,2025-10-31,C0476,Gurugram,Wok Express,Chinese,810,30,0,840,Wallet,46.0,Delivered,2.0
+ORD00064,2025-12-09,C0218,Panchkula,Dosa Point,South Indian,838,20,25,833,Debit Card,29.0,Delivered,4.0
+ORD00065,2025-06-24,C0088,Mohali,Wok Express,Chinese,715,20,50,0,Cash on Delivery,,Cancelled,
+ORD00066,2025-09-08,C0227,Delhi,Biryani House,Indian,1125,50,25,1150,Credit Card,23.0,Delivered,3.0
+ORD00067,2025-06-06,C0339,Panchkula,Healthy Bowl,Healthy,1119,40,25,0,Cash on Delivery,,Cancelled,
+ORD00068,2025-05-19,C0549,Mohali,Wok Express,Chinese,664,30,0,694,Credit Card,38.0,Delivered,1.0
+ORD00069,2025-04-21,C0370,Mohali,Taco Street,Mexican,716,40,0,756,Debit Card,36.0,Delivered,2.0
+ORD00070,2025-01-08,C0503,Chandigarh,Burger Hub,Fast Food,711,20,0,731,UPI,62.0,Delivered,2.0
+ORD00071,2025-10-21,C0490,Chandigarh,Wok Express,Chinese,1111,50,25,1136,UPI,21.0,Delivered,3.0
+ORD00072,2025-07-25,C0088,Mohali,Taco Street,Mexican,301,20,0,321,UPI,54.0,Delivered,3.0
+ORD00073,2025-10-13,C0440,Panchkula,Dosa Point,South Indian,612,50,25,637,Wallet,37.0,Delivered,5.0
+ORD00074,2025-11-14,C0161,Mohali,Spice Garden,Indian,353,30,100,283,Credit Card,60.0,Delivered,1.0
+ORD00075,2025-10-10,C0299,Chandigarh,Pizza Corner,Pizza,470,20,25,465,Credit Card,56.0,Delivered,4.0
+ORD00076,2025-05-28,C0203,Delhi,Wok Express,Chinese,1079,20,100,999,UPI,34.0,Delivered,5.0
+ORD00077,2025-10-06,C0296,Delhi,Biryani House,Indian,455,40,0,495,UPI,28.0,Delivered,3.0
+ORD00078,2025-08-28,C0041,Delhi,Wok Express,Chinese,974,40,50,964,Debit Card,46.0,Delivered,1.0
+ORD00079,2025-11-06,C0022,Panchkula,Wok Express,Chinese,202,20,0,0,Wallet,,Cancelled,
+ORD00080,2025-01-21,C0504,Chandigarh,Burger Hub,Fast Food,1113,50,0,1163,Cash on Delivery,55.0,Delivered,4.0
+ORD00081,2025-06-28,C0422,Delhi,Dosa Point,South Indian,832,40,100,772,Debit Card,28.0,Delivered,3.0
+ORD00082,2025-12-06,C0414,Gurugram,Dosa Point,South Indian,225,50,0,275,UPI,38.0,Delivered,1.0
+ORD00083,2025-12-03,C0453,Chandigarh,Taco Street,Mexican,996,20,0,1016,Credit Card,57.0,Delivered,4.0
+ORD00084,2025-05-17,C0246,Mohali,Burger Hub,Fast Food,739,50,100,689,Debit Card,19.0,Delivered,5.0
+ORD00085,2025-10-10,C0117,Delhi,Spice Garden,Indian,985,20,0,0,UPI,,Cancelled,
+ORD00086,2025-11-28,C0484,Mohali,Burger Hub,Fast Food,1170,40,50,1160,Cash on Delivery,44.0,Delivered,4.0
+ORD00087,2025-10-10,C0072,Panchkula,Burger Hub,Fast Food,935,30,50,915,Cash on Delivery,74.0,Delivered,2.0
+ORD00088,2025-06-24,C0502,Mohali,Wok Express,Chinese,155,40,100,95,Cash on Delivery,55.0,Delivered,5.0
+ORD00089,2025-10-03,C0330,Mohali,Taco Street,Mexican,856,40,50,846,Credit Card,42.0,Delivered,4.0
+ORD00090,2025-10-20,C0396,Mohali,Dosa Point,South Indian,628,50,0,678,Cash on Delivery,48.0,Delivered,4.0
+ORD00091,2025-01-19,C0539,Delhi,Burger Hub,Fast Food,1178,40,0,1218,UPI,46.0,Delivered,1.0
+ORD00092,2025-03-15,C0408,Chandigarh,Dosa Point,South Indian,466,20,25,461,Debit Card,34.0,Delivered,3.0
+ORD00093,2025-12-12,C0295,Mohali,Dosa Point,South Indian,798,50,50,798,UPI,22.0,Delivered,2.0
+ORD00094,2025-08-11,C0048,Panchkula,Pizza Corner,Pizza,355,50,0,405,UPI,75.0,Delivered,1.0
+ORD00095,2025-05-31,C0185,Mohali,Healthy Bowl,Healthy,917,50,0,967,Credit Card,44.0,Delivered,5.0
+ORD00096,2025-02-10,C0471,Panchkula,Dosa Point,South Indian,643,50,50,643,UPI,47.0,Delivered,3.0
+ORD00097,2025-08-27,C0307,Delhi,Wok Express,Chinese,473,20,25,0,Debit Card,,Cancelled,
+ORD00098,2025-08-22,C0368,Gurugram,Wok Express,Chinese,557,50,25,582,Debit Card,42.0,Delivered,5.0
+ORD00099,2025-12-25,C0509,Panchkula,Wok Express,Chinese,194,50,0,244,Credit Card,73.0,Delivered,1.0
+ORD00100,2025-11-07,C0100,Chandigarh,Healthy Bowl,Healthy,598,30,50,578,Debit Card,66.0,Delivered,2.0
+ORD00101,2025-08-14,C0180,Mohali,Spice Garden,Indian,897,30,0,927,Credit Card,38.0,Delivered,4.0
+ORD00102,2025-10-04,C0303,Panchkula,Healthy Bowl,Healthy,1177,40,0,1217,UPI,70.0,Delivered,4.0
+ORD00103,2025-08-28,C0375,Chandigarh,Pizza Corner,Pizza,438,30,100,368,Cash on Delivery,43.0,Delivered,5.0
+ORD00104,2025-01-08,C0391,Panchkula,Wok Express,Chinese,403,50,0,453,UPI,61.0,Delivered,3.0
+ORD00105,2025-12-12,C0227,Chandigarh,Biryani House,Indian,1115,20,50,1085,Cash on Delivery,53.0,Delivered,3.0
+ORD00106,2025-12-25,C0505,Chandigarh,Wok Express,Chinese,986,20,0,1006,UPI,20.0,Delivered,3.0
+ORD00107,2025-05-01,C0430,Gurugram,Burger Hub,Fast Food,945,50,0,995,Credit Card,65.0,Delivered,5.0
+ORD00108,2025-08-01,C0455,Delhi,Pizza Corner,Pizza,1152,50,0,1202,Credit Card,41.0,Delivered,2.0
+ORD00109,2025-07-05,C0466,Chandigarh,Pizza Corner,Pizza,902,40,0,942,Credit Card,30.0,Delivered,1.0
+ORD00110,2025-11-25,C0211,Chandigarh,Spice Garden,Indian,253,40,0,0,Wallet,,Cancelled,
+ORD00111,2025-04-17,C0284,Mohali,Biryani House,Indian,627,40,0,667,Credit Card,56.0,Delivered,1.0
+ORD00112,2025-10-04,C0367,Mohali,Wok Express,Chinese,507,20,100,427,Wallet,26.0,Delivered,1.0
+ORD00113,2025-06-15,C0117,Chandigarh,Spice Garden,Indian,506,40,0,546,Cash on Delivery,44.0,Delivered,5.0
+ORD00114,2025-08-18,C0534,Panchkula,Healthy Bowl,Healthy,373,50,50,373,Cash on Delivery,57.0,Delivered,1.0
+ORD00115,2025-11-26,C0455,Chandigarh,Spice Garden,Indian,274,50,25,299,UPI,24.0,Delivered,4.0
+ORD00116,2025-06-14,C0333,Delhi,Burger Hub,Fast Food,284,30,0,314,Wallet,55.0,Delivered,5.0
+ORD00117,2025-09-29,C0221,Delhi,Wok Express,Chinese,1079,50,0,1129,Cash on Delivery,25.0,Delivered,5.0
+ORD00118,2025-04-27,C0438,Panchkula,Dosa Point,South Indian,844,50,25,869,Debit Card,24.0,Delivered,3.0
+ORD00119,2025-07-11,C0099,Panchkula,Burger Hub,Fast Food,1121,20,0,1141,Credit Card,23.0,Delivered,4.0
+ORD00120,2025-10-12,C0053,Panchkula,Spice Garden,Indian,825,20,25,820,Wallet,60.0,Delivered,4.0
+ORD00121,2025-06-09,C0359,Gurugram,Healthy Bowl,Healthy,362,30,0,392,Debit Card,32.0,Delivered,1.0
+ORD00122,2025-02-28,C0027,Gurugram,Wok Express,Chinese,613,50,50,0,Debit Card,,Cancelled,
+ORD00123,2025-01-15,C0411,Chandigarh,Burger Hub,Fast Food,709,40,0,749,Credit Card,29.0,Delivered,2.0
+ORD00124,2025-11-21,C0379,Panchkula,Spice Garden,Indian,337,30,25,342,Debit Card,39.0,Delivered,2.0
+ORD00125,2025-10-18,C0279,Delhi,Pizza Corner,Pizza,257,30,0,287,Cash on Delivery,21.0,Delivered,1.0
+ORD00126,2025-09-06,C0441,Chandigarh,Taco Street,Mexican,998,40,0,1038,Debit Card,25.0,Delivered,3.0
+ORD00127,2025-12-14,C0008,Mohali,Taco Street,Mexican,781,20,0,801,Debit Card,56.0,Delivered,1.0
+ORD00128,2025-04-19,C0180,Mohali,Burger Hub,Fast Food,673,40,0,713,Cash on Delivery,49.0,Delivered,4.0
+ORD00129,2025-09-30,C0447,Chandigarh,Biryani House,Indian,1174,40,0,1214,Cash on Delivery,65.0,Delivered,1.0
+ORD00130,2025-02-09,C0415,Chandigarh,Healthy Bowl,Healthy,1029,50,100,979,Debit Card,36.0,Delivered,1.0
+ORD00131,2025-03-29,C0411,Gurugram,Taco Street,Mexican,891,20,25,886,UPI,33.0,Delivered,4.0
+ORD00132,2025-07-22,C0117,Gurugram,Wok Express,Chinese,845,30,0,875,Wallet,22.0,Delivered,5.0
+ORD00133,2025-04-10,C0178,Gurugram,Healthy Bowl,Healthy,869,30,0,899,Credit Card,34.0,Delivered,2.0
+ORD00134,2025-12-02,C0460,Gurugram,Pizza Corner,Pizza,512,50,25,537,Wallet,66.0,Delivered,5.0
+ORD00135,2025-06-15,C0282,Gurugram,Healthy Bowl,Healthy,459,50,0,509,UPI,58.0,Delivered,3.0
+ORD00136,2025-06-30,C0079,Chandigarh,Pizza Corner,Pizza,785,50,25,810,Wallet,41.0,Delivered,3.0
+ORD00137,2025-11-01,C0330,Gurugram,Dosa Point,South Indian,1097,20,25,1092,Cash on Delivery,54.0,Delivered,2.0
+ORD00138,2025-09-14,C0087,Gurugram,Burger Hub,Fast Food,276,50,0,326,Credit Card,71.0,Delivered,3.0
+ORD00139,2025-01-21,C0382,Panchkula,Biryani House,Indian,1046,50,50,1046,Cash on Delivery,28.0,Delivered,3.0
+ORD00140,2025-07-29,C0291,Panchkula,Healthy Bowl,Healthy,257,40,0,297,Wallet,53.0,Delivered,4.0
+ORD00141,2025-03-18,C0133,Gurugram,Healthy Bowl,Healthy,316,30,0,346,UPI,59.0,Delivered,4.0
+ORD00142,2025-06-08,C0096,Delhi,Dosa Point,South Indian,822,30,100,752,Wallet,65.0,Delivered,5.0
+ORD00143,2025-07-05,C0350,Delhi,Spice Garden,Indian,892,40,0,0,Credit Card,,Cancelled,
+ORD00144,2025-04-26,C0540,Chandigarh,Burger Hub,Fast Food,467,20,0,487,Debit Card,24.0,Delivered,5.0
+ORD00145,2025-11-13,C0170,Delhi,Burger Hub,Fast Food,921,30,0,951,UPI,62.0,Delivered,5.0
+ORD00146,2025-07-30,C0240,Gurugram,Healthy Bowl,Healthy,636,50,50,636,Credit Card,65.0,Delivered,4.0
+ORD00147,2025-06-08,C0452,Delhi,Taco Street,Mexican,547,40,100,0,Debit Card,,Cancelled,
+ORD00148,2025-07-15,C0493,Panchkula,Dosa Point,South Indian,481,30,50,461,Wallet,34.0,Delivered,1.0
+ORD00149,2025-02-22,C0151,Delhi,Pizza Corner,Pizza,733,20,0,753,UPI,75.0,Delivered,5.0
+ORD00150,2025-04-24,C0242,Delhi,Taco Street,Mexican,865,20,25,860,UPI,50.0,Delivered,3.0
+ORD00151,2025-07-11,C0150,Mohali,Biryani House,Indian,207,40,0,247,UPI,59.0,Delivered,3.0
+ORD00152,2025-05-27,C0020,Panchkula,Taco Street,Mexican,434,50,25,459,Credit Card,75.0,Delivered,1.0
+ORD00153,2025-03-18,C0430,Gurugram,Dosa Point,South Indian,377,40,0,417,Cash on Delivery,21.0,Delivered,2.0
+ORD00154,2025-02-02,C0299,Delhi,Pizza Corner,Pizza,1173,20,100,1093,UPI,33.0,Delivered,2.0
+ORD00155,2025-11-11,C0370,Chandigarh,Healthy Bowl,Healthy,642,50,0,692,Wallet,23.0,Delivered,5.0
+ORD00156,2025-10-06,C0017,Panchkula,Spice Garden,Indian,949,50,0,999,UPI,41.0,Delivered,3.0
+ORD00157,2025-06-26,C0180,Delhi,Biryani House,Indian,362,40,0,402,Cash on Delivery,52.0,Delivered,3.0
+ORD00158,2025-11-20,C0301,Mohali,Burger Hub,Fast Food,426,20,100,346,UPI,47.0,Delivered,1.0
+ORD00159,2025-04-13,C0485,Panchkula,Spice Garden,Indian,796,40,50,786,UPI,70.0,Delivered,5.0
+ORD00160,2025-11-28,C0128,Panchkula,Biryani House,Indian,735,40,0,775,Cash on Delivery,39.0,Delivered,3.0
+ORD00161,2025-07-24,C0532,Panchkula,Taco Street,Mexican,941,40,0,981,UPI,49.0,Delivered,3.0
+ORD00162,2025-08-06,C0336,Panchkula,Pizza Corner,Pizza,1031,30,50,1011,Debit Card,24.0,Delivered,1.0
+ORD00163,2025-08-17,C0446,Panchkula,Dosa Point,South Indian,491,50,0,541,UPI,64.0,Delivered,3.0
+ORD00164,2025-02-08,C0036,Mohali,Dosa Point,South Indian,894,30,0,924,UPI,56.0,Delivered,4.0
+ORD00165,2025-05-01,C0380,Panchkula,Healthy Bowl,Healthy,891,50,50,891,Cash on Delivery,27.0,Delivered,4.0
+ORD00166,2025-02-09,C0027,Mohali,Burger Hub,Fast Food,901,50,0,951,Cash on Delivery,33.0,Delivered,1.0
+ORD00167,2025-09-23,C0293,Delhi,Dosa Point,South Indian,391,40,0,431,Credit Card,31.0,Delivered,5.0
+ORD00168,2025-03-04,C0328,Panchkula,Burger Hub,Fast Food,301,50,0,351,UPI,46.0,Delivered,1.0
+ORD00169,2025-10-09,C0371,Gurugram,Wok Express,Chinese,764,30,100,694,Credit Card,62.0,Delivered,2.0
+ORD00170,2025-03-04,C0378,Delhi,Biryani House,Indian,434,30,25,439,Wallet,53.0,Delivered,5.0
+ORD00171,2025-03-08,C0491,Gurugram,Pizza Corner,Pizza,284,40,25,0,Cash on Delivery,,Cancelled,
+ORD00172,2025-07-29,C0353,Mohali,Pizza Corner,Pizza,406,40,100,346,Wallet,47.0,Delivered,5.0
+ORD00173,2025-11-24,C0531,Mohali,Burger Hub,Fast Food,414,50,50,414,Debit Card,21.0,Delivered,1.0
+ORD00174,2025-03-26,C0532,Panchkula,Burger Hub,Fast Food,810,30,0,0,UPI,,Cancelled,
+ORD00175,2025-05-09,C0515,Mohali,Biryani House,Indian,712,30,100,642,Wallet,52.0,Delivered,1.0
+ORD00176,2025-10-25,C0084,Chandigarh,Burger Hub,Fast Food,500,40,50,490,Wallet,73.0,Delivered,1.0
+ORD00177,2025-05-16,C0310,Delhi,Biryani House,Indian,1003,20,25,998,Credit Card,52.0,Delivered,3.0
+ORD00178,2025-12-17,C0426,Delhi,Dosa Point,South Indian,759,50,0,809,Cash on Delivery,28.0,Delivered,4.0
+ORD00179,2025-04-15,C0409,Mohali,Healthy Bowl,Healthy,444,40,100,384,Debit Card,73.0,Delivered,3.0
+ORD00180,2025-09-21,C0145,Chandigarh,Pizza Corner,Pizza,803,30,25,808,UPI,46.0,Delivered,2.0
+ORD00181,2025-05-29,C0195,Mohali,Dosa Point,South Indian,1006,30,0,1036,Cash on Delivery,54.0,Delivered,3.0
+ORD00182,2025-09-21,C0469,Mohali,Taco Street,Mexican,1171,40,25,1186,Credit Card,43.0,Delivered,5.0
+ORD00183,2025-10-26,C0293,Gurugram,Healthy Bowl,Healthy,249,20,0,269,UPI,74.0,Delivered,4.0
+ORD00184,2025-02-25,C0047,Delhi,Dosa Point,South Indian,424,40,100,364,UPI,43.0,Delivered,3.0
+ORD00185,2025-10-19,C0287,Gurugram,Biryani House,Indian,892,40,0,932,Wallet,46.0,Delivered,5.0
+ORD00186,2025-03-02,C0375,Mohali,Burger Hub,Fast Food,348,50,0,398,Credit Card,39.0,Delivered,5.0
+ORD00187,2025-11-05,C0486,Gurugram,Dosa Point,South Indian,1174,20,0,1194,Cash on Delivery,63.0,Delivered,3.0
+ORD00188,2025-03-18,C0345,Gurugram,Burger Hub,Fast Food,821,40,0,861,Wallet,57.0,Delivered,3.0
+ORD00189,2025-09-30,C0427,Gurugram,Taco Street,Mexican,763,50,0,813,Debit Card,61.0,Delivered,1.0
+ORD00190,2025-12-19,C0234,Chandigarh,Spice Garden,Indian,1121,40,100,1061,Wallet,67.0,Delivered,5.0
+ORD00191,2025-09-03,C0196,Chandigarh,Burger Hub,Fast Food,928,30,100,858,Cash on Delivery,54.0,Delivered,1.0
+ORD00192,2025-06-10,C0483,Chandigarh,Dosa Point,South Indian,460,50,100,410,Credit Card,50.0,Delivered,5.0
+ORD00193,2025-09-23,C0546,Panchkula,Biryani House,Indian,815,50,50,815,Wallet,29.0,Delivered,4.0
+ORD00194,2025-07-01,C0305,Panchkula,Wok Express,Chinese,1141,30,0,1171,Credit Card,37.0,Delivered,2.0
+ORD00195,2025-12-20,C0295,Chandigarh,Taco Street,Mexican,799,50,0,849,Wallet,68.0,Delivered,3.0
+ORD00196,2025-12-13,C0355,Delhi,Dosa Point,South Indian,958,40,0,998,Debit Card,36.0,Delivered,1.0
+ORD00197,2025-09-03,C0246,Mohali,Biryani House,Indian,563,40,50,553,UPI,26.0,Delivered,1.0
+ORD00198,2025-12-09,C0103,Mohali,Biryani House,Indian,626,20,0,646,UPI,63.0,Delivered,4.0
+ORD00199,2025-10-09,C0329,Panchkula,Burger Hub,Fast Food,983,50,25,1008,UPI,66.0,Delivered,3.0
+ORD00200,2025-02-15,C0407,Delhi,Biryani House,Indian,226,30,25,231,Credit Card,29.0,Delivered,1.0
+ORD00201,2025-05-29,C0466,Gurugram,Spice Garden,Indian,168,40,50,158,Wallet,39.0,Delivered,3.0
+ORD00202,2025-09-10,C0167,Delhi,Burger Hub,Fast Food,1182,50,0,1232,Debit Card,25.0,Delivered,3.0
+ORD00203,2025-04-06,C0416,Delhi,Spice Garden,Indian,840,40,50,830,Wallet,30.0,Delivered,2.0
+ORD00204,2025-06-17,C0489,Panchkula,Pizza Corner,Pizza,970,20,0,0,Credit Card,,Cancelled,
+ORD00205,2025-01-04,C0012,Panchkula,Wok Express,Chinese,935,30,25,940,Debit Card,39.0,Delivered,3.0
+ORD00206,2025-12-21,C0319,Chandigarh,Biryani House,Indian,277,20,25,272,Debit Card,43.0,Delivered,5.0
+ORD00207,2025-07-08,C0383,Delhi,Biryani House,Indian,598,30,25,603,Wallet,65.0,Delivered,5.0
+ORD00208,2025-08-30,C0080,Gurugram,Biryani House,Indian,656,20,50,626,UPI,63.0,Delivered,3.0
+ORD00209,2025-02-01,C0211,Gurugram,Biryani House,Indian,456,30,0,486,Cash on Delivery,46.0,Delivered,1.0
+ORD00210,2025-02-16,C0060,Gurugram,Taco Street,Mexican,263,50,0,313,Cash on Delivery,47.0,Delivered,5.0
+ORD00211,2025-12-11,C0075,Chandigarh,Wok Express,Chinese,194,50,0,244,Cash on Delivery,65.0,Delivered,2.0
+ORD00212,2025-06-26,C0139,Delhi,Pizza Corner,Pizza,273,20,25,268,Debit Card,44.0,Delivered,2.0
+ORD00213,2025-07-15,C0137,Panchkula,Taco Street,Mexican,923,50,0,973,UPI,60.0,Delivered,5.0
+ORD00214,2025-04-02,C0435,Gurugram,Dosa Point,South Indian,410,30,0,440,Cash on Delivery,37.0,Delivered,4.0
+ORD00215,2025-04-28,C0033,Delhi,Biryani House,Indian,1093,40,0,1133,Wallet,74.0,Delivered,1.0
+ORD00216,2025-01-09,C0050,Mohali,Biryani House,Indian,572,20,0,592,UPI,46.0,Delivered,5.0
+ORD00217,2025-07-25,C0327,Gurugram,Taco Street,Mexican,629,30,0,659,Wallet,36.0,Delivered,2.0
+ORD00218,2025-12-11,C0534,Mohali,Healthy Bowl,Healthy,635,40,0,0,Cash on Delivery,,Cancelled,
+ORD00219,2025-06-03,C0049,Panchkula,Wok Express,Chinese,274,30,100,204,Cash on Delivery,53.0,Delivered,4.0
+ORD00220,2025-09-26,C0485,Mohali,Healthy Bowl,Healthy,1002,50,0,1052,Credit Card,29.0,Delivered,5.0
+ORD00221,2025-06-03,C0543,Mohali,Burger Hub,Fast Food,1098,20,50,1068,Cash on Delivery,44.0,Delivered,5.0
+ORD00222,2025-05-05,C0095,Gurugram,Wok Express,Chinese,566,40,100,506,Credit Card,46.0,Delivered,3.0
+ORD00223,2025-01-27,C0223,Delhi,Wok Express,Chinese,922,20,0,942,Credit Card,66.0,Delivered,5.0
+ORD00224,2025-06-20,C0121,Delhi,Wok Express,Chinese,181,30,0,0,Credit Card,,Cancelled,
+ORD00225,2025-12-23,C0478,Gurugram,Biryani House,Indian,962,30,50,942,Debit Card,36.0,Delivered,4.0
+ORD00226,2025-06-07,C0328,Mohali,Wok Express,Chinese,886,50,25,911,Debit Card,64.0,Delivered,4.0
+ORD00227,2025-06-10,C0428,Panchkula,Dosa Point,South Indian,243,30,100,173,Credit Card,34.0,Delivered,5.0
+ORD00228,2025-04-11,C0346,Panchkula,Healthy Bowl,Healthy,621,50,50,621,Cash on Delivery,49.0,Delivered,5.0
+ORD00229,2025-11-25,C0501,Mohali,Taco Street,Mexican,1093,30,100,1023,Wallet,28.0,Delivered,2.0
+ORD00230,2025-11-25,C0141,Mohali,Spice Garden,Indian,219,20,100,139,UPI,18.0,Delivered,4.0
+ORD00231,2025-12-29,C0495,Delhi,Burger Hub,Fast Food,168,30,50,148,UPI,21.0,Delivered,5.0
+ORD00232,2025-01-04,C0018,Gurugram,Dosa Point,South Indian,174,20,50,144,Cash on Delivery,52.0,Delivered,3.0
+ORD00233,2025-04-02,C0363,Panchkula,Pizza Corner,Pizza,347,30,0,377,Cash on Delivery,51.0,Delivered,3.0
+ORD00234,2025-02-10,C0308,Chandigarh,Healthy Bowl,Healthy,981,50,50,981,UPI,62.0,Delivered,2.0
+ORD00235,2025-02-17,C0176,Chandigarh,Dosa Point,South Indian,926,50,50,926,Cash on Delivery,58.0,Delivered,1.0
+ORD00236,2025-08-11,C0487,Panchkula,Healthy Bowl,Healthy,345,20,0,365,UPI,73.0,Delivered,5.0
+ORD00237,2025-02-08,C0148,Delhi,Wok Express,Chinese,217,30,0,247,UPI,31.0,Delivered,5.0
+ORD00238,2025-06-03,C0144,Chandigarh,Burger Hub,Fast Food,642,50,100,592,Wallet,39.0,Delivered,4.0
+ORD00239,2025-06-27,C0407,Panchkula,Spice Garden,Indian,350,50,0,400,UPI,39.0,Delivered,5.0
+ORD00240,2025-11-21,C0191,Gurugram,Wok Express,Chinese,1072,50,0,1122,Cash on Delivery,42.0,Delivered,4.0
+ORD00241,2025-02-13,C0399,Panchkula,Wok Express,Chinese,654,20,0,674,Debit Card,42.0,Delivered,2.0
+ORD00242,2025-02-24,C0136,Chandigarh,Pizza Corner,Pizza,160,40,25,175,Credit Card,35.0,Delivered,1.0
+ORD00243,2025-08-09,C0096,Gurugram,Taco Street,Mexican,1199,50,0,1249,Wallet,40.0,Delivered,5.0
+ORD00244,2025-06-16,C0249,Gurugram,Dosa Point,South Indian,175,40,25,190,Wallet,23.0,Delivered,5.0
+ORD00245,2025-03-28,C0065,Mohali,Dosa Point,South Indian,497,30,0,527,Cash on Delivery,49.0,Delivered,2.0
+ORD00246,2025-05-22,C0201,Delhi,Dosa Point,South Indian,763,50,0,813,UPI,33.0,Delivered,4.0
+ORD00247,2025-03-11,C0451,Panchkula,Wok Express,Chinese,163,50,0,213,Cash on Delivery,42.0,Delivered,3.0
+ORD00248,2025-11-30,C0206,Delhi,Burger Hub,Fast Food,765,40,50,0,Debit Card,,Cancelled,
+ORD00249,2025-04-01,C0249,Panchkula,Dosa Point,South Indian,803,40,100,743,Cash on Delivery,49.0,Delivered,5.0
+ORD00250,2025-05-24,C0028,Delhi,Dosa Point,South Indian,897,20,50,867,Credit Card,52.0,Delivered,2.0
+ORD00251,2025-08-13,C0248,Panchkula,Wok Express,Chinese,291,50,100,241,Credit Card,58.0,Delivered,3.0
+ORD00252,2025-08-05,C0519,Delhi,Dosa Point,South Indian,301,50,50,301,Wallet,43.0,Delivered,5.0
+ORD00253,2025-01-19,C0046,Gurugram,Healthy Bowl,Healthy,324,20,0,344,Cash on Delivery,40.0,Delivered,2.0
+ORD00254,2025-06-19,C0227,Delhi,Dosa Point,South Indian,366,20,0,386,Debit Card,50.0,Delivered,5.0
+ORD00255,2025-07-20,C0495,Chandigarh,Taco Street,Mexican,1174,30,0,0,Debit Card,,Cancelled,
+ORD00256,2025-08-01,C0534,Delhi,Pizza Corner,Pizza,387,30,0,417,Debit Card,47.0,Delivered,2.0
+ORD00257,2025-09-01,C0024,Panchkula,Pizza Corner,Pizza,1047,50,0,1097,UPI,20.0,Delivered,1.0
+ORD00258,2025-12-13,C0474,Mohali,Burger Hub,Fast Food,649,30,50,629,Cash on Delivery,53.0,Delivered,4.0
+ORD00259,2025-11-19,C0461,Gurugram,Burger Hub,Fast Food,531,50,25,556,Cash on Delivery,57.0,Delivered,2.0
+ORD00260,2025-07-19,C0105,Gurugram,Spice Garden,Indian,589,30,0,619,Credit Card,69.0,Delivered,1.0
+ORD00261,2025-07-07,C0541,Panchkula,Healthy Bowl,Healthy,553,50,0,603,Wallet,73.0,Delivered,4.0
+ORD00262,2025-07-18,C0305,Gurugram,Dosa Point,South Indian,383,40,0,423,Wallet,57.0,Delivered,2.0
+ORD00263,2025-02-13,C0145,Gurugram,Burger Hub,Fast Food,791,20,0,811,Cash on Delivery,29.0,Delivered,3.0
+ORD00264,2025-08-03,C0171,Delhi,Burger Hub,Fast Food,935,50,0,985,Debit Card,52.0,Delivered,2.0
+ORD00265,2025-03-13,C0497,Mohali,Burger Hub,Fast Food,794,50,50,794,Credit Card,40.0,Delivered,1.0
+ORD00266,2025-07-16,C0172,Chandigarh,Taco Street,Mexican,987,50,25,1012,Wallet,46.0,Delivered,4.0
+ORD00267,2025-01-16,C0469,Gurugram,Biryani House,Indian,748,20,0,768,Cash on Delivery,36.0,Delivered,2.0
+ORD00268,2025-10-09,C0043,Delhi,Pizza Corner,Pizza,383,40,50,373,Wallet,41.0,Delivered,5.0
+ORD00269,2025-04-22,C0270,Panchkula,Dosa Point,South Indian,359,30,0,389,UPI,20.0,Delivered,4.0
+ORD00270,2025-08-13,C0439,Mohali,Pizza Corner,Pizza,635,30,100,565,Wallet,40.0,Delivered,5.0
+ORD00271,2025-03-13,C0173,Panchkula,Biryani House,Indian,573,20,50,543,Debit Card,35.0,Delivered,5.0
+ORD00272,2025-05-29,C0136,Mohali,Wok Express,Chinese,345,30,25,350,Credit Card,35.0,Delivered,2.0
+ORD00273,2025-12-31,C0425,Delhi,Healthy Bowl,Healthy,656,50,25,681,Cash on Delivery,58.0,Delivered,3.0
+ORD00274,2025-02-08,C0500,Panchkula,Pizza Corner,Pizza,975,40,100,915,Wallet,41.0,Delivered,4.0
+ORD00275,2025-01-02,C0440,Mohali,Pizza Corner,Pizza,1088,40,0,1128,Cash on Delivery,43.0,Delivered,2.0
+ORD00276,2025-05-18,C0352,Chandigarh,Healthy Bowl,Healthy,730,40,50,720,UPI,54.0,Delivered,4.0
+ORD00277,2025-02-20,C0208,Mohali,Taco Street,Mexican,183,20,0,203,Debit Card,18.0,Delivered,4.0
+ORD00278,2025-03-23,C0054,Delhi,Wok Express,Chinese,341,40,0,381,Debit Card,60.0,Delivered,2.0
+ORD00279,2025-12-25,C0080,Mohali,Biryani House,Indian,1029,20,100,949,Wallet,31.0,Delivered,4.0
+ORD00280,2025-04-26,C0136,Delhi,Taco Street,Mexican,169,20,100,89,UPI,25.0,Delivered,4.0
+ORD00281,2025-04-28,C0141,Delhi,Dosa Point,South Indian,332,20,0,352,Credit Card,74.0,Delivered,3.0
+ORD00282,2025-11-25,C0219,Mohali,Burger Hub,Fast Food,290,20,50,260,Cash on Delivery,46.0,Delivered,3.0
+ORD00283,2025-11-12,C0394,Panchkula,Taco Street,Mexican,594,20,0,614,Cash on Delivery,25.0,Delivered,5.0
+ORD00284,2025-06-11,C0292,Chandigarh,Burger Hub,Fast Food,657,40,100,597,Debit Card,53.0,Delivered,5.0
+ORD00285,2025-04-16,C0507,Delhi,Biryani House,Indian,952,40,100,892,UPI,75.0,Delivered,2.0
+ORD00286,2025-05-04,C0431,Panchkula,Taco Street,Mexican,295,20,0,315,Wallet,26.0,Delivered,4.0
+ORD00287,2025-12-16,C0221,Chandigarh,Burger Hub,Fast Food,1114,20,0,1134,UPI,18.0,Delivered,3.0
+ORD00288,2025-07-23,C0157,Panchkula,Wok Express,Chinese,1176,50,25,1201,UPI,23.0,Delivered,5.0
+ORD00289,2025-06-08,C0068,Panchkula,Pizza Corner,Pizza,1197,30,0,1227,Cash on Delivery,43.0,Delivered,5.0
+ORD00290,2025-05-03,C0057,Panchkula,Spice Garden,Indian,650,20,25,645,Credit Card,57.0,Delivered,5.0
+ORD00291,2025-03-03,C0530,Panchkula,Spice Garden,Indian,431,20,0,451,Credit Card,40.0,Delivered,5.0
+ORD00292,2025-07-10,C0537,Chandigarh,Burger Hub,Fast Food,700,20,0,720,Debit Card,45.0,Delivered,3.0
+ORD00293,2025-12-31,C0171,Panchkula,Pizza Corner,Pizza,1166,50,50,1166,Credit Card,49.0,Delivered,5.0
+ORD00294,2025-05-11,C0251,Chandigarh,Pizza Corner,Pizza,386,30,100,316,Cash on Delivery,20.0,Delivered,1.0
+ORD00295,2025-07-06,C0230,Panchkula,Dosa Point,South Indian,457,30,0,487,Credit Card,63.0,Delivered,4.0
+ORD00296,2025-08-02,C0184,Mohali,Healthy Bowl,Healthy,705,20,50,675,Wallet,50.0,Delivered,1.0
+ORD00297,2025-01-24,C0089,Gurugram,Dosa Point,South Indian,291,50,0,341,Cash on Delivery,37.0,Delivered,3.0
+ORD00298,2025-01-05,C0249,Delhi,Healthy Bowl,Healthy,560,40,50,550,Debit Card,65.0,Delivered,5.0
+ORD00299,2025-10-30,C0239,Gurugram,Taco Street,Mexican,550,30,0,580,Debit Card,44.0,Delivered,1.0
+ORD00300,2025-11-22,C0107,Mohali,Spice Garden,Indian,836,20,100,756,Wallet,65.0,Delivered,3.0
+ORD00301,2025-05-02,C0238,Gurugram,Dosa Point,South Indian,1157,20,0,1177,Cash on Delivery,23.0,Delivered,1.0
+ORD00302,2025-12-25,C0077,Gurugram,Healthy Bowl,Healthy,1088,20,50,1058,Wallet,26.0,Delivered,4.0
+ORD00303,2025-02-01,C0335,Panchkula,Dosa Point,South Indian,417,30,0,447,Cash on Delivery,38.0,Delivered,4.0
+ORD00304,2025-05-20,C0160,Chandigarh,Biryani House,Indian,302,30,0,332,Credit Card,55.0,Delivered,1.0
+ORD00305,2025-08-19,C0463,Panchkula,Taco Street,Mexican,793,50,0,843,Cash on Delivery,67.0,Delivered,2.0
+ORD00306,2025-05-16,C0042,Mohali,Pizza Corner,Pizza,335,30,100,265,Debit Card,63.0,Delivered,5.0
+ORD00307,2025-03-17,C0267,Mohali,Pizza Corner,Pizza,658,40,25,673,UPI,61.0,Delivered,3.0
+ORD00308,2025-07-27,C0125,Chandigarh,Taco Street,Mexican,661,20,25,656,UPI,68.0,Delivered,2.0
+ORD00309,2025-04-24,C0266,Chandigarh,Burger Hub,Fast Food,555,50,0,605,UPI,59.0,Delivered,1.0
+ORD00310,2025-02-03,C0126,Chandigarh,Biryani House,Indian,1058,30,0,1088,Cash on Delivery,71.0,Delivered,3.0
+ORD00311,2025-01-26,C0177,Panchkula,Burger Hub,Fast Food,1037,50,25,1062,Credit Card,61.0,Delivered,4.0
+ORD00312,2025-04-06,C0252,Panchkula,Wok Express,Chinese,723,50,0,773,Cash on Delivery,57.0,Delivered,5.0
+ORD00313,2025-07-30,C0539,Mohali,Taco Street,Mexican,274,20,0,294,Wallet,44.0,Delivered,2.0
+ORD00314,2025-01-10,C0515,Panchkula,Dosa Point,South Indian,885,50,50,885,Cash on Delivery,40.0,Delivered,5.0
+ORD00315,2025-05-19,C0060,Delhi,Burger Hub,Fast Food,203,40,50,193,Wallet,75.0,Delivered,3.0
+ORD00316,2025-07-03,C0058,Mohali,Biryani House,Indian,476,20,0,496,Wallet,35.0,Delivered,5.0
+ORD00317,2025-07-18,C0029,Panchkula,Healthy Bowl,Healthy,505,30,0,535,Wallet,69.0,Delivered,3.0
+ORD00318,2025-10-16,C0093,Chandigarh,Burger Hub,Fast Food,535,50,50,535,Credit Card,49.0,Delivered,1.0
+ORD00319,2025-11-05,C0134,Panchkula,Biryani House,Indian,190,50,0,240,Credit Card,57.0,Delivered,2.0
+ORD00320,2025-06-15,C0539,Panchkula,Spice Garden,Indian,194,30,50,174,UPI,27.0,Delivered,1.0
+ORD00321,2025-07-11,C0499,Panchkula,Dosa Point,South Indian,356,40,0,396,Credit Card,28.0,Delivered,4.0
+ORD00322,2025-12-29,C0131,Mohali,Healthy Bowl,Healthy,607,30,25,612,UPI,62.0,Delivered,3.0
+ORD00323,2025-12-26,C0227,Gurugram,Dosa Point,South Indian,216,30,50,196,UPI,69.0,Delivered,5.0
+ORD00324,2025-09-12,C0091,Panchkula,Burger Hub,Fast Food,828,20,0,848,Cash on Delivery,38.0,Delivered,2.0
+ORD00325,2025-01-06,C0002,Chandigarh,Wok Express,Chinese,579,30,100,509,Cash on Delivery,34.0,Delivered,1.0
+ORD00326,2025-08-13,C0385,Chandigarh,Dosa Point,South Indian,490,50,25,515,Cash on Delivery,40.0,Delivered,5.0
+ORD00327,2025-10-23,C0021,Panchkula,Biryani House,Indian,483,50,0,533,Debit Card,20.0,Delivered,3.0
+ORD00328,2025-02-23,C0096,Panchkula,Pizza Corner,Pizza,850,30,25,855,Wallet,22.0,Delivered,5.0
+ORD00329,2025-11-11,C0161,Chandigarh,Taco Street,Mexican,213,50,100,163,UPI,74.0,Delivered,4.0
+ORD00330,2025-06-19,C0272,Panchkula,Biryani House,Indian,539,50,100,489,Debit Card,64.0,Delivered,5.0
+ORD00331,2025-05-02,C0056,Panchkula,Pizza Corner,Pizza,251,50,50,251,UPI,49.0,Delivered,2.0
+ORD00332,2025-08-07,C0299,Chandigarh,Pizza Corner,Pizza,753,50,0,803,Cash on Delivery,31.0,Delivered,2.0
+ORD00333,2025-03-01,C0397,Mohali,Wok Express,Chinese,964,50,25,989,Debit Card,34.0,Delivered,1.0
+ORD00334,2025-07-15,C0232,Panchkula,Healthy Bowl,Healthy,532,50,0,582,Wallet,47.0,Delivered,3.0
+ORD00335,2025-02-01,C0233,Gurugram,Burger Hub,Fast Food,348,20,100,268,UPI,52.0,Delivered,4.0
+ORD00336,2025-07-18,C0515,Gurugram,Dosa Point,South Indian,1122,30,25,1127,Wallet,43.0,Delivered,1.0
+ORD00337,2025-10-20,C0172,Mohali,Burger Hub,Fast Food,396,50,0,0,Credit Card,,Cancelled,
+ORD00338,2025-03-06,C0265,Panchkula,Spice Garden,Indian,1017,20,100,937,UPI,70.0,Delivered,2.0
+ORD00339,2025-02-14,C0536,Delhi,Dosa Point,South Indian,963,40,0,1003,UPI,73.0,Delivered,1.0
+ORD00340,2025-08-01,C0549,Panchkula,Burger Hub,Fast Food,453,20,0,473,Cash on Delivery,24.0,Delivered,3.0
+ORD00341,2025-05-16,C0412,Chandigarh,Dosa Point,South Indian,1144,50,0,1194,Cash on Delivery,43.0,Delivered,2.0
+ORD00342,2025-06-19,C0311,Panchkula,Biryani House,Indian,250,50,0,300,Debit Card,19.0,Delivered,3.0
+ORD00343,2025-09-09,C0454,Panchkula,Pizza Corner,Pizza,616,30,0,0,Debit Card,,Cancelled,
+ORD00344,2025-08-02,C0529,Panchkula,Pizza Corner,Pizza,534,50,0,584,UPI,44.0,Delivered,4.0
+ORD00345,2025-09-21,C0030,Mohali,Burger Hub,Fast Food,284,40,100,224,Credit Card,26.0,Delivered,5.0
+ORD00346,2025-04-13,C0281,Panchkula,Spice Garden,Indian,660,20,25,655,Cash on Delivery,41.0,Delivered,2.0
+ORD00347,2025-09-16,C0182,Delhi,Dosa Point,South Indian,403,20,0,423,Wallet,56.0,Delivered,4.0
+ORD00348,2025-10-10,C0292,Chandigarh,Healthy Bowl,Healthy,855,30,0,885,Cash on Delivery,62.0,Delivered,1.0
+ORD00349,2025-01-26,C0420,Gurugram,Burger Hub,Fast Food,588,30,100,518,UPI,31.0,Delivered,3.0
+ORD00350,2025-12-16,C0230,Panchkula,Spice Garden,Indian,1120,30,100,1050,Wallet,69.0,Delivered,1.0
+ORD00351,2025-06-06,C0310,Gurugram,Wok Express,Chinese,1017,50,0,1067,Wallet,31.0,Delivered,4.0
+ORD00352,2025-07-23,C0306,Chandigarh,Pizza Corner,Pizza,165,40,50,155,Cash on Delivery,56.0,Delivered,3.0
+ORD00353,2025-02-02,C0193,Mohali,Healthy Bowl,Healthy,716,40,0,756,Wallet,63.0,Delivered,3.0
+ORD00354,2025-05-04,C0303,Panchkula,Spice Garden,Indian,977,40,100,917,Cash on Delivery,19.0,Delivered,4.0
+ORD00355,2025-07-27,C0488,Panchkula,Dosa Point,South Indian,222,30,0,252,Wallet,32.0,Delivered,5.0
+ORD00356,2025-06-03,C0188,Panchkula,Burger Hub,Fast Food,520,40,0,560,UPI,65.0,Delivered,3.0
+ORD00357,2025-04-24,C0267,Gurugram,Healthy Bowl,Healthy,607,40,25,622,Debit Card,39.0,Delivered,3.0
+ORD00358,2025-08-26,C0484,Mohali,Pizza Corner,Pizza,1113,20,100,1033,Wallet,57.0,Delivered,1.0
+ORD00359,2025-03-03,C0206,Panchkula,Dosa Point,South Indian,761,50,0,811,Cash on Delivery,27.0,Delivered,2.0
+ORD00360,2025-10-19,C0341,Mohali,Taco Street,Mexican,443,40,100,383,Debit Card,23.0,Delivered,4.0
+ORD00361,2025-11-21,C0163,Delhi,Spice Garden,Indian,159,50,0,209,UPI,67.0,Delivered,2.0
+ORD00362,2025-03-08,C0393,Chandigarh,Dosa Point,South Indian,1029,50,25,0,UPI,,Cancelled,
+ORD00363,2025-10-01,C0019,Chandigarh,Biryani House,Indian,914,20,0,934,Credit Card,51.0,Delivered,2.0
+ORD00364,2025-04-26,C0172,Chandigarh,Healthy Bowl,Healthy,789,30,0,819,UPI,55.0,Delivered,3.0
+ORD00365,2025-06-02,C0502,Panchkula,Wok Express,Chinese,1083,40,25,1098,Credit Card,26.0,Delivered,3.0
+ORD00366,2025-03-26,C0023,Gurugram,Dosa Point,South Indian,189,30,0,219,Wallet,26.0,Delivered,2.0
+ORD00367,2025-03-28,C0050,Gurugram,Pizza Corner,Pizza,900,20,25,895,UPI,34.0,Delivered,5.0
+ORD00368,2025-12-05,C0127,Gurugram,Pizza Corner,Pizza,190,20,100,110,Debit Card,46.0,Delivered,4.0
+ORD00369,2025-08-31,C0277,Gurugram,Burger Hub,Fast Food,570,20,0,590,Wallet,24.0,Delivered,5.0
+ORD00370,2025-12-25,C0117,Chandigarh,Burger Hub,Fast Food,1007,20,50,977,Cash on Delivery,25.0,Delivered,3.0
+ORD00371,2025-04-12,C0041,Gurugram,Biryani House,Indian,688,30,0,718,Cash on Delivery,36.0,Delivered,2.0
+ORD00372,2025-04-17,C0506,Mohali,Taco Street,Mexican,827,30,0,857,UPI,23.0,Delivered,1.0
+ORD00373,2025-09-19,C0476,Chandigarh,Pizza Corner,Pizza,357,40,100,297,UPI,36.0,Delivered,3.0
+ORD00374,2025-03-31,C0098,Chandigarh,Spice Garden,Indian,745,40,100,685,UPI,65.0,Delivered,1.0
+ORD00375,2025-03-12,C0275,Chandigarh,Burger Hub,Fast Food,823,40,25,0,Debit Card,,Cancelled,
+ORD00376,2025-06-25,C0279,Delhi,Burger Hub,Fast Food,383,50,25,0,Cash on Delivery,,Cancelled,
+ORD00377,2025-08-04,C0107,Delhi,Burger Hub,Fast Food,381,30,100,311,Wallet,72.0,Delivered,2.0
+ORD00378,2025-09-05,C0495,Delhi,Taco Street,Mexican,521,50,0,571,UPI,73.0,Delivered,2.0
+ORD00379,2025-07-30,C0230,Panchkula,Taco Street,Mexican,244,20,0,264,Wallet,18.0,Delivered,5.0
+ORD00380,2025-09-25,C0153,Gurugram,Pizza Corner,Pizza,1036,30,25,1041,Wallet,61.0,Delivered,4.0
+ORD00381,2025-01-28,C0329,Mohali,Spice Garden,Indian,471,50,25,496,Debit Card,22.0,Delivered,4.0
+ORD00382,2025-05-23,C0081,Delhi,Spice Garden,Indian,1188,30,50,1168,Cash on Delivery,43.0,Delivered,2.0
+ORD00383,2025-10-21,C0106,Delhi,Taco Street,Mexican,330,50,25,355,Cash on Delivery,49.0,Delivered,1.0
+ORD00384,2025-01-19,C0350,Panchkula,Spice Garden,Indian,336,40,50,326,UPI,59.0,Delivered,4.0
+ORD00385,2025-04-25,C0117,Chandigarh,Taco Street,Mexican,829,50,100,779,Credit Card,63.0,Delivered,4.0
+ORD00386,2025-01-02,C0047,Mohali,Healthy Bowl,Healthy,877,40,50,867,Cash on Delivery,62.0,Delivered,1.0
+ORD00387,2025-03-13,C0221,Delhi,Dosa Point,South Indian,369,40,50,359,Credit Card,25.0,Delivered,4.0
+ORD00388,2025-06-23,C0462,Delhi,Pizza Corner,Pizza,998,20,100,918,Wallet,55.0,Delivered,1.0
+ORD00389,2025-09-16,C0495,Gurugram,Burger Hub,Fast Food,1171,20,50,1141,Credit Card,53.0,Delivered,4.0
+ORD00390,2025-12-21,C0517,Delhi,Burger Hub,Fast Food,412,20,25,407,Cash on Delivery,56.0,Delivered,3.0
+ORD00391,2025-11-08,C0464,Mohali,Biryani House,Indian,710,50,0,0,Credit Card,,Cancelled,
+ORD00392,2025-07-31,C0354,Mohali,Wok Express,Chinese,792,30,0,822,Credit Card,63.0,Delivered,3.0
+ORD00393,2025-09-15,C0547,Panchkula,Healthy Bowl,Healthy,386,40,50,376,Cash on Delivery,54.0,Delivered,4.0
+ORD00394,2025-01-07,C0274,Mohali,Pizza Corner,Pizza,201,50,0,251,Debit Card,21.0,Delivered,2.0
+ORD00395,2025-12-16,C0034,Panchkula,Wok Express,Chinese,449,20,100,369,Cash on Delivery,31.0,Delivered,5.0
+ORD00396,2025-02-22,C0049,Delhi,Biryani House,Indian,946,30,50,926,Cash on Delivery,69.0,Delivered,3.0
+ORD00397,2025-08-02,C0231,Panchkula,Healthy Bowl,Healthy,260,20,100,180,Wallet,57.0,Delivered,4.0
+ORD00398,2025-10-07,C0192,Mohali,Biryani House,Indian,546,40,25,561,Wallet,61.0,Delivered,1.0
+ORD00399,2025-03-03,C0262,Chandigarh,Dosa Point,South Indian,233,50,0,283,Debit Card,26.0,Delivered,2.0
+ORD00400,2025-08-27,C0309,Delhi,Burger Hub,Fast Food,231,30,0,261,Wallet,67.0,Delivered,5.0
+ORD00401,2025-10-09,C0070,Gurugram,Healthy Bowl,Healthy,299,40,50,289,Credit Card,29.0,Delivered,5.0
+ORD00402,2025-08-01,C0340,Panchkula,Dosa Point,South Indian,338,40,0,378,Debit Card,60.0,Delivered,3.0
+ORD00403,2025-04-22,C0250,Chandigarh,Taco Street,Mexican,168,20,100,88,Debit Card,33.0,Delivered,5.0
+ORD00404,2025-07-15,C0384,Gurugram,Pizza Corner,Pizza,940,40,50,930,Wallet,19.0,Delivered,5.0
+ORD00405,2025-08-17,C0099,Mohali,Taco Street,Mexican,239,40,100,179,Wallet,50.0,Delivered,1.0
+ORD00406,2025-10-01,C0107,Mohali,Spice Garden,Indian,284,30,100,214,Wallet,31.0,Delivered,4.0
+ORD00407,2025-12-26,C0090,Chandigarh,Dosa Point,South Indian,297,30,0,327,UPI,39.0,Delivered,1.0
+ORD00408,2025-04-02,C0444,Panchkula,Wok Express,Chinese,294,30,0,324,UPI,46.0,Delivered,4.0
+ORD00409,2025-07-19,C0367,Gurugram,Pizza Corner,Pizza,162,20,100,82,UPI,62.0,Delivered,1.0
+ORD00410,2025-05-29,C0486,Mohali,Wok Express,Chinese,327,40,25,342,Wallet,70.0,Delivered,1.0
+ORD00411,2025-04-23,C0012,Gurugram,Burger Hub,Fast Food,950,40,100,890,Wallet,61.0,Delivered,3.0
+ORD00412,2025-03-14,C0088,Panchkula,Pizza Corner,Pizza,235,20,50,205,Credit Card,52.0,Delivered,5.0
+ORD00413,2025-06-26,C0199,Chandigarh,Biryani House,Indian,995,30,0,1025,Credit Card,57.0,Delivered,3.0
+ORD00414,2025-12-10,C0203,Gurugram,Spice Garden,Indian,1094,20,0,1114,Cash on Delivery,34.0,Delivered,1.0
+ORD00415,2025-06-19,C0326,Delhi,Healthy Bowl,Healthy,412,30,0,442,Cash on Delivery,22.0,Delivered,2.0
+ORD00416,2025-06-18,C0173,Chandigarh,Wok Express,Chinese,462,40,0,0,Debit Card,,Cancelled,
+ORD00417,2025-05-07,C0492,Delhi,Biryani House,Indian,1043,40,0,1083,Cash on Delivery,64.0,Delivered,3.0
+ORD00418,2025-07-03,C0144,Gurugram,Wok Express,Chinese,1147,20,0,1167,Credit Card,23.0,Delivered,3.0
+ORD00419,2025-05-15,C0415,Gurugram,Pizza Corner,Pizza,304,20,50,274,Credit Card,70.0,Delivered,5.0
+ORD00420,2025-01-19,C0298,Mohali,Wok Express,Chinese,1116,30,0,1146,Cash on Delivery,75.0,Delivered,5.0
+ORD00421,2025-09-14,C0170,Gurugram,Pizza Corner,Pizza,962,40,50,952,Credit Card,33.0,Delivered,5.0
+ORD00422,2025-08-17,C0225,Delhi,Burger Hub,Fast Food,516,30,100,446,Credit Card,40.0,Delivered,1.0
+ORD00423,2025-02-02,C0398,Delhi,Wok Express,Chinese,906,30,0,936,Cash on Delivery,51.0,Delivered,3.0
+ORD00424,2025-01-24,C0281,Panchkula,Spice Garden,Indian,813,20,100,0,Wallet,,Cancelled,
+ORD00425,2025-10-06,C0530,Panchkula,Burger Hub,Fast Food,921,50,0,971,Cash on Delivery,75.0,Delivered,1.0
+ORD00426,2025-04-25,C0007,Gurugram,Dosa Point,South Indian,872,40,25,887,Credit Card,74.0,Delivered,5.0
+ORD00427,2025-08-14,C0192,Mohali,Burger Hub,Fast Food,621,20,50,591,Debit Card,31.0,Delivered,2.0
+ORD00428,2025-11-05,C0491,Mohali,Pizza Corner,Pizza,621,50,0,671,Wallet,48.0,Delivered,4.0
+ORD00429,2025-03-24,C0138,Gurugram,Dosa Point,South Indian,195,30,0,225,UPI,55.0,Delivered,2.0
+ORD00430,2025-10-21,C0020,Panchkula,Burger Hub,Fast Food,264,30,0,294,UPI,51.0,Delivered,4.0
+ORD00431,2025-04-21,C0147,Gurugram,Taco Street,Mexican,1115,50,0,1165,Credit Card,44.0,Delivered,5.0
+ORD00432,2025-11-16,C0388,Delhi,Wok Express,Chinese,493,40,25,508,Credit Card,22.0,Delivered,2.0
+ORD00433,2025-02-25,C0040,Gurugram,Spice Garden,Indian,564,50,0,614,Wallet,29.0,Delivered,4.0
+ORD00434,2025-03-02,C0535,Delhi,Pizza Corner,Pizza,1137,30,50,1117,Debit Card,18.0,Delivered,4.0
+ORD00435,2025-01-23,C0101,Delhi,Dosa Point,South Indian,619,50,25,644,Credit Card,69.0,Delivered,5.0
+ORD00436,2025-05-11,C0264,Mohali,Taco Street,Mexican,626,20,0,646,UPI,52.0,Delivered,4.0
+ORD00437,2025-12-30,C0419,Panchkula,Spice Garden,Indian,391,20,25,386,UPI,62.0,Delivered,3.0
+ORD00438,2025-03-21,C0283,Delhi,Dosa Point,South Indian,669,40,50,659,Credit Card,41.0,Delivered,5.0
+ORD00439,2025-07-31,C0353,Delhi,Taco Street,Mexican,516,40,50,506,Credit Card,34.0,Delivered,3.0
+ORD00440,2025-12-04,C0103,Mohali,Pizza Corner,Pizza,620,50,100,0,Wallet,,Cancelled,
+ORD00441,2025-07-25,C0006,Chandigarh,Healthy Bowl,Healthy,256,30,25,0,Credit Card,,Cancelled,
+ORD00442,2025-08-30,C0039,Delhi,Dosa Point,South Indian,330,20,0,350,Cash on Delivery,23.0,Delivered,5.0
+ORD00443,2025-11-11,C0531,Panchkula,Wok Express,Chinese,267,30,100,197,Credit Card,18.0,Delivered,2.0
+ORD00444,2025-01-18,C0089,Panchkula,Biryani House,Indian,497,20,0,517,Cash on Delivery,18.0,Delivered,2.0
+ORD00445,2025-06-30,C0093,Gurugram,Dosa Point,South Indian,980,30,50,960,Debit Card,63.0,Delivered,1.0
+ORD00446,2025-10-14,C0414,Gurugram,Healthy Bowl,Healthy,861,40,0,901,UPI,30.0,Delivered,4.0
+ORD00447,2025-05-14,C0120,Gurugram,Burger Hub,Fast Food,983,20,50,953,Debit Card,36.0,Delivered,3.0
+ORD00448,2025-10-03,C0470,Delhi,Wok Express,Chinese,1056,50,50,1056,Wallet,33.0,Delivered,3.0
+ORD00449,2025-01-15,C0236,Panchkula,Taco Street,Mexican,388,40,0,428,Cash on Delivery,68.0,Delivered,2.0
+ORD00450,2025-06-30,C0078,Gurugram,Spice Garden,Indian,689,30,0,719,Credit Card,61.0,Delivered,3.0
+ORD00451,2025-09-01,C0511,Mohali,Healthy Bowl,Healthy,874,30,50,854,Credit Card,65.0,Delivered,2.0
+ORD00452,2025-05-04,C0365,Mohali,Wok Express,Chinese,573,30,0,603,UPI,71.0,Delivered,5.0
+ORD00453,2025-03-03,C0494,Panchkula,Pizza Corner,Pizza,1158,20,50,0,Wallet,,Cancelled,
+ORD00454,2025-06-11,C0524,Panchkula,Taco Street,Mexican,712,50,0,0,Cash on Delivery,,Cancelled,
+ORD00455,2025-04-24,C0356,Delhi,Burger Hub,Fast Food,260,50,25,285,Credit Card,20.0,Delivered,5.0
+ORD00456,2025-08-23,C0389,Gurugram,Pizza Corner,Pizza,1092,40,100,1032,UPI,61.0,Delivered,2.0
+ORD00457,2025-06-16,C0352,Panchkula,Healthy Bowl,Healthy,681,30,50,661,Credit Card,35.0,Delivered,4.0
+ORD00458,2025-09-13,C0287,Delhi,Dosa Point,South Indian,581,50,100,531,Credit Card,41.0,Delivered,4.0
+ORD00459,2025-10-20,C0443,Delhi,Burger Hub,Fast Food,618,20,100,538,Credit Card,33.0,Delivered,5.0
+ORD00460,2025-03-16,C0547,Panchkula,Burger Hub,Fast Food,1118,20,0,1138,Cash on Delivery,26.0,Delivered,5.0
+ORD00461,2025-06-03,C0261,Delhi,Wok Express,Chinese,247,50,0,297,UPI,21.0,Delivered,2.0
+ORD00462,2025-08-19,C0353,Chandigarh,Healthy Bowl,Healthy,682,40,0,722,Cash on Delivery,69.0,Delivered,3.0
+ORD00463,2025-03-04,C0500,Delhi,Healthy Bowl,Healthy,557,30,0,587,UPI,61.0,Delivered,5.0
+ORD00464,2025-07-15,C0415,Chandigarh,Wok Express,Chinese,1099,30,0,1129,UPI,39.0,Delivered,4.0
+ORD00465,2025-03-24,C0405,Panchkula,Healthy Bowl,Healthy,617,40,0,657,Cash on Delivery,63.0,Delivered,3.0
+ORD00466,2025-07-05,C0258,Chandigarh,Taco Street,Mexican,997,30,0,1027,Credit Card,26.0,Delivered,2.0
+ORD00467,2025-03-27,C0056,Chandigarh,Dosa Point,South Indian,360,20,0,380,Cash on Delivery,48.0,Delivered,5.0
+ORD00468,2025-09-26,C0317,Mohali,Pizza Corner,Pizza,362,40,50,352,Credit Card,59.0,Delivered,4.0
+ORD00469,2025-05-26,C0366,Panchkula,Taco Street,Mexican,408,30,50,388,Cash on Delivery,19.0,Delivered,1.0
+ORD00470,2025-08-28,C0468,Gurugram,Wok Express,Chinese,1061,30,100,991,Cash on Delivery,55.0,Delivered,5.0
+ORD00471,2025-09-26,C0316,Panchkula,Wok Express,Chinese,861,50,50,861,Cash on Delivery,23.0,Delivered,4.0
+ORD00472,2025-05-14,C0353,Panchkula,Burger Hub,Fast Food,771,20,0,791,Cash on Delivery,66.0,Delivered,2.0
+ORD00473,2025-10-01,C0237,Chandigarh,Spice Garden,Indian,1157,50,0,1207,Wallet,45.0,Delivered,3.0
+ORD00474,2025-07-11,C0388,Mohali,Biryani House,Indian,993,50,25,1018,Debit Card,63.0,Delivered,4.0
+ORD00475,2025-02-10,C0423,Mohali,Dosa Point,South Indian,640,40,0,680,UPI,52.0,Delivered,3.0
+ORD00476,2025-04-04,C0504,Mohali,Burger Hub,Fast Food,743,20,100,663,Debit Card,46.0,Delivered,3.0
+ORD00477,2025-01-10,C0289,Panchkula,Burger Hub,Fast Food,251,20,0,0,Credit Card,,Cancelled,
+ORD00478,2025-08-13,C0431,Panchkula,Spice Garden,Indian,626,20,0,646,Cash on Delivery,31.0,Delivered,3.0
+ORD00479,2025-07-10,C0273,Delhi,Taco Street,Mexican,214,40,0,254,UPI,27.0,Delivered,1.0
+ORD00480,2025-10-06,C0125,Mohali,Taco Street,Mexican,521,30,0,551,Cash on Delivery,71.0,Delivered,1.0
+ORD00481,2025-08-15,C0214,Delhi,Biryani House,Indian,218,30,25,223,Cash on Delivery,24.0,Delivered,5.0
+ORD00482,2025-12-15,C0534,Chandigarh,Wok Express,Chinese,811,30,100,741,Debit Card,65.0,Delivered,5.0
+ORD00483,2025-09-04,C0242,Delhi,Wok Express,Chinese,556,40,0,596,Debit Card,31.0,Delivered,1.0
+ORD00484,2025-01-08,C0487,Gurugram,Burger Hub,Fast Food,715,20,25,710,Credit Card,18.0,Delivered,1.0
+ORD00485,2025-07-10,C0062,Chandigarh,Pizza Corner,Pizza,659,30,25,664,Debit Card,57.0,Delivered,3.0
+ORD00486,2025-11-27,C0450,Mohali,Burger Hub,Fast Food,369,30,25,374,UPI,53.0,Delivered,3.0
+ORD00487,2025-12-19,C0302,Gurugram,Dosa Point,South Indian,883,30,0,913,Cash on Delivery,49.0,Delivered,4.0
+ORD00488,2025-04-08,C0165,Chandigarh,Burger Hub,Fast Food,862,40,100,802,Wallet,73.0,Delivered,5.0
+ORD00489,2025-03-21,C0389,Mohali,Taco Street,Mexican,755,40,50,745,UPI,18.0,Delivered,5.0
+ORD00490,2025-11-14,C0195,Gurugram,Healthy Bowl,Healthy,639,40,100,579,Cash on Delivery,52.0,Delivered,4.0
+ORD00491,2025-10-10,C0536,Chandigarh,Burger Hub,Fast Food,729,40,25,744,UPI,25.0,Delivered,1.0
+ORD00492,2025-03-08,C0398,Delhi,Burger Hub,Fast Food,214,30,0,244,Wallet,24.0,Delivered,1.0
+ORD00493,2025-11-16,C0214,Delhi,Wok Express,Chinese,250,40,0,290,UPI,22.0,Delivered,1.0
+ORD00494,2025-08-28,C0273,Gurugram,Spice Garden,Indian,889,50,0,939,UPI,21.0,Delivered,5.0
+ORD00495,2025-02-06,C0545,Delhi,Wok Express,Chinese,309,30,50,289,Credit Card,64.0,Delivered,2.0
+ORD00496,2025-04-09,C0367,Delhi,Biryani House,Indian,516,50,100,466,Cash on Delivery,58.0,Delivered,5.0
+ORD00497,2025-02-23,C0454,Panchkula,Burger Hub,Fast Food,519,50,50,519,Debit Card,28.0,Delivered,5.0
+ORD00498,2025-10-09,C0247,Gurugram,Healthy Bowl,Healthy,911,50,100,861,Wallet,64.0,Delivered,3.0
+ORD00499,2025-04-20,C0036,Panchkula,Dosa Point,South Indian,670,40,25,685,Wallet,43.0,Delivered,1.0
+ORD00500,2025-01-09,C0220,Panchkula,Burger Hub,Fast Food,768,20,0,0,UPI,,Cancelled,
+ORD00501,2025-12-20,C0142,Panchkula,Wok Express,Chinese,1197,30,0,1227,Debit Card,40.0,Delivered,2.0
+ORD00502,2025-10-26,C0223,Chandigarh,Biryani House,Indian,627,40,0,667,Debit Card,43.0,Delivered,5.0
+ORD00503,2025-09-05,C0391,Chandigarh,Burger Hub,Fast Food,1149,20,50,1119,UPI,20.0,Delivered,5.0
+ORD00504,2025-06-21,C0012,Delhi,Healthy Bowl,Healthy,1039,50,0,1089,UPI,32.0,Delivered,5.0
+ORD00505,2025-06-06,C0052,Delhi,Spice Garden,Indian,803,30,0,833,Cash on Delivery,32.0,Delivered,2.0
+ORD00506,2025-11-01,C0345,Chandigarh,Pizza Corner,Pizza,604,50,0,654,Cash on Delivery,27.0,Delivered,2.0
+ORD00507,2025-10-20,C0139,Delhi,Spice Garden,Indian,967,40,0,1007,Wallet,45.0,Delivered,2.0
+ORD00508,2025-04-12,C0253,Mohali,Taco Street,Mexican,959,30,50,939,UPI,65.0,Delivered,5.0
+ORD00509,2025-05-17,C0357,Mohali,Dosa Point,South Indian,812,20,0,832,Debit Card,45.0,Delivered,3.0
+ORD00510,2025-06-26,C0150,Delhi,Spice Garden,Indian,774,30,0,804,UPI,69.0,Delivered,4.0
+ORD00511,2025-04-30,C0249,Gurugram,Biryani House,Indian,915,30,100,845,Credit Card,25.0,Delivered,1.0
+ORD00512,2025-05-28,C0215,Gurugram,Spice Garden,Indian,853,20,0,873,Credit Card,19.0,Delivered,3.0
+ORD00513,2025-04-15,C0540,Chandigarh,Wok Express,Chinese,1139,30,100,1069,Debit Card,19.0,Delivered,4.0
+ORD00514,2025-03-29,C0009,Chandigarh,Spice Garden,Indian,731,30,100,661,Cash on Delivery,21.0,Delivered,4.0
+ORD00515,2025-12-05,C0237,Delhi,Wok Express,Chinese,887,20,0,907,Wallet,74.0,Delivered,4.0
+ORD00516,2025-12-30,C0513,Delhi,Pizza Corner,Pizza,796,50,50,796,Wallet,29.0,Delivered,2.0
+ORD00517,2025-12-31,C0161,Chandigarh,Spice Garden,Indian,231,30,50,211,Debit Card,49.0,Delivered,4.0
+ORD00518,2025-12-17,C0514,Panchkula,Healthy Bowl,Healthy,877,40,0,0,UPI,,Cancelled,
+ORD00519,2025-11-17,C0231,Mohali,Wok Express,Chinese,942,20,50,0,Debit Card,,Cancelled,
+ORD00520,2025-07-21,C0233,Delhi,Burger Hub,Fast Food,329,50,50,0,Credit Card,,Cancelled,
+ORD00521,2025-10-21,C0212,Mohali,Burger Hub,Fast Food,1023,40,50,1013,Wallet,52.0,Delivered,2.0
+ORD00522,2025-10-05,C0441,Mohali,Biryani House,Indian,432,40,100,372,Wallet,51.0,Delivered,2.0
+ORD00523,2025-03-22,C0031,Panchkula,Healthy Bowl,Healthy,288,20,0,308,Cash on Delivery,74.0,Delivered,2.0
+ORD00524,2025-07-30,C0190,Chandigarh,Wok Express,Chinese,1057,40,0,1097,Wallet,24.0,Delivered,2.0
+ORD00525,2025-11-12,C0489,Mohali,Wok Express,Chinese,622,30,0,652,Wallet,40.0,Delivered,1.0
+ORD00526,2025-11-06,C0198,Mohali,Taco Street,Mexican,915,30,25,920,UPI,26.0,Delivered,2.0
+ORD00527,2025-07-29,C0068,Mohali,Spice Garden,Indian,702,50,0,752,Cash on Delivery,30.0,Delivered,2.0
+ORD00528,2025-11-12,C0390,Panchkula,Taco Street,Mexican,815,50,0,865,Cash on Delivery,67.0,Delivered,1.0
+ORD00529,2025-11-10,C0532,Gurugram,Spice Garden,Indian,373,50,25,398,Cash on Delivery,20.0,Delivered,2.0
+ORD00530,2025-01-21,C0293,Delhi,Dosa Point,South Indian,250,30,0,280,Credit Card,74.0,Delivered,3.0
+ORD00531,2025-08-05,C0513,Chandigarh,Wok Express,Chinese,261,30,25,266,Credit Card,46.0,Delivered,1.0
+ORD00532,2025-10-27,C0207,Delhi,Burger Hub,Fast Food,955,50,0,1005,UPI,29.0,Delivered,4.0
+ORD00533,2025-05-09,C0088,Gurugram,Healthy Bowl,Healthy,485,20,0,505,Cash on Delivery,46.0,Delivered,3.0
+ORD00534,2025-09-19,C0154,Mohali,Burger Hub,Fast Food,925,50,0,975,Credit Card,39.0,Delivered,5.0
+ORD00535,2025-04-02,C0186,Chandigarh,Spice Garden,Indian,1009,40,0,1049,Credit Card,46.0,Delivered,3.0
+ORD00536,2025-04-14,C0006,Gurugram,Spice Garden,Indian,668,20,25,663,Cash on Delivery,49.0,Delivered,5.0
+ORD00537,2025-05-02,C0007,Mohali,Biryani House,Indian,1124,50,25,1149,Wallet,56.0,Delivered,5.0
+ORD00538,2025-05-23,C0149,Chandigarh,Biryani House,Indian,250,30,0,280,Wallet,40.0,Delivered,1.0
+ORD00539,2025-11-05,C0292,Gurugram,Wok Express,Chinese,828,20,0,848,Wallet,29.0,Delivered,2.0
+ORD00540,2025-10-21,C0378,Delhi,Burger Hub,Fast Food,1082,40,0,1122,UPI,37.0,Delivered,3.0
+ORD00541,2025-08-07,C0338,Gurugram,Pizza Corner,Pizza,749,50,0,799,Cash on Delivery,73.0,Delivered,3.0
+ORD00542,2025-09-26,C0090,Delhi,Biryani House,Indian,578,20,0,598,Wallet,58.0,Delivered,5.0
+ORD00543,2025-12-28,C0133,Gurugram,Wok Express,Chinese,1024,40,0,1064,Wallet,57.0,Delivered,3.0
+ORD00544,2025-09-12,C0002,Chandigarh,Taco Street,Mexican,1158,30,50,1138,UPI,36.0,Delivered,2.0
+ORD00545,2025-08-27,C0218,Chandigarh,Pizza Corner,Pizza,574,50,25,599,Credit Card,40.0,Delivered,5.0
+ORD00546,2025-12-20,C0007,Chandigarh,Wok Express,Chinese,671,20,0,691,Debit Card,53.0,Delivered,3.0
+ORD00547,2025-06-24,C0486,Chandigarh,Dosa Point,South Indian,209,30,0,239,Credit Card,39.0,Delivered,4.0
+ORD00548,2025-09-04,C0534,Panchkula,Burger Hub,Fast Food,1093,40,25,1108,Wallet,44.0,Delivered,1.0
+ORD00549,2025-12-14,C0068,Mohali,Healthy Bowl,Healthy,188,30,50,168,Debit Card,69.0,Delivered,3.0
+ORD00550,2025-01-16,C0120,Panchkula,Healthy Bowl,Healthy,918,30,50,898,Debit Card,29.0,Delivered,5.0
+ORD00551,2025-12-30,C0463,Panchkula,Spice Garden,Indian,706,50,0,756,Credit Card,33.0,Delivered,3.0
+ORD00552,2025-09-26,C0095,Delhi,Wok Express,Chinese,508,20,0,528,Wallet,67.0,Delivered,2.0
+ORD00553,2025-01-13,C0318,Panchkula,Taco Street,Mexican,1174,30,0,1204,Credit Card,48.0,Delivered,5.0
+ORD00554,2025-02-20,C0119,Chandigarh,Burger Hub,Fast Food,570,20,25,565,Debit Card,73.0,Delivered,5.0
+ORD00555,2025-01-23,C0024,Gurugram,Pizza Corner,Pizza,832,50,0,882,Debit Card,67.0,Delivered,3.0
+ORD00556,2025-11-24,C0452,Chandigarh,Biryani House,Indian,807,30,0,837,Debit Card,52.0,Delivered,3.0
+ORD00557,2025-03-18,C0527,Chandigarh,Burger Hub,Fast Food,710,20,0,0,Credit Card,,Cancelled,
+ORD00558,2025-10-05,C0291,Gurugram,Healthy Bowl,Healthy,802,40,0,0,Credit Card,,Cancelled,
+ORD00559,2025-03-29,C0483,Chandigarh,Pizza Corner,Pizza,787,40,50,777,UPI,26.0,Delivered,1.0
+ORD00560,2025-07-16,C0457,Gurugram,Spice Garden,Indian,326,50,25,351,Debit Card,56.0,Delivered,5.0
+ORD00561,2025-06-09,C0100,Delhi,Healthy Bowl,Healthy,555,20,25,550,Debit Card,23.0,Delivered,4.0
+ORD00562,2025-12-17,C0265,Panchkula,Taco Street,Mexican,1113,30,0,1143,Cash on Delivery,75.0,Delivered,5.0
+ORD00563,2025-04-04,C0360,Delhi,Healthy Bowl,Healthy,815,50,25,840,Cash on Delivery,48.0,Delivered,1.0
+ORD00564,2025-03-29,C0334,Gurugram,Wok Express,Chinese,863,30,50,843,UPI,70.0,Delivered,1.0
+ORD00565,2025-06-04,C0494,Delhi,Taco Street,Mexican,970,50,0,1020,UPI,53.0,Delivered,2.0
+ORD00566,2025-06-24,C0178,Chandigarh,Biryani House,Indian,1032,50,50,1032,Wallet,52.0,Delivered,2.0
+ORD00567,2025-09-07,C0316,Delhi,Pizza Corner,Pizza,1098,40,50,1088,UPI,46.0,Delivered,2.0
+ORD00568,2025-11-03,C0223,Mohali,Pizza Corner,Pizza,926,40,25,941,Wallet,21.0,Delivered,1.0
+ORD00569,2025-11-22,C0458,Mohali,Spice Garden,Indian,450,30,25,455,Credit Card,42.0,Delivered,5.0
+ORD00570,2025-12-15,C0009,Gurugram,Healthy Bowl,Healthy,763,40,25,778,Wallet,40.0,Delivered,1.0
+ORD00571,2025-07-26,C0368,Chandigarh,Burger Hub,Fast Food,752,20,0,772,Debit Card,21.0,Delivered,1.0
+ORD00572,2025-01-16,C0391,Delhi,Biryani House,Indian,1034,50,100,984,Wallet,42.0,Delivered,4.0
+ORD00573,2025-04-19,C0428,Mohali,Burger Hub,Fast Food,1122,30,0,1152,Debit Card,71.0,Delivered,3.0
+ORD00574,2025-12-10,C0448,Mohali,Burger Hub,Fast Food,425,20,0,445,UPI,27.0,Delivered,4.0
+ORD00575,2025-03-12,C0461,Delhi,Dosa Point,South Indian,1083,50,50,1083,Debit Card,50.0,Delivered,4.0
+ORD00576,2025-04-26,C0514,Panchkula,Burger Hub,Fast Food,1019,20,50,989,Cash on Delivery,64.0,Delivered,2.0
+ORD00577,2025-10-07,C0494,Chandigarh,Healthy Bowl,Healthy,218,20,50,188,Credit Card,41.0,Delivered,1.0
+ORD00578,2025-09-27,C0484,Chandigarh,Wok Express,Chinese,1102,20,50,1072,Wallet,23.0,Delivered,2.0
+ORD00579,2025-10-24,C0525,Delhi,Wok Express,Chinese,258,40,50,248,Wallet,48.0,Delivered,4.0
+ORD00580,2025-06-19,C0312,Gurugram,Dosa Point,South Indian,872,40,0,912,Debit Card,62.0,Delivered,5.0
+ORD00581,2025-02-01,C0028,Panchkula,Taco Street,Mexican,496,20,100,0,Cash on Delivery,,Cancelled,
+ORD00582,2025-02-12,C0282,Panchkula,Burger Hub,Fast Food,1185,20,0,1205,UPI,57.0,Delivered,3.0
+ORD00583,2025-02-27,C0497,Mohali,Burger Hub,Fast Food,459,50,0,509,Wallet,34.0,Delivered,2.0
+ORD00584,2025-01-17,C0423,Delhi,Healthy Bowl,Healthy,322,30,50,302,Credit Card,27.0,Delivered,4.0
+ORD00585,2025-12-05,C0271,Chandigarh,Taco Street,Mexican,492,30,50,472,UPI,40.0,Delivered,1.0
+ORD00586,2025-03-27,C0240,Delhi,Taco Street,Mexican,966,50,0,1016,Cash on Delivery,66.0,Delivered,5.0
+ORD00587,2025-08-31,C0392,Panchkula,Wok Express,Chinese,447,50,0,497,Wallet,69.0,Delivered,4.0
+ORD00588,2025-12-16,C0344,Panchkula,Spice Garden,Indian,349,40,25,364,Debit Card,59.0,Delivered,3.0
+ORD00589,2025-02-20,C0200,Gurugram,Wok Express,Chinese,951,50,100,901,Debit Card,64.0,Delivered,5.0
+ORD00590,2025-12-13,C0422,Chandigarh,Burger Hub,Fast Food,791,20,100,711,Wallet,22.0,Delivered,1.0
+ORD00591,2025-02-23,C0025,Gurugram,Taco Street,Mexican,869,30,100,799,UPI,30.0,Delivered,1.0
+ORD00592,2025-01-30,C0190,Chandigarh,Biryani House,Indian,399,20,0,419,Credit Card,26.0,Delivered,4.0
+ORD00593,2025-05-10,C0332,Panchkula,Wok Express,Chinese,1106,20,100,1026,Credit Card,35.0,Delivered,4.0
+ORD00594,2025-02-07,C0272,Mohali,Wok Express,Chinese,277,50,25,302,Cash on Delivery,21.0,Delivered,3.0
+ORD00595,2025-02-05,C0442,Mohali,Taco Street,Mexican,560,50,0,610,Wallet,24.0,Delivered,2.0
+ORD00596,2025-11-26,C0257,Delhi,Pizza Corner,Pizza,1054,40,0,1094,UPI,22.0,Delivered,5.0
+ORD00597,2025-09-12,C0401,Gurugram,Burger Hub,Fast Food,151,20,100,71,UPI,27.0,Delivered,3.0
+ORD00598,2025-09-21,C0232,Chandigarh,Taco Street,Mexican,1129,50,25,1154,Cash on Delivery,67.0,Delivered,1.0
+ORD00599,2025-12-19,C0093,Panchkula,Taco Street,Mexican,398,40,0,438,Wallet,43.0,Delivered,1.0
+ORD00600,2025-06-24,C0394,Mohali,Pizza Corner,Pizza,1091,40,100,1031,Debit Card,53.0,Delivered,1.0
+ORD00601,2025-12-23,C0195,Mohali,Dosa Point,South Indian,368,40,25,383,UPI,58.0,Delivered,4.0
+ORD00602,2025-04-09,C0512,Gurugram,Spice Garden,Indian,638,50,25,663,Cash on Delivery,52.0,Delivered,3.0
+ORD00603,2025-01-09,C0122,Mohali,Spice Garden,Indian,844,20,0,864,Wallet,20.0,Delivered,4.0
+ORD00604,2025-08-23,C0483,Gurugram,Burger Hub,Fast Food,627,20,0,647,UPI,49.0,Delivered,1.0
+ORD00605,2025-05-05,C0468,Gurugram,Burger Hub,Fast Food,179,30,100,109,Credit Card,37.0,Delivered,1.0
+ORD00606,2025-10-30,C0065,Mohali,Pizza Corner,Pizza,367,20,25,362,Cash on Delivery,57.0,Delivered,2.0
+ORD00607,2025-06-22,C0219,Chandigarh,Dosa Point,South Indian,814,20,100,734,Wallet,26.0,Delivered,3.0
+ORD00608,2025-03-30,C0379,Gurugram,Healthy Bowl,Healthy,279,20,0,299,Credit Card,44.0,Delivered,2.0
+ORD00609,2025-08-13,C0386,Mohali,Biryani House,Indian,233,30,0,263,UPI,58.0,Delivered,5.0
+ORD00610,2025-09-07,C0291,Delhi,Pizza Corner,Pizza,163,20,0,183,Cash on Delivery,63.0,Delivered,5.0
+ORD00611,2025-12-21,C0245,Mohali,Burger Hub,Fast Food,572,30,100,502,Wallet,46.0,Delivered,4.0
+ORD00612,2025-12-21,C0309,Panchkula,Spice Garden,Indian,518,50,50,0,Cash on Delivery,,Cancelled,
+ORD00613,2025-01-03,C0371,Gurugram,Biryani House,Indian,543,20,50,0,Wallet,,Cancelled,
+ORD00614,2025-04-23,C0486,Delhi,Taco Street,Mexican,576,40,0,616,Credit Card,68.0,Delivered,2.0
+ORD00615,2025-03-23,C0465,Chandigarh,Spice Garden,Indian,260,40,0,300,UPI,34.0,Delivered,3.0
+ORD00616,2025-01-27,C0456,Gurugram,Burger Hub,Fast Food,473,20,25,468,Wallet,22.0,Delivered,2.0
+ORD00617,2025-06-16,C0101,Mohali,Dosa Point,South Indian,557,40,0,597,Cash on Delivery,38.0,Delivered,2.0
+ORD00618,2025-04-13,C0149,Mohali,Dosa Point,South Indian,601,20,25,596,Wallet,21.0,Delivered,4.0
+ORD00619,2025-08-21,C0277,Mohali,Burger Hub,Fast Food,943,40,0,983,Debit Card,30.0,Delivered,3.0
+ORD00620,2025-03-07,C0429,Mohali,Spice Garden,Indian,272,40,0,312,Debit Card,47.0,Delivered,4.0
+ORD00621,2025-04-23,C0236,Chandigarh,Wok Express,Chinese,471,30,50,0,Cash on Delivery,,Cancelled,
+ORD00622,2025-09-25,C0253,Mohali,Taco Street,Mexican,593,50,25,618,Debit Card,64.0,Delivered,4.0
+ORD00623,2025-08-11,C0042,Delhi,Biryani House,Indian,455,20,25,0,Wallet,,Cancelled,
+ORD00624,2025-01-18,C0247,Chandigarh,Dosa Point,South Indian,957,50,100,907,Wallet,46.0,Delivered,4.0
+ORD00625,2025-01-07,C0017,Delhi,Dosa Point,South Indian,596,30,0,626,Debit Card,59.0,Delivered,1.0
+ORD00626,2025-03-24,C0190,Panchkula,Taco Street,Mexican,199,50,25,224,Cash on Delivery,73.0,Delivered,4.0
+ORD00627,2025-12-27,C0437,Panchkula,Spice Garden,Indian,294,50,100,244,Wallet,20.0,Delivered,3.0
+ORD00628,2025-10-05,C0053,Chandigarh,Biryani House,Indian,315,40,100,255,Cash on Delivery,50.0,Delivered,3.0
+ORD00629,2025-07-07,C0210,Mohali,Taco Street,Mexican,233,40,0,273,Debit Card,53.0,Delivered,1.0
+ORD00630,2025-05-03,C0274,Gurugram,Pizza Corner,Pizza,1129,30,100,1059,Cash on Delivery,38.0,Delivered,3.0
+ORD00631,2025-05-22,C0126,Delhi,Spice Garden,Indian,279,40,0,319,Wallet,50.0,Delivered,5.0
+ORD00632,2025-12-14,C0068,Mohali,Wok Express,Chinese,1075,40,100,0,Cash on Delivery,,Cancelled,
+ORD00633,2025-02-14,C0079,Chandigarh,Pizza Corner,Pizza,950,30,0,0,Credit Card,,Cancelled,
+ORD00634,2025-05-22,C0301,Delhi,Pizza Corner,Pizza,453,50,0,503,Wallet,51.0,Delivered,1.0
+ORD00635,2025-03-09,C0194,Chandigarh,Taco Street,Mexican,860,50,25,885,UPI,19.0,Delivered,3.0
+ORD00636,2025-04-29,C0543,Gurugram,Healthy Bowl,Healthy,993,40,100,933,Cash on Delivery,38.0,Delivered,4.0
+ORD00637,2025-08-23,C0381,Panchkula,Wok Express,Chinese,420,40,0,460,UPI,32.0,Delivered,4.0
+ORD00638,2025-03-17,C0293,Mohali,Healthy Bowl,Healthy,732,50,0,782,Credit Card,28.0,Delivered,5.0
+ORD00639,2025-12-29,C0130,Delhi,Burger Hub,Fast Food,480,30,0,510,Debit Card,38.0,Delivered,5.0
+ORD00640,2025-07-09,C0382,Delhi,Burger Hub,Fast Food,570,20,100,490,Wallet,40.0,Delivered,2.0
+ORD00641,2025-03-25,C0470,Panchkula,Wok Express,Chinese,398,20,25,393,Credit Card,67.0,Delivered,2.0
+ORD00642,2025-01-03,C0151,Gurugram,Healthy Bowl,Healthy,755,50,0,0,Cash on Delivery,,Cancelled,
+ORD00643,2025-06-23,C0026,Delhi,Pizza Corner,Pizza,1130,20,0,1150,Wallet,25.0,Delivered,3.0
+ORD00644,2025-04-23,C0540,Mohali,Taco Street,Mexican,881,20,0,901,Debit Card,59.0,Delivered,2.0
+ORD00645,2025-04-11,C0404,Mohali,Spice Garden,Indian,321,50,100,271,Cash on Delivery,23.0,Delivered,5.0
+ORD00646,2025-06-12,C0396,Panchkula,Spice Garden,Indian,889,50,0,939,UPI,45.0,Delivered,3.0
+ORD00647,2025-05-26,C0455,Delhi,Healthy Bowl,Healthy,869,40,25,884,Cash on Delivery,23.0,Delivered,2.0
+ORD00648,2025-05-28,C0148,Mohali,Burger Hub,Fast Food,1018,50,0,1068,Debit Card,56.0,Delivered,1.0
+ORD00649,2025-09-01,C0425,Mohali,Healthy Bowl,Healthy,285,50,0,335,Wallet,58.0,Delivered,3.0
+ORD00650,2025-08-25,C0310,Gurugram,Burger Hub,Fast Food,558,30,25,563,Debit Card,49.0,Delivered,1.0
+ORD00651,2025-09-10,C0128,Panchkula,Taco Street,Mexican,609,20,0,629,Cash on Delivery,37.0,Delivered,4.0
+ORD00652,2025-04-02,C0371,Gurugram,Taco Street,Mexican,651,20,0,671,Cash on Delivery,49.0,Delivered,1.0
+ORD00653,2025-10-17,C0018,Panchkula,Dosa Point,South Indian,678,50,100,628,Credit Card,41.0,Delivered,5.0
+ORD00654,2025-10-25,C0168,Chandigarh,Spice Garden,Indian,449,40,25,464,Debit Card,26.0,Delivered,3.0
+ORD00655,2025-07-04,C0527,Mohali,Dosa Point,South Indian,879,20,0,899,Credit Card,58.0,Delivered,1.0
+ORD00656,2025-02-18,C0099,Gurugram,Burger Hub,Fast Food,810,40,100,750,Wallet,35.0,Delivered,3.0
+ORD00657,2025-06-30,C0422,Panchkula,Burger Hub,Fast Food,176,30,50,156,Credit Card,67.0,Delivered,4.0
+ORD00658,2025-02-22,C0539,Gurugram,Biryani House,Indian,466,30,0,496,Wallet,53.0,Delivered,5.0
+ORD00659,2025-12-26,C0492,Panchkula,Pizza Corner,Pizza,1004,50,0,1054,Debit Card,26.0,Delivered,1.0
+ORD00660,2025-12-20,C0312,Chandigarh,Healthy Bowl,Healthy,434,50,50,434,UPI,39.0,Delivered,2.0
+ORD00661,2025-04-24,C0436,Chandigarh,Burger Hub,Fast Food,441,30,0,471,UPI,26.0,Delivered,1.0
+ORD00662,2025-01-10,C0061,Delhi,Taco Street,Mexican,1033,20,0,1053,UPI,68.0,Delivered,5.0
+ORD00663,2025-05-10,C0211,Gurugram,Spice Garden,Indian,285,40,100,225,Credit Card,24.0,Delivered,1.0
+ORD00664,2025-04-05,C0357,Panchkula,Healthy Bowl,Healthy,209,20,0,229,Credit Card,35.0,Delivered,5.0
+ORD00665,2025-09-14,C0542,Mohali,Biryani House,Indian,1184,20,0,1204,Credit Card,66.0,Delivered,1.0
+ORD00666,2025-05-25,C0376,Gurugram,Burger Hub,Fast Food,158,20,0,178,Credit Card,72.0,Delivered,4.0
+ORD00667,2025-08-14,C0418,Chandigarh,Pizza Corner,Pizza,520,40,25,535,Debit Card,50.0,Delivered,2.0
+ORD00668,2025-03-05,C0042,Chandigarh,Taco Street,Mexican,375,30,25,380,Debit Card,63.0,Delivered,3.0
+ORD00669,2025-09-10,C0232,Gurugram,Pizza Corner,Pizza,938,40,25,953,Cash on Delivery,37.0,Delivered,4.0
+ORD00670,2025-05-29,C0014,Delhi,Dosa Point,South Indian,536,20,25,531,UPI,41.0,Delivered,2.0
+ORD00671,2025-07-22,C0105,Mohali,Taco Street,Mexican,324,20,0,344,UPI,62.0,Delivered,5.0
+ORD00672,2025-07-06,C0239,Delhi,Biryani House,Indian,843,30,50,823,Cash on Delivery,43.0,Delivered,1.0
+ORD00673,2025-05-23,C0524,Panchkula,Wok Express,Chinese,969,40,25,984,Credit Card,43.0,Delivered,4.0
+ORD00674,2025-08-21,C0031,Chandigarh,Pizza Corner,Pizza,400,40,25,415,UPI,58.0,Delivered,2.0
+ORD00675,2025-02-04,C0311,Gurugram,Taco Street,Mexican,204,30,25,209,Wallet,38.0,Delivered,2.0
+ORD00676,2025-02-19,C0517,Panchkula,Pizza Corner,Pizza,1158,50,0,1208,Wallet,49.0,Delivered,4.0
+ORD00677,2025-06-25,C0454,Delhi,Spice Garden,Indian,214,50,0,264,UPI,38.0,Delivered,4.0
+ORD00678,2025-01-17,C0500,Chandigarh,Burger Hub,Fast Food,770,30,25,775,Wallet,37.0,Delivered,4.0
+ORD00679,2025-12-12,C0401,Panchkula,Taco Street,Mexican,1112,50,50,1112,Cash on Delivery,50.0,Delivered,1.0
+ORD00680,2025-10-30,C0132,Panchkula,Dosa Point,South Indian,872,40,0,912,Debit Card,55.0,Delivered,1.0
+ORD00681,2025-10-26,C0360,Chandigarh,Spice Garden,Indian,848,50,0,898,Credit Card,40.0,Delivered,4.0
+ORD00682,2025-05-07,C0346,Mohali,Biryani House,Indian,789,20,100,709,UPI,37.0,Delivered,1.0
+ORD00683,2025-10-03,C0432,Panchkula,Healthy Bowl,Healthy,226,50,100,176,UPI,54.0,Delivered,5.0
+ORD00684,2025-12-23,C0101,Delhi,Taco Street,Mexican,195,40,25,210,UPI,38.0,Delivered,5.0
+ORD00685,2025-12-20,C0171,Gurugram,Biryani House,Indian,838,50,50,838,Debit Card,60.0,Delivered,3.0
+ORD00686,2025-07-06,C0549,Mohali,Dosa Point,South Indian,563,50,100,513,Debit Card,68.0,Delivered,1.0
+ORD00687,2025-05-16,C0098,Gurugram,Spice Garden,Indian,758,50,0,808,Debit Card,23.0,Delivered,5.0
+ORD00688,2025-05-20,C0517,Panchkula,Pizza Corner,Pizza,1123,50,0,1173,Cash on Delivery,22.0,Delivered,3.0
+ORD00689,2025-12-06,C0185,Chandigarh,Healthy Bowl,Healthy,559,50,25,584,Wallet,50.0,Delivered,4.0
+ORD00690,2025-04-06,C0445,Gurugram,Taco Street,Mexican,586,50,0,636,UPI,52.0,Delivered,5.0
+ORD00691,2025-09-25,C0446,Delhi,Biryani House,Indian,896,50,0,946,Debit Card,65.0,Delivered,3.0
+ORD00692,2025-02-02,C0242,Delhi,Biryani House,Indian,994,40,0,1034,Credit Card,34.0,Delivered,5.0
+ORD00693,2025-02-28,C0498,Gurugram,Burger Hub,Fast Food,543,20,0,563,Cash on Delivery,37.0,Delivered,4.0
+ORD00694,2025-08-05,C0181,Chandigarh,Spice Garden,Indian,563,30,0,593,Cash on Delivery,34.0,Delivered,3.0
+ORD00695,2025-01-11,C0373,Chandigarh,Spice Garden,Indian,321,40,50,311,Cash on Delivery,22.0,Delivered,4.0
+ORD00696,2025-03-13,C0258,Delhi,Biryani House,Indian,379,20,50,349,UPI,55.0,Delivered,5.0
+ORD00697,2025-05-02,C0434,Mohali,Pizza Corner,Pizza,791,40,50,781,Credit Card,69.0,Delivered,2.0
+ORD00698,2025-02-24,C0058,Delhi,Burger Hub,Fast Food,588,40,25,603,Wallet,73.0,Delivered,5.0
+ORD00699,2025-07-11,C0372,Delhi,Pizza Corner,Pizza,798,50,25,823,Debit Card,35.0,Delivered,2.0
+ORD00700,2025-06-07,C0260,Gurugram,Spice Garden,Indian,221,20,100,141,Cash on Delivery,60.0,Delivered,2.0
+ORD00701,2025-06-08,C0309,Chandigarh,Healthy Bowl,Healthy,399,30,25,404,Credit Card,43.0,Delivered,3.0
+ORD00702,2025-06-02,C0035,Panchkula,Biryani House,Indian,478,50,100,428,UPI,69.0,Delivered,4.0
+ORD00703,2025-09-09,C0165,Panchkula,Taco Street,Mexican,995,40,100,935,Wallet,70.0,Delivered,1.0
+ORD00704,2025-02-03,C0189,Delhi,Healthy Bowl,Healthy,1011,40,25,1026,Credit Card,66.0,Delivered,1.0
+ORD00705,2025-01-02,C0256,Gurugram,Dosa Point,South Indian,559,40,0,599,Credit Card,25.0,Delivered,2.0
+ORD00706,2025-11-01,C0178,Gurugram,Dosa Point,South Indian,804,50,25,829,Debit Card,26.0,Delivered,3.0
+ORD00707,2025-05-25,C0230,Chandigarh,Biryani House,Indian,322,50,0,372,UPI,74.0,Delivered,4.0
+ORD00708,2025-10-13,C0051,Delhi,Biryani House,Indian,332,50,0,382,Wallet,72.0,Delivered,2.0
+ORD00709,2025-08-08,C0015,Gurugram,Wok Express,Chinese,455,20,0,475,Cash on Delivery,54.0,Delivered,1.0
+ORD00710,2025-08-21,C0295,Delhi,Taco Street,Mexican,392,30,100,322,Cash on Delivery,73.0,Delivered,3.0
+ORD00711,2025-03-08,C0185,Delhi,Dosa Point,South Indian,573,30,0,603,Credit Card,30.0,Delivered,4.0
+ORD00712,2025-01-15,C0470,Chandigarh,Wok Express,Chinese,686,30,50,666,UPI,33.0,Delivered,3.0
+ORD00713,2025-08-29,C0263,Chandigarh,Burger Hub,Fast Food,812,50,100,762,UPI,42.0,Delivered,4.0
+ORD00714,2025-10-13,C0047,Chandigarh,Spice Garden,Indian,256,40,0,296,Debit Card,40.0,Delivered,5.0
+ORD00715,2025-09-16,C0043,Gurugram,Dosa Point,South Indian,769,50,100,719,Credit Card,75.0,Delivered,5.0
+ORD00716,2025-05-14,C0325,Gurugram,Burger Hub,Fast Food,1181,50,0,1231,Cash on Delivery,26.0,Delivered,1.0
+ORD00717,2025-03-14,C0512,Panchkula,Wok Express,Chinese,389,40,0,0,Debit Card,,Cancelled,
+ORD00718,2025-08-09,C0324,Delhi,Wok Express,Chinese,689,40,50,679,Credit Card,75.0,Delivered,2.0
+ORD00719,2025-10-12,C0482,Panchkula,Taco Street,Mexican,258,30,0,288,Credit Card,29.0,Delivered,1.0
+ORD00720,2025-12-28,C0497,Delhi,Taco Street,Mexican,1043,20,25,1038,Cash on Delivery,40.0,Delivered,5.0
+ORD00721,2025-02-27,C0173,Gurugram,Burger Hub,Fast Food,403,40,0,443,Debit Card,36.0,Delivered,2.0
+ORD00722,2025-10-16,C0097,Panchkula,Biryani House,Indian,158,30,25,163,UPI,33.0,Delivered,4.0
+ORD00723,2025-05-26,C0158,Chandigarh,Pizza Corner,Pizza,957,40,50,947,UPI,24.0,Delivered,3.0
+ORD00724,2025-08-24,C0464,Panchkula,Taco Street,Mexican,1079,40,50,1069,Wallet,39.0,Delivered,1.0
+ORD00725,2025-03-08,C0391,Chandigarh,Biryani House,Indian,249,40,0,289,Cash on Delivery,65.0,Delivered,1.0
+ORD00726,2025-05-11,C0398,Delhi,Burger Hub,Fast Food,641,50,0,691,Debit Card,31.0,Delivered,2.0
+ORD00727,2025-11-28,C0135,Panchkula,Burger Hub,Fast Food,396,40,25,411,UPI,65.0,Delivered,3.0
+ORD00728,2025-07-08,C0434,Chandigarh,Biryani House,Indian,1152,50,25,1177,Cash on Delivery,54.0,Delivered,5.0
+ORD00729,2025-07-08,C0230,Mohali,Burger Hub,Fast Food,1039,50,0,1089,Cash on Delivery,39.0,Delivered,4.0
+ORD00730,2025-09-27,C0308,Mohali,Pizza Corner,Pizza,745,50,25,770,Credit Card,69.0,Delivered,4.0
+ORD00731,2025-12-17,C0047,Gurugram,Wok Express,Chinese,659,50,0,709,UPI,53.0,Delivered,1.0
+ORD00732,2025-09-19,C0364,Panchkula,Dosa Point,South Indian,995,20,25,990,Wallet,54.0,Delivered,3.0
+ORD00733,2025-02-11,C0047,Chandigarh,Spice Garden,Indian,383,50,0,433,Cash on Delivery,71.0,Delivered,4.0
+ORD00734,2025-12-27,C0350,Mohali,Wok Express,Chinese,792,50,100,742,Credit Card,69.0,Delivered,3.0
+ORD00735,2025-04-05,C0120,Chandigarh,Pizza Corner,Pizza,681,20,25,676,Credit Card,18.0,Delivered,4.0
+ORD00736,2025-12-02,C0499,Panchkula,Taco Street,Mexican,1092,50,100,0,Wallet,,Cancelled,
+ORD00737,2025-11-12,C0115,Chandigarh,Healthy Bowl,Healthy,958,40,0,998,Credit Card,18.0,Delivered,2.0
+ORD00738,2025-01-14,C0196,Chandigarh,Biryani House,Indian,1135,30,100,1065,Debit Card,71.0,Delivered,5.0
+ORD00739,2025-08-26,C0456,Delhi,Burger Hub,Fast Food,1120,50,0,1170,Cash on Delivery,75.0,Delivered,2.0
+ORD00740,2025-01-11,C0053,Panchkula,Taco Street,Mexican,646,30,0,676,UPI,71.0,Delivered,4.0
+ORD00741,2025-02-22,C0298,Chandigarh,Dosa Point,South Indian,1001,50,100,951,Cash on Delivery,64.0,Delivered,5.0
+ORD00742,2025-07-24,C0324,Gurugram,Taco Street,Mexican,1149,30,100,1079,UPI,19.0,Delivered,4.0
+ORD00743,2025-05-18,C0460,Delhi,Dosa Point,South Indian,1119,20,25,1114,UPI,59.0,Delivered,3.0
+ORD00744,2025-03-24,C0348,Gurugram,Wok Express,Chinese,543,50,0,593,Cash on Delivery,50.0,Delivered,2.0
+ORD00745,2025-03-09,C0166,Gurugram,Wok Express,Chinese,949,50,100,899,Credit Card,41.0,Delivered,4.0
+ORD00746,2025-05-25,C0104,Delhi,Pizza Corner,Pizza,1138,30,0,1168,Cash on Delivery,56.0,Delivered,4.0
+ORD00747,2025-06-05,C0163,Mohali,Biryani House,Indian,578,20,0,598,Wallet,34.0,Delivered,3.0
+ORD00748,2025-01-17,C0230,Delhi,Pizza Corner,Pizza,841,50,0,891,Debit Card,25.0,Delivered,5.0
+ORD00749,2025-06-24,C0107,Chandigarh,Healthy Bowl,Healthy,245,40,0,285,Cash on Delivery,73.0,Delivered,5.0
+ORD00750,2025-08-23,C0121,Mohali,Pizza Corner,Pizza,366,20,50,336,Debit Card,24.0,Delivered,2.0
+ORD00751,2025-03-22,C0343,Mohali,Wok Express,Chinese,1054,50,100,1004,UPI,27.0,Delivered,3.0
+ORD00752,2025-04-14,C0294,Gurugram,Taco Street,Mexican,1001,20,0,1021,Credit Card,48.0,Delivered,3.0
+ORD00753,2025-02-13,C0543,Delhi,Wok Express,Chinese,912,50,0,962,Credit Card,33.0,Delivered,2.0
+ORD00754,2025-03-12,C0529,Panchkula,Dosa Point,South Indian,996,50,25,0,UPI,,Cancelled,
+ORD00755,2025-08-15,C0445,Chandigarh,Burger Hub,Fast Food,170,20,0,190,Cash on Delivery,43.0,Delivered,2.0
+ORD00756,2025-01-19,C0312,Panchkula,Burger Hub,Fast Food,268,40,25,283,Debit Card,61.0,Delivered,5.0
+ORD00757,2025-01-05,C0453,Panchkula,Wok Express,Chinese,450,50,25,475,Cash on Delivery,74.0,Delivered,5.0
+ORD00758,2025-04-12,C0533,Gurugram,Wok Express,Chinese,322,20,50,292,Debit Card,64.0,Delivered,2.0
+ORD00759,2025-04-20,C0024,Chandigarh,Pizza Corner,Pizza,1197,40,50,1187,Wallet,58.0,Delivered,2.0
+ORD00760,2025-10-31,C0062,Panchkula,Wok Express,Chinese,644,40,100,584,Debit Card,50.0,Delivered,1.0
+ORD00761,2025-11-18,C0460,Panchkula,Healthy Bowl,Healthy,403,20,100,0,Wallet,,Cancelled,
+ORD00762,2025-01-03,C0547,Gurugram,Taco Street,Mexican,844,30,100,0,Credit Card,,Cancelled,
+ORD00763,2025-06-29,C0108,Panchkula,Wok Express,Chinese,732,30,100,662,Wallet,65.0,Delivered,2.0
+ORD00764,2025-10-26,C0084,Chandigarh,Biryani House,Indian,889,50,0,939,UPI,45.0,Delivered,4.0
+ORD00765,2025-08-06,C0413,Gurugram,Burger Hub,Fast Food,1125,30,25,1130,Wallet,61.0,Delivered,5.0
+ORD00766,2025-09-23,C0427,Mohali,Dosa Point,South Indian,690,50,100,640,Credit Card,46.0,Delivered,4.0
+ORD00767,2025-09-16,C0526,Gurugram,Burger Hub,Fast Food,1142,50,0,0,UPI,,Cancelled,
+ORD00768,2025-12-22,C0122,Gurugram,Biryani House,Indian,1082,50,0,1132,Cash on Delivery,53.0,Delivered,3.0
+ORD00769,2025-02-26,C0313,Panchkula,Pizza Corner,Pizza,906,40,0,946,Debit Card,25.0,Delivered,3.0
+ORD00770,2025-05-31,C0313,Panchkula,Taco Street,Mexican,207,30,0,237,Credit Card,44.0,Delivered,1.0
+ORD00771,2025-04-04,C0428,Delhi,Taco Street,Mexican,154,20,50,124,Wallet,73.0,Delivered,1.0
+ORD00772,2025-06-08,C0136,Mohali,Taco Street,Mexican,841,50,25,866,Wallet,71.0,Delivered,5.0
+ORD00773,2025-11-22,C0420,Delhi,Taco Street,Mexican,1071,50,0,1121,Credit Card,38.0,Delivered,1.0
+ORD00774,2025-07-22,C0026,Gurugram,Healthy Bowl,Healthy,243,50,100,193,Debit Card,23.0,Delivered,2.0
+ORD00775,2025-10-15,C0535,Mohali,Pizza Corner,Pizza,324,30,50,304,Cash on Delivery,66.0,Delivered,1.0
+ORD00776,2025-09-15,C0455,Chandigarh,Spice Garden,Indian,396,30,0,426,Wallet,31.0,Delivered,2.0
+ORD00777,2025-11-07,C0448,Mohali,Healthy Bowl,Healthy,972,20,25,967,Cash on Delivery,19.0,Delivered,3.0
+ORD00778,2025-01-13,C0173,Panchkula,Healthy Bowl,Healthy,932,40,0,972,Credit Card,24.0,Delivered,5.0
+ORD00779,2025-04-04,C0174,Chandigarh,Wok Express,Chinese,333,30,0,0,Wallet,,Cancelled,
+ORD00780,2025-06-16,C0423,Panchkula,Burger Hub,Fast Food,205,20,0,225,Debit Card,38.0,Delivered,2.0
+ORD00781,2025-07-12,C0505,Gurugram,Pizza Corner,Pizza,256,30,0,286,Wallet,55.0,Delivered,2.0
+ORD00782,2025-07-17,C0496,Chandigarh,Pizza Corner,Pizza,701,20,0,721,Cash on Delivery,44.0,Delivered,1.0
+ORD00783,2025-11-21,C0104,Mohali,Biryani House,Indian,188,40,50,0,Wallet,,Cancelled,
+ORD00784,2025-11-30,C0209,Mohali,Burger Hub,Fast Food,773,50,25,798,Debit Card,58.0,Delivered,5.0
+ORD00785,2025-10-04,C0297,Mohali,Burger Hub,Fast Food,652,50,50,652,UPI,18.0,Delivered,4.0
+ORD00786,2025-01-31,C0523,Panchkula,Taco Street,Mexican,709,40,100,649,UPI,40.0,Delivered,2.0
+ORD00787,2025-03-24,C0287,Delhi,Pizza Corner,Pizza,765,20,25,760,Credit Card,71.0,Delivered,2.0
+ORD00788,2025-11-09,C0350,Mohali,Healthy Bowl,Healthy,851,40,100,791,Cash on Delivery,33.0,Delivered,3.0
+ORD00789,2025-11-03,C0005,Chandigarh,Healthy Bowl,Healthy,182,30,100,112,Credit Card,56.0,Delivered,4.0
+ORD00790,2025-07-31,C0456,Chandigarh,Taco Street,Mexican,954,20,100,874,Debit Card,52.0,Delivered,1.0
+ORD00791,2025-07-12,C0128,Delhi,Healthy Bowl,Healthy,942,30,100,0,Debit Card,,Cancelled,
+ORD00792,2025-04-09,C0197,Chandigarh,Taco Street,Mexican,169,30,100,99,Wallet,35.0,Delivered,3.0
+ORD00793,2025-11-17,C0038,Panchkula,Wok Express,Chinese,602,30,25,0,Cash on Delivery,,Cancelled,
+ORD00794,2025-12-27,C0513,Delhi,Biryani House,Indian,164,30,100,94,Credit Card,73.0,Delivered,3.0
+ORD00795,2025-10-10,C0266,Gurugram,Biryani House,Indian,509,20,50,479,Credit Card,22.0,Delivered,2.0
+ORD00796,2025-09-25,C0465,Chandigarh,Wok Express,Chinese,542,20,100,462,Cash on Delivery,57.0,Delivered,3.0
+ORD00797,2025-11-25,C0478,Delhi,Spice Garden,Indian,811,50,25,836,Debit Card,61.0,Delivered,5.0
+ORD00798,2025-09-22,C0324,Chandigarh,Spice Garden,Indian,609,20,0,629,Cash on Delivery,52.0,Delivered,4.0
+ORD00799,2025-04-10,C0077,Mohali,Healthy Bowl,Healthy,317,20,100,237,Credit Card,62.0,Delivered,4.0
+ORD00800,2025-03-26,C0443,Chandigarh,Healthy Bowl,Healthy,786,20,100,706,Wallet,19.0,Delivered,4.0
+ORD00801,2025-11-17,C0342,Gurugram,Healthy Bowl,Healthy,662,30,0,692,Credit Card,39.0,Delivered,1.0
+ORD00802,2025-02-07,C0387,Panchkula,Taco Street,Mexican,345,50,50,345,UPI,21.0,Delivered,1.0
+ORD00803,2025-03-07,C0105,Chandigarh,Spice Garden,Indian,1055,20,0,1075,Wallet,45.0,Delivered,1.0
+ORD00804,2025-01-27,C0011,Delhi,Wok Express,Chinese,931,50,0,981,Cash on Delivery,44.0,Delivered,2.0
+ORD00805,2025-08-26,C0465,Gurugram,Dosa Point,South Indian,357,40,100,297,Debit Card,68.0,Delivered,1.0
+ORD00806,2025-10-28,C0199,Gurugram,Biryani House,Indian,371,20,0,391,Credit Card,22.0,Delivered,5.0
+ORD00807,2025-11-23,C0249,Mohali,Wok Express,Chinese,877,50,25,902,UPI,46.0,Delivered,2.0
+ORD00808,2025-01-31,C0367,Panchkula,Burger Hub,Fast Food,788,50,50,0,Wallet,,Cancelled,
+ORD00809,2025-10-05,C0009,Gurugram,Burger Hub,Fast Food,451,50,0,501,Wallet,36.0,Delivered,3.0
+ORD00810,2025-12-03,C0433,Panchkula,Burger Hub,Fast Food,267,30,50,247,Credit Card,53.0,Delivered,1.0
+ORD00811,2025-04-13,C0340,Gurugram,Biryani House,Indian,290,40,0,330,Wallet,62.0,Delivered,4.0
+ORD00812,2025-06-21,C0508,Mohali,Wok Express,Chinese,1007,40,0,1047,UPI,74.0,Delivered,1.0
+ORD00813,2025-11-24,C0385,Mohali,Biryani House,Indian,621,50,50,621,Cash on Delivery,48.0,Delivered,3.0
+ORD00814,2025-04-05,C0146,Panchkula,Spice Garden,Indian,893,20,0,913,Cash on Delivery,53.0,Delivered,1.0
+ORD00815,2025-04-10,C0269,Mohali,Healthy Bowl,Healthy,239,20,0,259,Debit Card,29.0,Delivered,2.0
+ORD00816,2025-10-11,C0022,Mohali,Biryani House,Indian,515,30,0,545,Cash on Delivery,34.0,Delivered,1.0
+ORD00817,2025-12-02,C0176,Gurugram,Pizza Corner,Pizza,843,30,0,873,Wallet,41.0,Delivered,3.0
+ORD00818,2025-08-11,C0388,Panchkula,Pizza Corner,Pizza,392,30,0,422,Debit Card,30.0,Delivered,5.0
+ORD00819,2025-11-03,C0302,Mohali,Dosa Point,South Indian,650,20,50,620,Debit Card,72.0,Delivered,5.0
+ORD00820,2025-05-07,C0501,Mohali,Spice Garden,Indian,723,30,50,0,UPI,,Cancelled,
+ORD00821,2025-08-29,C0532,Delhi,Pizza Corner,Pizza,492,50,100,442,Credit Card,41.0,Delivered,4.0
+ORD00822,2025-06-14,C0038,Mohali,Healthy Bowl,Healthy,1139,50,25,1164,Credit Card,43.0,Delivered,5.0
+ORD00823,2025-04-14,C0161,Panchkula,Taco Street,Mexican,630,50,0,680,Debit Card,74.0,Delivered,4.0
+ORD00824,2025-10-09,C0043,Delhi,Pizza Corner,Pizza,425,20,0,445,Wallet,40.0,Delivered,2.0
+ORD00825,2025-11-15,C0325,Panchkula,Healthy Bowl,Healthy,1022,50,25,1047,Cash on Delivery,41.0,Delivered,4.0
+ORD00826,2025-01-13,C0302,Gurugram,Burger Hub,Fast Food,1054,30,0,1084,Wallet,40.0,Delivered,1.0
+ORD00827,2025-10-07,C0206,Panchkula,Pizza Corner,Pizza,716,30,0,746,Credit Card,41.0,Delivered,1.0
+ORD00828,2025-12-12,C0196,Gurugram,Healthy Bowl,Healthy,662,40,100,602,Credit Card,61.0,Delivered,3.0
+ORD00829,2025-10-06,C0416,Gurugram,Wok Express,Chinese,167,40,0,207,UPI,68.0,Delivered,4.0
+ORD00830,2025-08-30,C0240,Gurugram,Burger Hub,Fast Food,964,30,0,994,Wallet,31.0,Delivered,4.0
+ORD00831,2025-10-10,C0428,Mohali,Taco Street,Mexican,1094,40,0,1134,Cash on Delivery,30.0,Delivered,4.0
+ORD00832,2025-08-19,C0512,Panchkula,Spice Garden,Indian,917,30,50,897,Debit Card,37.0,Delivered,1.0
+ORD00833,2025-04-26,C0024,Gurugram,Dosa Point,South Indian,1021,50,100,971,UPI,38.0,Delivered,5.0
+ORD00834,2025-03-13,C0548,Delhi,Burger Hub,Fast Food,826,50,25,851,Credit Card,43.0,Delivered,1.0
+ORD00835,2025-09-01,C0107,Gurugram,Pizza Corner,Pizza,823,50,100,773,Credit Card,23.0,Delivered,2.0
+ORD00836,2025-01-17,C0211,Mohali,Taco Street,Mexican,204,30,0,234,Debit Card,42.0,Delivered,3.0
+ORD00837,2025-12-04,C0421,Delhi,Pizza Corner,Pizza,1081,20,0,1101,Credit Card,28.0,Delivered,3.0
+ORD00838,2025-02-26,C0134,Mohali,Burger Hub,Fast Food,1006,50,100,956,Debit Card,75.0,Delivered,2.0
+ORD00839,2025-08-10,C0283,Mohali,Taco Street,Mexican,475,40,50,465,UPI,63.0,Delivered,4.0
+ORD00840,2025-03-15,C0503,Delhi,Taco Street,Mexican,281,50,50,281,Cash on Delivery,51.0,Delivered,3.0
+ORD00841,2025-10-22,C0305,Delhi,Spice Garden,Indian,336,40,100,276,Wallet,47.0,Delivered,3.0
+ORD00842,2025-03-31,C0188,Gurugram,Dosa Point,South Indian,660,30,50,640,UPI,47.0,Delivered,4.0
+ORD00843,2025-07-21,C0069,Mohali,Spice Garden,Indian,640,30,0,670,Cash on Delivery,52.0,Delivered,3.0
+ORD00844,2025-07-30,C0420,Delhi,Pizza Corner,Pizza,905,20,0,925,Credit Card,67.0,Delivered,3.0
+ORD00845,2025-05-10,C0391,Panchkula,Biryani House,Indian,1186,20,25,1181,Cash on Delivery,58.0,Delivered,4.0
+ORD00846,2025-04-10,C0476,Delhi,Dosa Point,South Indian,227,20,0,247,Cash on Delivery,26.0,Delivered,3.0
+ORD00847,2025-02-04,C0175,Chandigarh,Pizza Corner,Pizza,646,50,0,696,Wallet,35.0,Delivered,2.0
+ORD00848,2025-02-21,C0012,Panchkula,Burger Hub,Fast Food,752,20,50,722,Credit Card,28.0,Delivered,1.0
+ORD00849,2025-08-14,C0222,Delhi,Healthy Bowl,Healthy,514,30,100,444,UPI,61.0,Delivered,5.0
+ORD00850,2025-11-22,C0387,Mohali,Pizza Corner,Pizza,949,40,25,964,Credit Card,18.0,Delivered,1.0
+ORD00851,2025-07-11,C0197,Chandigarh,Biryani House,Indian,559,20,0,579,Credit Card,18.0,Delivered,3.0
+ORD00852,2025-02-19,C0331,Gurugram,Burger Hub,Fast Food,492,20,25,487,Credit Card,70.0,Delivered,3.0
+ORD00853,2025-11-16,C0332,Mohali,Biryani House,Indian,959,50,0,1009,UPI,24.0,Delivered,3.0
+ORD00854,2025-07-25,C0378,Chandigarh,Healthy Bowl,Healthy,174,50,0,224,UPI,22.0,Delivered,3.0
+ORD00855,2025-04-22,C0176,Panchkula,Dosa Point,South Indian,767,50,0,817,UPI,68.0,Delivered,5.0
+ORD00856,2025-11-04,C0494,Chandigarh,Healthy Bowl,Healthy,945,30,0,975,Debit Card,66.0,Delivered,3.0
+ORD00857,2025-01-10,C0022,Gurugram,Taco Street,Mexican,933,30,50,913,UPI,18.0,Delivered,2.0
+ORD00858,2025-06-08,C0511,Panchkula,Biryani House,Indian,1027,30,50,1007,Credit Card,26.0,Delivered,3.0
+ORD00859,2025-03-19,C0337,Mohali,Dosa Point,South Indian,568,20,0,588,Debit Card,56.0,Delivered,4.0
+ORD00860,2025-06-12,C0351,Mohali,Spice Garden,Indian,999,40,0,1039,Credit Card,64.0,Delivered,3.0
+ORD00861,2025-10-04,C0188,Delhi,Spice Garden,Indian,658,30,50,638,UPI,51.0,Delivered,3.0
+ORD00862,2025-02-03,C0129,Chandigarh,Taco Street,Mexican,293,30,0,323,Credit Card,27.0,Delivered,2.0
+ORD00863,2025-10-31,C0203,Mohali,Biryani House,Indian,633,20,25,628,Cash on Delivery,37.0,Delivered,2.0
+ORD00864,2025-04-01,C0279,Delhi,Biryani House,Indian,770,40,50,760,UPI,58.0,Delivered,2.0
+ORD00865,2025-07-04,C0444,Mohali,Dosa Point,South Indian,923,30,25,928,Cash on Delivery,50.0,Delivered,5.0
+ORD00866,2025-01-11,C0180,Panchkula,Dosa Point,South Indian,1025,20,0,1045,Cash on Delivery,27.0,Delivered,5.0
+ORD00867,2025-08-26,C0342,Mohali,Wok Express,Chinese,1078,40,25,1093,Cash on Delivery,48.0,Delivered,1.0
+ORD00868,2025-04-11,C0504,Delhi,Burger Hub,Fast Food,538,20,0,558,Cash on Delivery,64.0,Delivered,3.0
+ORD00869,2025-07-22,C0419,Chandigarh,Healthy Bowl,Healthy,936,50,0,986,UPI,55.0,Delivered,1.0
+ORD00870,2025-07-17,C0522,Delhi,Burger Hub,Fast Food,547,50,0,597,Debit Card,66.0,Delivered,3.0
+ORD00871,2025-12-23,C0371,Chandigarh,Spice Garden,Indian,939,50,100,889,Credit Card,48.0,Delivered,1.0
+ORD00872,2025-05-14,C0013,Chandigarh,Taco Street,Mexican,451,40,0,491,UPI,60.0,Delivered,2.0
+ORD00873,2025-11-26,C0170,Delhi,Dosa Point,South Indian,964,20,50,934,Debit Card,74.0,Delivered,4.0
+ORD00874,2025-12-21,C0112,Gurugram,Wok Express,Chinese,1175,50,50,1175,Debit Card,44.0,Delivered,1.0
+ORD00875,2025-03-15,C0002,Chandigarh,Wok Express,Chinese,579,50,100,529,UPI,28.0,Delivered,4.0
+ORD00876,2025-12-23,C0191,Mohali,Dosa Point,South Indian,1003,40,100,943,Credit Card,29.0,Delivered,3.0
+ORD00877,2025-09-07,C0206,Chandigarh,Burger Hub,Fast Food,1179,20,25,1174,Credit Card,31.0,Delivered,2.0
+ORD00878,2025-04-09,C0082,Panchkula,Wok Express,Chinese,987,50,100,937,UPI,24.0,Delivered,2.0
+ORD00879,2025-07-13,C0497,Chandigarh,Pizza Corner,Pizza,716,20,0,736,UPI,33.0,Delivered,4.0
+ORD00880,2025-02-01,C0385,Gurugram,Wok Express,Chinese,164,20,0,184,Wallet,68.0,Delivered,1.0
+ORD00881,2025-05-17,C0323,Mohali,Taco Street,Mexican,1119,40,50,1109,Debit Card,41.0,Delivered,3.0
+ORD00882,2025-12-07,C0004,Delhi,Dosa Point,South Indian,925,20,0,945,Cash on Delivery,69.0,Delivered,1.0
+ORD00883,2025-03-13,C0463,Gurugram,Spice Garden,Indian,401,40,100,341,Cash on Delivery,33.0,Delivered,3.0
+ORD00884,2025-09-21,C0330,Chandigarh,Dosa Point,South Indian,534,20,100,0,Debit Card,,Cancelled,
+ORD00885,2025-01-24,C0084,Panchkula,Healthy Bowl,Healthy,1059,30,50,1039,Cash on Delivery,65.0,Delivered,5.0
+ORD00886,2025-09-01,C0517,Chandigarh,Pizza Corner,Pizza,938,40,50,928,Credit Card,27.0,Delivered,5.0
+ORD00887,2025-09-12,C0247,Mohali,Pizza Corner,Pizza,767,50,0,817,Credit Card,25.0,Delivered,4.0
+ORD00888,2025-03-29,C0288,Mohali,Pizza Corner,Pizza,366,50,100,316,Debit Card,38.0,Delivered,4.0
+ORD00889,2025-12-07,C0341,Mohali,Taco Street,Mexican,402,30,50,382,Wallet,49.0,Delivered,1.0
+ORD00890,2025-11-04,C0448,Mohali,Pizza Corner,Pizza,852,50,100,802,Credit Card,64.0,Delivered,4.0
+ORD00891,2025-05-13,C0193,Chandigarh,Pizza Corner,Pizza,745,20,0,765,Wallet,65.0,Delivered,5.0
+ORD00892,2025-07-08,C0549,Mohali,Burger Hub,Fast Food,791,50,50,791,Cash on Delivery,37.0,Delivered,1.0
+ORD00893,2025-08-05,C0110,Delhi,Healthy Bowl,Healthy,897,30,50,877,UPI,55.0,Delivered,2.0
+ORD00894,2025-10-03,C0151,Gurugram,Taco Street,Mexican,797,30,0,827,Debit Card,49.0,Delivered,4.0
+ORD00895,2025-03-16,C0127,Panchkula,Spice Garden,Indian,805,40,50,0,Wallet,,Cancelled,
+ORD00896,2025-09-02,C0061,Panchkula,Biryani House,Indian,1163,40,100,0,Credit Card,,Cancelled,
+ORD00897,2025-04-18,C0023,Gurugram,Biryani House,Indian,257,30,25,262,Cash on Delivery,37.0,Delivered,2.0
+ORD00898,2025-06-22,C0290,Mohali,Dosa Point,South Indian,1119,40,25,1134,Wallet,51.0,Delivered,3.0
+ORD00899,2025-07-21,C0469,Mohali,Pizza Corner,Pizza,418,40,50,408,Wallet,21.0,Delivered,3.0
+ORD00900,2025-03-12,C0010,Panchkula,Taco Street,Mexican,1138,40,0,1178,Wallet,69.0,Delivered,2.0
+ORD00901,2025-02-22,C0365,Delhi,Burger Hub,Fast Food,921,50,100,871,Credit Card,21.0,Delivered,1.0
+ORD00902,2025-01-27,C0035,Chandigarh,Pizza Corner,Pizza,843,50,0,893,Credit Card,43.0,Delivered,2.0
+ORD00903,2025-07-23,C0475,Delhi,Taco Street,Mexican,769,30,100,699,Debit Card,67.0,Delivered,1.0
+ORD00904,2025-11-20,C0522,Mohali,Taco Street,Mexican,902,20,0,922,UPI,25.0,Delivered,4.0
+ORD00905,2025-10-28,C0306,Gurugram,Taco Street,Mexican,710,20,50,680,Credit Card,48.0,Delivered,4.0
+ORD00906,2025-02-20,C0550,Gurugram,Healthy Bowl,Healthy,280,30,25,285,Cash on Delivery,19.0,Delivered,4.0
+ORD00907,2025-02-02,C0006,Gurugram,Pizza Corner,Pizza,574,20,0,594,Cash on Delivery,62.0,Delivered,2.0
+ORD00908,2025-06-10,C0263,Chandigarh,Pizza Corner,Pizza,230,30,50,210,UPI,28.0,Delivered,1.0
+ORD00909,2025-03-05,C0001,Mohali,Wok Express,Chinese,894,30,25,0,Debit Card,,Cancelled,
+ORD00910,2025-01-24,C0361,Gurugram,Wok Express,Chinese,1061,30,50,1041,Wallet,38.0,Delivered,5.0
+ORD00911,2025-09-19,C0221,Mohali,Biryani House,Indian,352,20,0,372,Wallet,27.0,Delivered,3.0
+ORD00912,2025-10-10,C0262,Panchkula,Biryani House,Indian,885,40,0,925,Cash on Delivery,45.0,Delivered,1.0
+ORD00913,2025-11-29,C0436,Mohali,Burger Hub,Fast Food,969,50,0,0,Wallet,,Cancelled,
+ORD00914,2025-04-15,C0168,Delhi,Pizza Corner,Pizza,701,30,100,631,Credit Card,60.0,Delivered,5.0
+ORD00915,2025-06-11,C0545,Chandigarh,Dosa Point,South Indian,926,20,50,896,Wallet,35.0,Delivered,1.0
+ORD00916,2025-07-28,C0150,Mohali,Pizza Corner,Pizza,824,20,0,844,Debit Card,67.0,Delivered,3.0
+ORD00917,2025-01-06,C0127,Mohali,Pizza Corner,Pizza,922,30,25,0,Wallet,,Cancelled,
+ORD00918,2025-06-06,C0278,Gurugram,Taco Street,Mexican,345,40,100,285,UPI,36.0,Delivered,5.0
+ORD00919,2025-01-25,C0413,Delhi,Burger Hub,Fast Food,801,50,0,851,Wallet,65.0,Delivered,5.0
+ORD00920,2025-03-07,C0274,Chandigarh,Wok Express,Chinese,169,30,100,99,Debit Card,42.0,Delivered,5.0
+ORD00921,2025-12-29,C0515,Panchkula,Biryani House,Indian,1006,50,0,1056,Debit Card,40.0,Delivered,4.0
+ORD00922,2025-08-08,C0082,Chandigarh,Biryani House,Indian,775,20,0,795,Credit Card,38.0,Delivered,1.0
+ORD00923,2025-02-17,C0435,Gurugram,Burger Hub,Fast Food,267,20,100,187,Credit Card,49.0,Delivered,1.0
+ORD00924,2025-09-03,C0436,Gurugram,Taco Street,Mexican,405,50,0,455,Debit Card,71.0,Delivered,1.0
+ORD00925,2025-05-06,C0231,Mohali,Spice Garden,Indian,1068,30,100,998,UPI,66.0,Delivered,5.0
+ORD00926,2025-07-07,C0116,Panchkula,Burger Hub,Fast Food,873,20,25,868,Credit Card,28.0,Delivered,3.0
+ORD00927,2025-10-04,C0404,Mohali,Pizza Corner,Pizza,744,40,25,759,Debit Card,31.0,Delivered,1.0
+ORD00928,2025-11-26,C0337,Panchkula,Spice Garden,Indian,1098,50,0,1148,Debit Card,57.0,Delivered,4.0
+ORD00929,2025-02-24,C0504,Mohali,Spice Garden,Indian,866,30,25,871,UPI,24.0,Delivered,4.0
+ORD00930,2025-09-28,C0232,Delhi,Burger Hub,Fast Food,991,20,25,986,Cash on Delivery,67.0,Delivered,3.0
+ORD00931,2025-07-11,C0450,Delhi,Wok Express,Chinese,896,50,0,946,Credit Card,35.0,Delivered,1.0
+ORD00932,2025-03-13,C0114,Mohali,Healthy Bowl,Healthy,1038,20,0,1058,Debit Card,63.0,Delivered,2.0
+ORD00933,2025-01-21,C0204,Delhi,Burger Hub,Fast Food,958,50,100,908,Debit Card,20.0,Delivered,2.0
+ORD00934,2025-03-02,C0514,Delhi,Dosa Point,South Indian,1151,50,100,1101,Credit Card,38.0,Delivered,4.0
+ORD00935,2025-02-26,C0054,Panchkula,Pizza Corner,Pizza,193,30,0,223,Cash on Delivery,18.0,Delivered,2.0
+ORD00936,2025-11-02,C0254,Gurugram,Spice Garden,Indian,1039,50,0,1089,Credit Card,23.0,Delivered,4.0
+ORD00937,2025-09-19,C0440,Mohali,Burger Hub,Fast Food,660,40,0,700,Cash on Delivery,62.0,Delivered,2.0
+ORD00938,2025-12-28,C0153,Mohali,Pizza Corner,Pizza,1178,30,0,0,UPI,,Cancelled,
+ORD00939,2025-03-09,C0205,Chandigarh,Dosa Point,South Indian,228,40,0,268,UPI,45.0,Delivered,1.0
+ORD00940,2025-07-14,C0523,Delhi,Dosa Point,South Indian,777,30,0,807,UPI,48.0,Delivered,1.0
+ORD00941,2025-06-05,C0429,Mohali,Pizza Corner,Pizza,701,40,0,0,Debit Card,,Cancelled,
+ORD00942,2025-01-25,C0293,Delhi,Burger Hub,Fast Food,233,20,0,253,Debit Card,38.0,Delivered,2.0
+ORD00943,2025-11-07,C0373,Panchkula,Pizza Corner,Pizza,1032,30,0,0,Debit Card,,Cancelled,
+ORD00944,2025-02-27,C0542,Gurugram,Pizza Corner,Pizza,177,30,0,207,Debit Card,69.0,Delivered,3.0
+ORD00945,2025-05-02,C0124,Chandigarh,Wok Express,Chinese,580,50,0,630,Wallet,26.0,Delivered,5.0
+ORD00946,2025-12-02,C0352,Panchkula,Biryani House,Indian,545,50,0,595,Cash on Delivery,52.0,Delivered,5.0
+ORD00947,2025-04-14,C0356,Panchkula,Burger Hub,Fast Food,239,30,0,269,Cash on Delivery,63.0,Delivered,3.0
+ORD00948,2025-11-19,C0171,Gurugram,Pizza Corner,Pizza,1043,20,25,1038,Debit Card,50.0,Delivered,1.0
+ORD00949,2025-12-23,C0408,Delhi,Burger Hub,Fast Food,743,20,50,713,Wallet,62.0,Delivered,2.0
+ORD00950,2025-09-20,C0411,Gurugram,Pizza Corner,Pizza,488,50,50,488,Debit Card,67.0,Delivered,4.0
+ORD00951,2025-04-16,C0526,Delhi,Burger Hub,Fast Food,157,30,50,137,Wallet,62.0,Delivered,1.0
+ORD00952,2025-12-29,C0176,Mohali,Wok Express,Chinese,771,30,0,801,UPI,53.0,Delivered,1.0
+ORD00953,2025-10-01,C0137,Panchkula,Biryani House,Indian,747,20,100,667,UPI,74.0,Delivered,3.0
+ORD00954,2025-11-25,C0378,Panchkula,Biryani House,Indian,580,20,0,600,UPI,58.0,Delivered,5.0
+ORD00955,2025-12-28,C0365,Mohali,Wok Express,Chinese,423,50,50,423,Debit Card,21.0,Delivered,1.0
+ORD00956,2025-04-01,C0212,Delhi,Wok Express,Chinese,182,20,100,102,Credit Card,42.0,Delivered,3.0
+ORD00957,2025-06-16,C0378,Mohali,Wok Express,Chinese,567,50,0,617,Cash on Delivery,64.0,Delivered,4.0
+ORD00958,2025-02-17,C0503,Mohali,Taco Street,Mexican,521,50,0,571,Debit Card,29.0,Delivered,2.0
+ORD00959,2025-01-11,C0147,Chandigarh,Wok Express,Chinese,483,30,25,488,Cash on Delivery,30.0,Delivered,1.0
+ORD00960,2025-05-06,C0103,Delhi,Taco Street,Mexican,974,20,100,894,Cash on Delivery,64.0,Delivered,1.0
+ORD00961,2025-01-11,C0147,Gurugram,Pizza Corner,Pizza,177,20,0,197,UPI,23.0,Delivered,3.0
+ORD00962,2025-01-05,C0455,Mohali,Pizza Corner,Pizza,843,20,0,863,Debit Card,66.0,Delivered,5.0
+ORD00963,2025-06-19,C0127,Chandigarh,Taco Street,Mexican,466,30,0,496,UPI,35.0,Delivered,5.0
+ORD00964,2025-02-22,C0233,Delhi,Wok Express,Chinese,360,50,0,410,Cash on Delivery,32.0,Delivered,1.0
+ORD00965,2025-03-17,C0504,Mohali,Healthy Bowl,Healthy,737,30,100,667,UPI,74.0,Delivered,1.0
+ORD00966,2025-04-25,C0087,Chandigarh,Pizza Corner,Pizza,727,40,0,767,Wallet,25.0,Delivered,3.0
+ORD00967,2025-03-19,C0309,Gurugram,Burger Hub,Fast Food,1027,40,50,1017,Debit Card,45.0,Delivered,2.0
+ORD00968,2025-06-28,C0003,Mohali,Pizza Corner,Pizza,705,50,100,655,Credit Card,34.0,Delivered,1.0
+ORD00969,2025-06-13,C0116,Gurugram,Burger Hub,Fast Food,949,50,100,899,Cash on Delivery,48.0,Delivered,1.0
+ORD00970,2025-05-23,C0327,Delhi,Burger Hub,Fast Food,335,40,0,375,Cash on Delivery,42.0,Delivered,3.0
+ORD00971,2025-09-04,C0510,Gurugram,Dosa Point,South Indian,832,30,100,762,Wallet,42.0,Delivered,4.0
+ORD00972,2025-09-10,C0225,Chandigarh,Biryani House,Indian,937,20,50,907,Credit Card,51.0,Delivered,5.0
+ORD00973,2025-07-05,C0062,Panchkula,Spice Garden,Indian,566,20,0,586,Debit Card,26.0,Delivered,1.0
+ORD00974,2025-03-13,C0432,Mohali,Wok Express,Chinese,1092,30,50,0,Credit Card,,Cancelled,
+ORD00975,2025-04-25,C0435,Panchkula,Spice Garden,Indian,432,20,100,352,UPI,42.0,Delivered,1.0
+ORD00976,2025-12-26,C0375,Mohali,Pizza Corner,Pizza,301,50,50,301,UPI,19.0,Delivered,2.0
+ORD00977,2025-05-06,C0541,Panchkula,Pizza Corner,Pizza,175,50,0,225,Cash on Delivery,48.0,Delivered,2.0
+ORD00978,2025-07-30,C0178,Gurugram,Healthy Bowl,Healthy,1059,20,0,1079,Credit Card,21.0,Delivered,1.0
+ORD00979,2025-01-06,C0514,Panchkula,Dosa Point,South Indian,1017,50,50,1017,Credit Card,34.0,Delivered,5.0
+ORD00980,2025-08-05,C0411,Gurugram,Burger Hub,Fast Food,706,20,50,676,UPI,26.0,Delivered,2.0
+ORD00981,2025-04-23,C0390,Mohali,Dosa Point,South Indian,526,20,100,446,UPI,38.0,Delivered,4.0
+ORD00982,2025-07-10,C0344,Chandigarh,Dosa Point,South Indian,548,40,0,588,Credit Card,41.0,Delivered,5.0
+ORD00983,2025-05-25,C0193,Gurugram,Burger Hub,Fast Food,368,20,0,388,Credit Card,66.0,Delivered,3.0
+ORD00984,2025-11-23,C0046,Gurugram,Spice Garden,Indian,642,40,0,0,Cash on Delivery,,Cancelled,
+ORD00985,2025-01-24,C0408,Gurugram,Spice Garden,Indian,794,20,0,814,Credit Card,40.0,Delivered,3.0
+ORD00986,2025-06-11,C0516,Chandigarh,Dosa Point,South Indian,878,30,100,808,Wallet,39.0,Delivered,4.0
+ORD00987,2025-03-18,C0166,Mohali,Spice Garden,Indian,932,50,50,932,Cash on Delivery,20.0,Delivered,3.0
+ORD00988,2025-02-10,C0514,Gurugram,Pizza Corner,Pizza,624,30,100,554,Wallet,67.0,Delivered,2.0
+ORD00989,2025-11-30,C0041,Delhi,Healthy Bowl,Healthy,1066,30,0,1096,Credit Card,57.0,Delivered,4.0
+ORD00990,2025-04-17,C0090,Delhi,Pizza Corner,Pizza,462,50,0,512,UPI,27.0,Delivered,3.0
+ORD00991,2025-08-21,C0362,Chandigarh,Healthy Bowl,Healthy,497,40,0,537,UPI,54.0,Delivered,3.0
+ORD00992,2025-04-02,C0127,Gurugram,Taco Street,Mexican,678,50,0,728,Cash on Delivery,46.0,Delivered,2.0
+ORD00993,2025-01-21,C0452,Panchkula,Healthy Bowl,Healthy,737,50,25,762,Wallet,61.0,Delivered,2.0
+ORD00994,2025-11-16,C0044,Gurugram,Healthy Bowl,Healthy,915,20,100,835,UPI,46.0,Delivered,3.0
+ORD00995,2025-05-06,C0075,Mohali,Spice Garden,Indian,466,20,0,486,Cash on Delivery,54.0,Delivered,4.0
+ORD00996,2025-08-25,C0112,Chandigarh,Pizza Corner,Pizza,864,50,25,889,Credit Card,75.0,Delivered,4.0
+ORD00997,2025-02-25,C0498,Mohali,Dosa Point,South Indian,1037,30,25,1042,Cash on Delivery,38.0,Delivered,3.0
+ORD00998,2025-02-28,C0219,Panchkula,Wok Express,Chinese,1080,20,50,1050,Wallet,48.0,Delivered,2.0
+ORD00999,2025-01-17,C0219,Chandigarh,Dosa Point,South Indian,277,40,25,0,Credit Card,,Cancelled,
+ORD01000,2025-01-12,C0281,Delhi,Dosa Point,South Indian,702,40,100,642,UPI,27.0,Delivered,1.0
+ORD01001,2025-06-02,C0095,Delhi,Taco Street,Mexican,1009,30,100,939,Debit Card,29.0,Delivered,1.0
+ORD01002,2025-06-02,C0448,Panchkula,Burger Hub,Fast Food,556,40,25,571,Wallet,52.0,Delivered,2.0
+ORD01003,2025-07-19,C0332,Panchkula,Spice Garden,Indian,556,20,100,476,UPI,57.0,Delivered,2.0
+ORD01004,2025-03-19,C0270,Gurugram,Taco Street,Mexican,452,50,0,502,UPI,61.0,Delivered,4.0
+ORD01005,2025-08-19,C0171,Gurugram,Burger Hub,Fast Food,1070,20,0,1090,Cash on Delivery,30.0,Delivered,4.0
+ORD01006,2025-04-21,C0373,Chandigarh,Healthy Bowl,Healthy,579,30,100,509,Debit Card,18.0,Delivered,3.0
+ORD01007,2025-06-07,C0437,Gurugram,Pizza Corner,Pizza,1172,50,25,1197,Debit Card,40.0,Delivered,5.0
+ORD01008,2025-02-28,C0447,Delhi,Burger Hub,Fast Food,1089,50,0,1139,Debit Card,56.0,Delivered,2.0
+ORD01009,2025-12-04,C0017,Gurugram,Dosa Point,South Indian,730,20,0,750,Cash on Delivery,24.0,Delivered,1.0
+ORD01010,2025-02-23,C0431,Mohali,Taco Street,Mexican,354,50,50,354,Credit Card,20.0,Delivered,3.0
+ORD01011,2025-08-21,C0360,Delhi,Dosa Point,South Indian,384,30,25,0,Cash on Delivery,,Cancelled,
+ORD01012,2025-11-27,C0315,Delhi,Dosa Point,South Indian,165,40,0,205,Credit Card,35.0,Delivered,3.0
+ORD01013,2025-01-03,C0326,Panchkula,Dosa Point,South Indian,216,20,0,236,Credit Card,41.0,Delivered,5.0
+ORD01014,2025-10-20,C0440,Mohali,Dosa Point,South Indian,645,50,0,695,Cash on Delivery,43.0,Delivered,1.0
+ORD01015,2025-03-30,C0517,Chandigarh,Dosa Point,South Indian,801,30,25,806,Wallet,63.0,Delivered,2.0
+ORD01016,2025-07-20,C0012,Gurugram,Wok Express,Chinese,475,40,0,515,Credit Card,19.0,Delivered,4.0
+ORD01017,2025-01-15,C0192,Mohali,Pizza Corner,Pizza,933,20,100,853,Credit Card,47.0,Delivered,3.0
+ORD01018,2025-06-02,C0148,Chandigarh,Biryani House,Indian,652,50,0,702,Wallet,35.0,Delivered,1.0
+ORD01019,2025-02-22,C0096,Chandigarh,Pizza Corner,Pizza,1090,20,0,1110,Cash on Delivery,34.0,Delivered,2.0
+ORD01020,2025-07-05,C0499,Chandigarh,Biryani House,Indian,950,20,25,945,Credit Card,44.0,Delivered,1.0
+ORD01021,2025-12-18,C0185,Panchkula,Dosa Point,South Indian,918,40,100,858,UPI,69.0,Delivered,2.0
+ORD01022,2025-04-02,C0006,Mohali,Spice Garden,Indian,390,40,0,430,Wallet,57.0,Delivered,5.0
+ORD01023,2025-05-11,C0222,Panchkula,Pizza Corner,Pizza,544,20,50,514,UPI,50.0,Delivered,2.0
+ORD01024,2025-04-22,C0275,Panchkula,Spice Garden,Indian,820,30,0,850,Cash on Delivery,62.0,Delivered,2.0
+ORD01025,2025-04-13,C0525,Delhi,Pizza Corner,Pizza,863,40,25,878,Credit Card,49.0,Delivered,4.0
+ORD01026,2025-05-09,C0320,Mohali,Burger Hub,Fast Food,555,40,25,570,Credit Card,68.0,Delivered,5.0
+ORD01027,2025-09-07,C0111,Gurugram,Dosa Point,South Indian,1063,50,50,1063,Cash on Delivery,70.0,Delivered,3.0
+ORD01028,2025-08-08,C0035,Gurugram,Biryani House,Indian,872,40,100,812,Debit Card,46.0,Delivered,2.0
+ORD01029,2025-10-28,C0440,Mohali,Dosa Point,South Indian,751,40,25,766,Debit Card,29.0,Delivered,3.0
+ORD01030,2025-05-06,C0010,Panchkula,Pizza Corner,Pizza,590,40,0,630,UPI,38.0,Delivered,1.0
+ORD01031,2025-06-18,C0218,Gurugram,Biryani House,Indian,1103,40,0,1143,Credit Card,42.0,Delivered,3.0
+ORD01032,2025-02-22,C0203,Mohali,Wok Express,Chinese,303,50,100,253,UPI,38.0,Delivered,3.0
+ORD01033,2025-09-10,C0335,Gurugram,Taco Street,Mexican,245,40,25,260,Cash on Delivery,46.0,Delivered,2.0
+ORD01034,2025-05-02,C0473,Panchkula,Spice Garden,Indian,733,20,100,653,Credit Card,54.0,Delivered,1.0
+ORD01035,2025-07-26,C0426,Panchkula,Spice Garden,Indian,230,40,100,170,Debit Card,48.0,Delivered,1.0
+ORD01036,2025-06-12,C0049,Delhi,Healthy Bowl,Healthy,969,20,50,939,Debit Card,49.0,Delivered,5.0
+ORD01037,2025-12-23,C0230,Chandigarh,Taco Street,Mexican,1160,20,0,1180,UPI,24.0,Delivered,1.0
+ORD01038,2025-03-13,C0006,Chandigarh,Pizza Corner,Pizza,811,50,0,861,Debit Card,30.0,Delivered,3.0
+ORD01039,2025-01-23,C0389,Panchkula,Pizza Corner,Pizza,248,40,0,288,Credit Card,62.0,Delivered,5.0
+ORD01040,2025-03-12,C0424,Delhi,Taco Street,Mexican,395,30,0,425,UPI,66.0,Delivered,5.0
+ORD01041,2025-09-25,C0232,Chandigarh,Biryani House,Indian,1128,50,0,1178,Debit Card,64.0,Delivered,4.0
+ORD01042,2025-06-01,C0080,Chandigarh,Pizza Corner,Pizza,872,30,100,802,Cash on Delivery,72.0,Delivered,2.0
+ORD01043,2025-01-31,C0108,Panchkula,Biryani House,Indian,176,30,25,181,Credit Card,30.0,Delivered,4.0
+ORD01044,2025-10-30,C0134,Mohali,Healthy Bowl,Healthy,788,50,100,738,Debit Card,50.0,Delivered,1.0
+ORD01045,2025-07-17,C0315,Gurugram,Taco Street,Mexican,565,50,0,615,UPI,45.0,Delivered,2.0
+ORD01046,2025-03-17,C0274,Chandigarh,Taco Street,Mexican,369,20,0,389,Cash on Delivery,47.0,Delivered,2.0
+ORD01047,2025-12-05,C0442,Mohali,Taco Street,Mexican,870,40,0,910,Credit Card,23.0,Delivered,3.0
+ORD01048,2025-07-23,C0051,Delhi,Dosa Point,South Indian,1190,40,0,1230,Cash on Delivery,41.0,Delivered,1.0
+ORD01049,2025-04-10,C0506,Gurugram,Wok Express,Chinese,537,50,0,587,Cash on Delivery,51.0,Delivered,5.0
+ORD01050,2025-02-25,C0273,Mohali,Spice Garden,Indian,659,20,0,679,UPI,75.0,Delivered,1.0
+ORD01051,2025-09-30,C0403,Chandigarh,Pizza Corner,Pizza,714,30,50,694,Credit Card,43.0,Delivered,4.0
+ORD01052,2025-12-21,C0295,Chandigarh,Wok Express,Chinese,1164,30,0,1194,UPI,40.0,Delivered,3.0
+ORD01053,2025-04-05,C0192,Panchkula,Taco Street,Mexican,775,30,0,805,Cash on Delivery,22.0,Delivered,2.0
+ORD01054,2025-03-14,C0175,Chandigarh,Spice Garden,Indian,1121,50,0,1171,Wallet,34.0,Delivered,1.0
+ORD01055,2025-06-30,C0298,Mohali,Taco Street,Mexican,152,50,0,202,Wallet,20.0,Delivered,1.0
+ORD01056,2025-09-15,C0464,Delhi,Burger Hub,Fast Food,450,20,0,470,Debit Card,65.0,Delivered,3.0
+ORD01057,2025-10-07,C0309,Panchkula,Wok Express,Chinese,1146,40,0,1186,Wallet,70.0,Delivered,3.0
+ORD01058,2025-12-06,C0152,Delhi,Taco Street,Mexican,380,40,100,320,Credit Card,58.0,Delivered,1.0
+ORD01059,2025-12-04,C0369,Mohali,Burger Hub,Fast Food,881,50,0,931,UPI,65.0,Delivered,4.0
+ORD01060,2025-04-10,C0540,Mohali,Dosa Point,South Indian,371,40,100,311,Debit Card,75.0,Delivered,4.0
+ORD01061,2025-12-14,C0196,Chandigarh,Healthy Bowl,Healthy,828,50,50,828,Wallet,35.0,Delivered,3.0
+ORD01062,2025-09-24,C0296,Chandigarh,Healthy Bowl,Healthy,401,50,25,426,UPI,68.0,Delivered,3.0
+ORD01063,2025-09-13,C0167,Panchkula,Burger Hub,Fast Food,1105,30,50,0,Cash on Delivery,,Cancelled,
+ORD01064,2025-05-28,C0127,Chandigarh,Pizza Corner,Pizza,753,20,25,748,Cash on Delivery,36.0,Delivered,5.0
+ORD01065,2025-06-06,C0142,Panchkula,Spice Garden,Indian,1031,40,100,971,Debit Card,21.0,Delivered,3.0
+ORD01066,2025-09-15,C0202,Delhi,Burger Hub,Fast Food,326,40,0,0,Wallet,,Cancelled,
+ORD01067,2025-02-11,C0433,Delhi,Wok Express,Chinese,598,20,25,593,UPI,33.0,Delivered,4.0
+ORD01068,2025-05-14,C0143,Mohali,Wok Express,Chinese,786,30,50,766,Debit Card,74.0,Delivered,3.0
+ORD01069,2025-03-11,C0188,Delhi,Dosa Point,South Indian,558,40,0,598,Cash on Delivery,54.0,Delivered,4.0
+ORD01070,2025-02-19,C0480,Panchkula,Burger Hub,Fast Food,1055,40,50,1045,Cash on Delivery,63.0,Delivered,3.0
+ORD01071,2025-08-27,C0091,Mohali,Dosa Point,South Indian,990,50,0,1040,Wallet,19.0,Delivered,4.0
+ORD01072,2025-06-04,C0301,Chandigarh,Biryani House,Indian,1198,40,0,1238,Cash on Delivery,75.0,Delivered,5.0
+ORD01073,2025-03-06,C0057,Panchkula,Dosa Point,South Indian,162,50,50,162,UPI,21.0,Delivered,1.0
+ORD01074,2025-06-20,C0524,Chandigarh,Pizza Corner,Pizza,745,50,100,695,Credit Card,21.0,Delivered,1.0
+ORD01075,2025-09-22,C0309,Panchkula,Burger Hub,Fast Food,1164,30,0,1194,UPI,58.0,Delivered,2.0
+ORD01076,2025-09-06,C0533,Chandigarh,Biryani House,Indian,384,20,0,404,Credit Card,74.0,Delivered,1.0
+ORD01077,2025-04-15,C0308,Delhi,Pizza Corner,Pizza,1120,20,50,1090,Cash on Delivery,21.0,Delivered,1.0
+ORD01078,2025-04-05,C0023,Mohali,Biryani House,Indian,683,50,100,633,Credit Card,45.0,Delivered,2.0
+ORD01079,2025-12-03,C0505,Panchkula,Biryani House,Indian,499,30,25,504,Debit Card,36.0,Delivered,1.0
+ORD01080,2025-07-20,C0291,Delhi,Dosa Point,South Indian,369,50,25,394,UPI,27.0,Delivered,1.0
+ORD01081,2025-10-16,C0456,Chandigarh,Dosa Point,South Indian,172,40,0,212,Debit Card,75.0,Delivered,5.0
+ORD01082,2025-03-13,C0367,Gurugram,Taco Street,Mexican,1088,40,0,0,Wallet,,Cancelled,
+ORD01083,2025-04-18,C0348,Delhi,Healthy Bowl,Healthy,949,20,0,969,Credit Card,40.0,Delivered,5.0
+ORD01084,2025-05-23,C0185,Gurugram,Wok Express,Chinese,956,20,100,876,Wallet,48.0,Delivered,5.0
+ORD01085,2025-12-04,C0357,Gurugram,Wok Express,Chinese,415,40,50,0,Wallet,,Cancelled,
+ORD01086,2025-07-26,C0512,Delhi,Pizza Corner,Pizza,242,20,100,162,Debit Card,24.0,Delivered,1.0
+ORD01087,2025-04-29,C0066,Chandigarh,Biryani House,Indian,365,30,100,295,Wallet,66.0,Delivered,4.0
+ORD01088,2025-05-09,C0179,Panchkula,Pizza Corner,Pizza,226,20,25,221,UPI,56.0,Delivered,1.0
+ORD01089,2025-12-24,C0259,Delhi,Taco Street,Mexican,923,30,100,853,Cash on Delivery,30.0,Delivered,2.0
+ORD01090,2025-12-14,C0197,Chandigarh,Wok Express,Chinese,611,30,100,541,Wallet,70.0,Delivered,5.0
+ORD01091,2025-01-13,C0074,Panchkula,Pizza Corner,Pizza,566,20,0,586,Credit Card,41.0,Delivered,4.0
+ORD01092,2025-12-16,C0366,Gurugram,Taco Street,Mexican,539,30,50,519,Wallet,50.0,Delivered,3.0
+ORD01093,2025-03-12,C0081,Mohali,Pizza Corner,Pizza,1048,50,100,998,Wallet,22.0,Delivered,5.0
+ORD01094,2025-06-02,C0024,Mohali,Pizza Corner,Pizza,391,50,0,441,Debit Card,52.0,Delivered,3.0
+ORD01095,2025-05-09,C0077,Gurugram,Dosa Point,South Indian,882,20,0,0,Wallet,,Cancelled,
+ORD01096,2025-05-04,C0483,Panchkula,Wok Express,Chinese,967,20,50,937,UPI,25.0,Delivered,5.0
+ORD01097,2025-01-17,C0143,Mohali,Healthy Bowl,Healthy,1013,40,0,1053,Wallet,66.0,Delivered,1.0
+ORD01098,2025-06-18,C0037,Panchkula,Spice Garden,Indian,632,50,0,682,UPI,54.0,Delivered,5.0
+ORD01099,2025-08-02,C0509,Gurugram,Pizza Corner,Pizza,1130,30,0,1160,Credit Card,24.0,Delivered,1.0
+ORD01100,2025-11-29,C0022,Chandigarh,Healthy Bowl,Healthy,1033,50,0,1083,UPI,74.0,Delivered,2.0
+ORD01101,2025-04-11,C0441,Delhi,Dosa Point,South Indian,187,50,0,237,Wallet,42.0,Delivered,2.0
+ORD01102,2025-03-12,C0377,Panchkula,Pizza Corner,Pizza,1046,20,50,0,Credit Card,,Cancelled,
+ORD01103,2025-06-25,C0423,Gurugram,Dosa Point,South Indian,268,30,0,298,Wallet,18.0,Delivered,2.0
+ORD01104,2025-01-24,C0290,Chandigarh,Spice Garden,Indian,661,20,0,681,Debit Card,46.0,Delivered,2.0
+ORD01105,2025-06-29,C0079,Chandigarh,Biryani House,Indian,748,30,50,728,Debit Card,60.0,Delivered,1.0
+ORD01106,2025-10-06,C0300,Mohali,Biryani House,Indian,1163,40,0,1203,Wallet,37.0,Delivered,3.0
+ORD01107,2025-05-17,C0498,Panchkula,Healthy Bowl,Healthy,1181,20,0,1201,UPI,44.0,Delivered,5.0
+ORD01108,2025-04-15,C0146,Chandigarh,Burger Hub,Fast Food,622,40,100,562,Credit Card,25.0,Delivered,3.0
+ORD01109,2025-12-24,C0285,Gurugram,Taco Street,Mexican,1079,20,0,1099,Cash on Delivery,20.0,Delivered,3.0
+ORD01110,2025-06-03,C0394,Delhi,Pizza Corner,Pizza,272,40,50,262,UPI,19.0,Delivered,4.0
+ORD01111,2025-04-25,C0033,Gurugram,Biryani House,Indian,926,30,100,856,Debit Card,21.0,Delivered,3.0
+ORD01112,2025-01-14,C0445,Delhi,Healthy Bowl,Healthy,687,30,0,717,UPI,71.0,Delivered,5.0
+ORD01113,2025-02-25,C0267,Mohali,Dosa Point,South Indian,738,50,25,763,Cash on Delivery,54.0,Delivered,5.0
+ORD01114,2025-08-28,C0256,Gurugram,Biryani House,Indian,420,20,0,440,Debit Card,35.0,Delivered,1.0
+ORD01115,2025-06-22,C0013,Chandigarh,Dosa Point,South Indian,229,40,0,269,Debit Card,34.0,Delivered,5.0
+ORD01116,2025-10-19,C0478,Chandigarh,Healthy Bowl,Healthy,691,30,25,696,Debit Card,46.0,Delivered,1.0
+ORD01117,2025-09-03,C0322,Chandigarh,Biryani House,Indian,986,20,50,956,Cash on Delivery,35.0,Delivered,5.0
+ORD01118,2025-04-03,C0151,Gurugram,Wok Express,Chinese,715,40,25,730,UPI,58.0,Delivered,2.0
+ORD01119,2025-04-30,C0325,Chandigarh,Pizza Corner,Pizza,228,30,100,158,Wallet,46.0,Delivered,5.0
+ORD01120,2025-04-27,C0046,Gurugram,Spice Garden,Indian,680,40,0,720,Credit Card,72.0,Delivered,3.0
+ORD01121,2025-06-29,C0334,Gurugram,Pizza Corner,Pizza,308,50,0,358,Debit Card,33.0,Delivered,2.0
+ORD01122,2025-12-15,C0369,Panchkula,Dosa Point,South Indian,296,50,0,346,Cash on Delivery,38.0,Delivered,5.0
+ORD01123,2025-11-30,C0298,Mohali,Healthy Bowl,Healthy,1113,40,50,1103,Wallet,41.0,Delivered,1.0
+ORD01124,2025-01-14,C0353,Mohali,Pizza Corner,Pizza,583,40,50,573,Cash on Delivery,65.0,Delivered,5.0
+ORD01125,2025-10-26,C0516,Gurugram,Spice Garden,Indian,457,50,100,407,Wallet,22.0,Delivered,2.0
+ORD01126,2025-08-03,C0276,Mohali,Pizza Corner,Pizza,255,50,100,205,Wallet,46.0,Delivered,3.0
+ORD01127,2025-05-31,C0247,Delhi,Biryani House,Indian,823,30,0,853,Cash on Delivery,38.0,Delivered,1.0
+ORD01128,2025-07-05,C0460,Delhi,Pizza Corner,Pizza,870,20,0,890,Credit Card,56.0,Delivered,2.0
+ORD01129,2025-10-19,C0267,Panchkula,Burger Hub,Fast Food,651,50,100,601,Debit Card,26.0,Delivered,5.0
+ORD01130,2025-06-10,C0507,Mohali,Pizza Corner,Pizza,316,50,25,341,Credit Card,27.0,Delivered,5.0
+ORD01131,2025-08-21,C0104,Mohali,Spice Garden,Indian,491,20,25,486,UPI,53.0,Delivered,4.0
+ORD01132,2025-08-09,C0433,Panchkula,Spice Garden,Indian,491,20,0,511,Credit Card,51.0,Delivered,4.0
+ORD01133,2025-07-25,C0111,Chandigarh,Biryani House,Indian,750,20,0,770,UPI,75.0,Delivered,3.0
+ORD01134,2025-07-01,C0138,Mohali,Taco Street,Mexican,987,50,100,937,Wallet,36.0,Delivered,4.0
+ORD01135,2025-09-18,C0389,Panchkula,Pizza Corner,Pizza,461,20,50,431,Cash on Delivery,61.0,Delivered,4.0
+ORD01136,2025-04-01,C0531,Gurugram,Wok Express,Chinese,348,30,0,378,Wallet,21.0,Delivered,5.0
+ORD01137,2025-09-18,C0043,Mohali,Dosa Point,South Indian,734,40,25,749,Cash on Delivery,29.0,Delivered,2.0
+ORD01138,2025-09-23,C0281,Delhi,Wok Express,Chinese,793,20,0,813,Cash on Delivery,25.0,Delivered,3.0
+ORD01139,2025-04-25,C0145,Chandigarh,Burger Hub,Fast Food,740,40,50,730,Credit Card,32.0,Delivered,3.0
+ORD01140,2025-10-10,C0501,Chandigarh,Burger Hub,Fast Food,206,20,50,176,Debit Card,30.0,Delivered,1.0
+ORD01141,2025-04-15,C0113,Chandigarh,Wok Express,Chinese,1023,50,50,1023,Cash on Delivery,47.0,Delivered,3.0
+ORD01142,2025-08-10,C0120,Panchkula,Taco Street,Mexican,688,20,0,0,UPI,,Cancelled,
+ORD01143,2025-04-24,C0076,Panchkula,Pizza Corner,Pizza,819,30,50,799,UPI,47.0,Delivered,5.0
+ORD01144,2025-08-10,C0009,Mohali,Pizza Corner,Pizza,800,30,50,780,Credit Card,74.0,Delivered,1.0
+ORD01145,2025-10-28,C0509,Panchkula,Dosa Point,South Indian,600,30,0,630,Credit Card,49.0,Delivered,2.0
+ORD01146,2025-04-12,C0214,Mohali,Pizza Corner,Pizza,588,20,25,583,UPI,53.0,Delivered,5.0
+ORD01147,2025-08-03,C0308,Mohali,Wok Express,Chinese,928,30,100,858,Debit Card,51.0,Delivered,2.0
+ORD01148,2025-12-09,C0099,Mohali,Taco Street,Mexican,1153,50,50,1153,UPI,48.0,Delivered,3.0
+ORD01149,2025-05-28,C0476,Panchkula,Dosa Point,South Indian,1065,40,0,1105,UPI,25.0,Delivered,2.0
+ORD01150,2025-06-27,C0030,Panchkula,Dosa Point,South Indian,412,50,25,437,Debit Card,61.0,Delivered,2.0
+ORD01151,2025-09-17,C0422,Delhi,Biryani House,Indian,987,20,50,957,Cash on Delivery,34.0,Delivered,3.0
+ORD01152,2025-08-06,C0047,Panchkula,Dosa Point,South Indian,683,20,0,703,Cash on Delivery,32.0,Delivered,3.0
+ORD01153,2025-07-29,C0338,Mohali,Biryani House,Indian,491,30,100,421,Wallet,57.0,Delivered,5.0
+ORD01154,2025-10-04,C0065,Chandigarh,Spice Garden,Indian,193,50,0,243,Wallet,39.0,Delivered,3.0
+ORD01155,2025-04-18,C0298,Mohali,Healthy Bowl,Healthy,556,30,50,536,Debit Card,63.0,Delivered,2.0
+ORD01156,2025-06-19,C0105,Gurugram,Dosa Point,South Indian,591,30,0,621,Cash on Delivery,19.0,Delivered,5.0
+ORD01157,2025-09-06,C0035,Panchkula,Spice Garden,Indian,471,40,0,511,UPI,58.0,Delivered,2.0
+ORD01158,2025-07-13,C0021,Chandigarh,Dosa Point,South Indian,418,40,0,458,Wallet,50.0,Delivered,4.0
+ORD01159,2025-11-06,C0332,Delhi,Burger Hub,Fast Food,345,50,0,395,Wallet,72.0,Delivered,3.0
+ORD01160,2025-01-12,C0483,Delhi,Wok Express,Chinese,711,50,0,761,Debit Card,59.0,Delivered,5.0
+ORD01161,2025-08-08,C0519,Mohali,Pizza Corner,Pizza,605,50,50,605,Cash on Delivery,36.0,Delivered,5.0
+ORD01162,2025-01-09,C0026,Delhi,Taco Street,Mexican,956,40,50,946,Credit Card,46.0,Delivered,2.0
+ORD01163,2025-08-17,C0098,Gurugram,Healthy Bowl,Healthy,1126,20,100,1046,Credit Card,27.0,Delivered,1.0
+ORD01164,2025-04-17,C0536,Gurugram,Taco Street,Mexican,661,20,0,681,Credit Card,71.0,Delivered,4.0
+ORD01165,2025-01-31,C0038,Panchkula,Taco Street,Mexican,666,50,0,716,Wallet,71.0,Delivered,2.0
+ORD01166,2025-11-03,C0512,Panchkula,Dosa Point,South Indian,161,40,100,101,Credit Card,53.0,Delivered,4.0
+ORD01167,2025-06-14,C0131,Chandigarh,Taco Street,Mexican,1139,20,0,1159,Credit Card,22.0,Delivered,4.0
+ORD01168,2025-09-24,C0435,Delhi,Pizza Corner,Pizza,490,30,25,495,Credit Card,25.0,Delivered,1.0
+ORD01169,2025-11-17,C0302,Panchkula,Taco Street,Mexican,436,50,25,461,Wallet,25.0,Delivered,4.0
+ORD01170,2025-06-15,C0381,Gurugram,Healthy Bowl,Healthy,489,30,0,519,Wallet,31.0,Delivered,5.0
+ORD01171,2025-05-09,C0169,Gurugram,Taco Street,Mexican,1097,30,0,1127,Cash on Delivery,64.0,Delivered,2.0
+ORD01172,2025-01-06,C0193,Mohali,Healthy Bowl,Healthy,1002,30,0,1032,UPI,18.0,Delivered,3.0
+ORD01173,2025-10-03,C0069,Panchkula,Taco Street,Mexican,827,20,0,847,Wallet,56.0,Delivered,2.0
+ORD01174,2025-04-26,C0314,Panchkula,Healthy Bowl,Healthy,178,30,0,208,Wallet,73.0,Delivered,4.0
+ORD01175,2025-07-26,C0287,Mohali,Wok Express,Chinese,564,20,50,534,Debit Card,64.0,Delivered,2.0
+ORD01176,2025-10-16,C0284,Gurugram,Pizza Corner,Pizza,409,50,0,459,Cash on Delivery,72.0,Delivered,5.0
+ORD01177,2025-04-18,C0151,Mohali,Burger Hub,Fast Food,155,30,0,185,Credit Card,69.0,Delivered,5.0
+ORD01178,2025-09-01,C0436,Delhi,Spice Garden,Indian,812,20,0,832,Debit Card,69.0,Delivered,4.0
+ORD01179,2025-06-04,C0364,Panchkula,Pizza Corner,Pizza,643,50,25,668,Wallet,63.0,Delivered,4.0
+ORD01180,2025-06-12,C0448,Gurugram,Pizza Corner,Pizza,588,30,100,518,Cash on Delivery,63.0,Delivered,2.0
+ORD01181,2025-09-08,C0478,Panchkula,Wok Express,Chinese,396,50,100,346,Cash on Delivery,19.0,Delivered,3.0
+ORD01182,2025-04-20,C0453,Panchkula,Biryani House,Indian,933,40,0,973,Wallet,18.0,Delivered,2.0
+ORD01183,2025-04-10,C0014,Gurugram,Spice Garden,Indian,785,40,0,825,Debit Card,34.0,Delivered,5.0
+ORD01184,2025-01-18,C0260,Panchkula,Wok Express,Chinese,1130,50,0,0,UPI,,Cancelled,
+ORD01185,2025-10-20,C0107,Chandigarh,Spice Garden,Indian,1114,50,25,1139,Debit Card,65.0,Delivered,5.0
+ORD01186,2025-01-15,C0058,Delhi,Burger Hub,Fast Food,512,30,0,542,UPI,72.0,Delivered,1.0
+ORD01187,2025-06-10,C0325,Mohali,Pizza Corner,Pizza,718,30,100,648,Wallet,19.0,Delivered,3.0
+ORD01188,2025-07-07,C0514,Mohali,Spice Garden,Indian,975,50,100,925,Debit Card,22.0,Delivered,2.0
+ORD01189,2025-02-12,C0420,Mohali,Burger Hub,Fast Food,1058,20,0,1078,UPI,62.0,Delivered,5.0
+ORD01190,2025-06-09,C0475,Chandigarh,Wok Express,Chinese,868,20,0,888,UPI,71.0,Delivered,1.0
+ORD01191,2025-02-16,C0011,Mohali,Burger Hub,Fast Food,326,30,0,356,Debit Card,19.0,Delivered,2.0
+ORD01192,2025-08-24,C0136,Panchkula,Pizza Corner,Pizza,655,40,100,595,UPI,75.0,Delivered,2.0
+ORD01193,2025-07-14,C0193,Panchkula,Wok Express,Chinese,514,40,0,554,Credit Card,44.0,Delivered,2.0
+ORD01194,2025-04-01,C0373,Panchkula,Wok Express,Chinese,681,50,0,731,Wallet,40.0,Delivered,5.0
+ORD01195,2025-08-19,C0356,Panchkula,Burger Hub,Fast Food,225,50,0,275,Credit Card,31.0,Delivered,4.0
+ORD01196,2025-06-25,C0119,Gurugram,Wok Express,Chinese,335,30,0,365,Credit Card,34.0,Delivered,1.0
+ORD01197,2025-09-01,C0035,Panchkula,Burger Hub,Fast Food,1106,40,0,1146,UPI,60.0,Delivered,5.0
+ORD01198,2025-11-19,C0192,Panchkula,Healthy Bowl,Healthy,166,30,25,171,Debit Card,39.0,Delivered,1.0
+ORD01199,2025-03-25,C0446,Delhi,Taco Street,Mexican,531,20,25,526,Cash on Delivery,47.0,Delivered,5.0
+ORD01200,2025-05-05,C0240,Gurugram,Wok Express,Chinese,914,40,25,929,UPI,37.0,Delivered,1.0
+ORD01201,2025-08-04,C0308,Gurugram,Dosa Point,South Indian,701,50,50,701,Wallet,50.0,Delivered,2.0
+ORD01202,2025-04-12,C0317,Mohali,Burger Hub,Fast Food,416,40,0,0,Debit Card,,Cancelled,
+ORD01203,2025-08-23,C0309,Panchkula,Dosa Point,South Indian,488,50,0,538,UPI,30.0,Delivered,2.0
+ORD01204,2025-04-05,C0384,Chandigarh,Biryani House,Indian,566,50,0,616,Cash on Delivery,27.0,Delivered,5.0
+ORD01205,2025-03-23,C0484,Delhi,Healthy Bowl,Healthy,354,50,50,354,Cash on Delivery,62.0,Delivered,2.0
+ORD01206,2025-12-28,C0335,Panchkula,Biryani House,Indian,346,50,0,396,Cash on Delivery,26.0,Delivered,4.0
+ORD01207,2025-11-02,C0228,Gurugram,Dosa Point,South Indian,296,40,25,311,Credit Card,55.0,Delivered,1.0
+ORD01208,2025-05-01,C0408,Chandigarh,Healthy Bowl,Healthy,891,40,50,881,Credit Card,57.0,Delivered,5.0
+ORD01209,2025-03-12,C0394,Mohali,Taco Street,Mexican,534,20,0,554,Cash on Delivery,23.0,Delivered,3.0
+ORD01210,2025-03-19,C0432,Mohali,Wok Express,Chinese,787,50,100,737,Credit Card,20.0,Delivered,3.0
+ORD01211,2025-07-23,C0013,Mohali,Pizza Corner,Pizza,1102,20,0,1122,Debit Card,24.0,Delivered,4.0
+ORD01212,2025-03-07,C0433,Chandigarh,Dosa Point,South Indian,1081,20,25,1076,Debit Card,60.0,Delivered,4.0
+ORD01213,2025-08-06,C0548,Panchkula,Wok Express,Chinese,387,50,50,387,UPI,48.0,Delivered,3.0
+ORD01214,2025-04-02,C0265,Mohali,Dosa Point,South Indian,935,20,0,955,Wallet,63.0,Delivered,5.0
+ORD01215,2025-11-11,C0472,Panchkula,Taco Street,Mexican,1040,20,25,1035,UPI,25.0,Delivered,4.0
+ORD01216,2025-11-03,C0274,Mohali,Healthy Bowl,Healthy,666,50,0,716,Debit Card,67.0,Delivered,1.0
+ORD01217,2025-07-02,C0115,Panchkula,Dosa Point,South Indian,185,50,0,235,UPI,20.0,Delivered,5.0
+ORD01218,2025-09-30,C0506,Delhi,Dosa Point,South Indian,659,30,0,689,Debit Card,26.0,Delivered,2.0
+ORD01219,2025-06-26,C0151,Gurugram,Taco Street,Mexican,649,50,0,699,UPI,41.0,Delivered,1.0
+ORD01220,2025-07-15,C0082,Delhi,Pizza Corner,Pizza,841,40,25,856,UPI,29.0,Delivered,3.0
+ORD01221,2025-04-09,C0485,Mohali,Wok Express,Chinese,770,30,100,700,Cash on Delivery,41.0,Delivered,5.0
+ORD01222,2025-05-21,C0280,Chandigarh,Burger Hub,Fast Food,716,20,50,686,Cash on Delivery,29.0,Delivered,3.0
+ORD01223,2025-04-17,C0100,Mohali,Spice Garden,Indian,998,30,0,1028,Credit Card,56.0,Delivered,3.0
+ORD01224,2025-01-10,C0472,Gurugram,Healthy Bowl,Healthy,602,20,50,572,Cash on Delivery,63.0,Delivered,5.0
+ORD01225,2025-11-22,C0355,Delhi,Healthy Bowl,Healthy,946,50,50,946,Credit Card,39.0,Delivered,3.0
+ORD01226,2025-08-25,C0081,Delhi,Taco Street,Mexican,581,30,100,511,Wallet,43.0,Delivered,1.0
+ORD01227,2025-06-26,C0479,Chandigarh,Pizza Corner,Pizza,575,40,0,615,Credit Card,38.0,Delivered,4.0
+ORD01228,2025-11-16,C0024,Panchkula,Burger Hub,Fast Food,870,50,25,0,Wallet,,Cancelled,
+ORD01229,2025-09-09,C0100,Delhi,Biryani House,Indian,918,30,25,923,Credit Card,72.0,Delivered,1.0
+ORD01230,2025-04-19,C0419,Panchkula,Pizza Corner,Pizza,742,30,0,772,Credit Card,65.0,Delivered,4.0
+ORD01231,2025-08-03,C0515,Gurugram,Wok Express,Chinese,804,40,100,744,Wallet,74.0,Delivered,3.0
+ORD01232,2025-07-20,C0182,Delhi,Biryani House,Indian,977,50,25,1002,Debit Card,46.0,Delivered,2.0
+ORD01233,2025-01-02,C0429,Delhi,Healthy Bowl,Healthy,1100,30,100,1030,Cash on Delivery,42.0,Delivered,5.0
+ORD01234,2025-04-07,C0419,Chandigarh,Spice Garden,Indian,609,30,50,589,Debit Card,23.0,Delivered,5.0
+ORD01235,2025-11-09,C0399,Gurugram,Biryani House,Indian,490,50,100,440,Wallet,41.0,Delivered,1.0
+ORD01236,2025-04-09,C0205,Panchkula,Burger Hub,Fast Food,1087,40,100,1027,Credit Card,29.0,Delivered,4.0
+ORD01237,2025-05-31,C0455,Mohali,Pizza Corner,Pizza,213,30,50,193,Credit Card,33.0,Delivered,5.0
+ORD01238,2025-08-25,C0034,Delhi,Pizza Corner,Pizza,828,30,0,858,Wallet,22.0,Delivered,1.0
+ORD01239,2025-08-29,C0547,Chandigarh,Dosa Point,South Indian,294,50,0,344,Cash on Delivery,52.0,Delivered,1.0
+ORD01240,2025-09-04,C0524,Delhi,Spice Garden,Indian,749,50,100,699,Cash on Delivery,41.0,Delivered,4.0
+ORD01241,2025-03-05,C0376,Delhi,Pizza Corner,Pizza,448,40,50,438,Debit Card,25.0,Delivered,2.0
+ORD01242,2025-03-14,C0470,Delhi,Biryani House,Indian,1138,30,0,1168,Credit Card,59.0,Delivered,1.0
+ORD01243,2025-05-14,C0282,Gurugram,Healthy Bowl,Healthy,754,50,0,804,UPI,62.0,Delivered,3.0
+ORD01244,2025-03-13,C0299,Panchkula,Burger Hub,Fast Food,740,20,0,760,Credit Card,54.0,Delivered,3.0
+ORD01245,2025-10-18,C0151,Gurugram,Wok Express,Chinese,1123,50,100,1073,Debit Card,65.0,Delivered,2.0
+ORD01246,2025-07-16,C0013,Panchkula,Wok Express,Chinese,616,20,0,636,Debit Card,27.0,Delivered,5.0
+ORD01247,2025-09-18,C0322,Gurugram,Dosa Point,South Indian,1126,30,0,1156,Debit Card,55.0,Delivered,5.0
+ORD01248,2025-07-13,C0067,Panchkula,Taco Street,Mexican,496,50,0,546,Credit Card,42.0,Delivered,1.0
+ORD01249,2025-06-08,C0202,Panchkula,Biryani House,Indian,609,30,0,639,Cash on Delivery,64.0,Delivered,1.0
+ORD01250,2025-08-24,C0338,Gurugram,Spice Garden,Indian,617,30,0,647,UPI,43.0,Delivered,1.0
+ORD01251,2025-05-19,C0188,Mohali,Pizza Corner,Pizza,264,50,50,264,Credit Card,33.0,Delivered,3.0
+ORD01252,2025-12-20,C0195,Chandigarh,Taco Street,Mexican,513,20,50,483,Credit Card,35.0,Delivered,1.0
+ORD01253,2025-09-25,C0489,Delhi,Wok Express,Chinese,274,30,0,304,UPI,66.0,Delivered,5.0
+ORD01254,2025-10-02,C0488,Mohali,Spice Garden,Indian,803,20,0,823,UPI,46.0,Delivered,1.0
+ORD01255,2025-10-05,C0454,Mohali,Biryani House,Indian,1147,40,50,1137,Wallet,45.0,Delivered,1.0
+ORD01256,2025-11-22,C0337,Gurugram,Taco Street,Mexican,151,40,25,166,Cash on Delivery,49.0,Delivered,2.0
+ORD01257,2025-09-21,C0516,Panchkula,Wok Express,Chinese,763,40,50,753,Cash on Delivery,35.0,Delivered,5.0
+ORD01258,2025-02-27,C0508,Mohali,Burger Hub,Fast Food,1148,20,0,1168,Credit Card,50.0,Delivered,4.0
+ORD01259,2025-02-03,C0188,Mohali,Dosa Point,South Indian,773,20,25,768,UPI,61.0,Delivered,5.0
+ORD01260,2025-04-29,C0308,Gurugram,Biryani House,Indian,779,40,0,819,Credit Card,48.0,Delivered,1.0
+ORD01261,2025-10-20,C0162,Gurugram,Burger Hub,Fast Food,813,30,0,843,Credit Card,68.0,Delivered,2.0
+ORD01262,2025-06-16,C0380,Mohali,Taco Street,Mexican,1003,40,0,1043,Debit Card,48.0,Delivered,3.0
+ORD01263,2025-06-20,C0006,Delhi,Healthy Bowl,Healthy,795,50,0,845,UPI,43.0,Delivered,4.0
+ORD01264,2025-07-29,C0214,Panchkula,Healthy Bowl,Healthy,436,50,0,486,Debit Card,63.0,Delivered,2.0
+ORD01265,2025-07-11,C0221,Gurugram,Spice Garden,Indian,809,50,25,834,Wallet,53.0,Delivered,2.0
+ORD01266,2025-08-14,C0482,Chandigarh,Wok Express,Chinese,368,20,0,388,Cash on Delivery,64.0,Delivered,4.0
+ORD01267,2025-12-19,C0058,Panchkula,Taco Street,Mexican,661,40,50,651,Debit Card,21.0,Delivered,1.0
+ORD01268,2025-10-03,C0333,Delhi,Healthy Bowl,Healthy,1047,40,0,1087,Credit Card,74.0,Delivered,1.0
+ORD01269,2025-03-19,C0267,Gurugram,Wok Express,Chinese,559,20,25,554,Wallet,54.0,Delivered,5.0
+ORD01270,2025-05-30,C0457,Mohali,Spice Garden,Indian,437,20,100,357,Credit Card,38.0,Delivered,3.0
+ORD01271,2025-06-14,C0262,Gurugram,Taco Street,Mexican,616,50,0,666,UPI,61.0,Delivered,3.0
+ORD01272,2025-03-13,C0542,Chandigarh,Pizza Corner,Pizza,991,50,25,1016,Wallet,69.0,Delivered,1.0
+ORD01273,2025-07-11,C0504,Panchkula,Spice Garden,Indian,1045,20,50,1015,Wallet,38.0,Delivered,5.0
+ORD01274,2025-06-20,C0526,Chandigarh,Pizza Corner,Pizza,304,20,50,274,Wallet,52.0,Delivered,2.0
+ORD01275,2025-08-28,C0339,Chandigarh,Biryani House,Indian,299,50,0,349,Credit Card,74.0,Delivered,2.0
+ORD01276,2025-11-28,C0400,Chandigarh,Healthy Bowl,Healthy,1079,50,0,1129,UPI,36.0,Delivered,1.0
+ORD01277,2025-04-26,C0546,Delhi,Healthy Bowl,Healthy,1024,30,0,1054,Credit Card,55.0,Delivered,3.0
+ORD01278,2025-10-22,C0027,Gurugram,Healthy Bowl,Healthy,462,30,0,492,Wallet,29.0,Delivered,1.0
+ORD01279,2025-01-21,C0207,Panchkula,Burger Hub,Fast Food,863,20,0,883,Credit Card,32.0,Delivered,2.0
+ORD01280,2025-08-06,C0127,Delhi,Wok Express,Chinese,627,30,0,657,UPI,74.0,Delivered,4.0
+ORD01281,2025-08-16,C0390,Gurugram,Biryani House,Indian,929,20,25,924,UPI,30.0,Delivered,2.0
+ORD01282,2025-02-17,C0367,Panchkula,Burger Hub,Fast Food,1187,20,0,1207,Cash on Delivery,25.0,Delivered,4.0
+ORD01283,2025-04-08,C0017,Chandigarh,Biryani House,Indian,335,40,25,350,Cash on Delivery,25.0,Delivered,4.0
+ORD01284,2025-08-04,C0067,Delhi,Dosa Point,South Indian,354,40,0,0,Debit Card,,Cancelled,
+ORD01285,2025-04-28,C0282,Panchkula,Pizza Corner,Pizza,948,50,0,0,UPI,,Cancelled,
+ORD01286,2025-03-14,C0040,Chandigarh,Biryani House,Indian,513,20,0,533,Wallet,26.0,Delivered,4.0
+ORD01287,2025-04-18,C0156,Mohali,Wok Express,Chinese,911,50,0,961,Debit Card,29.0,Delivered,5.0
+ORD01288,2025-02-26,C0272,Gurugram,Burger Hub,Fast Food,211,50,0,261,Debit Card,58.0,Delivered,3.0
+ORD01289,2025-01-15,C0418,Chandigarh,Spice Garden,Indian,829,20,25,824,Wallet,73.0,Delivered,2.0
+ORD01290,2025-07-13,C0430,Chandigarh,Burger Hub,Fast Food,473,20,0,493,UPI,32.0,Delivered,1.0
+ORD01291,2025-09-01,C0319,Delhi,Taco Street,Mexican,1000,50,0,1050,Cash on Delivery,69.0,Delivered,1.0
+ORD01292,2025-05-12,C0505,Gurugram,Burger Hub,Fast Food,811,40,50,801,Credit Card,24.0,Delivered,4.0
+ORD01293,2025-03-06,C0414,Panchkula,Biryani House,Indian,415,30,0,445,Wallet,65.0,Delivered,1.0
+ORD01294,2025-02-23,C0474,Gurugram,Biryani House,Indian,613,40,0,653,Wallet,37.0,Delivered,3.0
+ORD01295,2025-09-22,C0036,Delhi,Wok Express,Chinese,419,40,25,434,UPI,27.0,Delivered,5.0
+ORD01296,2025-04-12,C0166,Delhi,Burger Hub,Fast Food,179,30,100,109,Debit Card,68.0,Delivered,2.0
+ORD01297,2025-01-06,C0416,Delhi,Taco Street,Mexican,1140,40,0,1180,Credit Card,70.0,Delivered,5.0
+ORD01298,2025-08-21,C0346,Panchkula,Wok Express,Chinese,1050,20,100,970,Credit Card,67.0,Delivered,5.0
+ORD01299,2025-05-11,C0532,Panchkula,Healthy Bowl,Healthy,1148,50,100,1098,UPI,72.0,Delivered,3.0
+ORD01300,2025-07-07,C0124,Gurugram,Dosa Point,South Indian,202,30,0,232,Debit Card,47.0,Delivered,1.0
+ORD01301,2025-03-06,C0187,Delhi,Healthy Bowl,Healthy,778,50,25,803,Wallet,23.0,Delivered,5.0
+ORD01302,2025-04-10,C0156,Gurugram,Burger Hub,Fast Food,604,20,0,624,Wallet,40.0,Delivered,5.0
+ORD01303,2025-09-26,C0544,Mohali,Spice Garden,Indian,892,30,100,0,Debit Card,,Cancelled,
+ORD01304,2025-03-23,C0208,Panchkula,Pizza Corner,Pizza,489,30,100,419,UPI,57.0,Delivered,4.0
+ORD01305,2025-07-25,C0001,Chandigarh,Wok Express,Chinese,948,50,25,973,Debit Card,26.0,Delivered,3.0
+ORD01306,2025-12-29,C0493,Mohali,Wok Express,Chinese,577,20,0,597,Credit Card,26.0,Delivered,2.0
+ORD01307,2025-07-20,C0073,Mohali,Burger Hub,Fast Food,1008,50,50,1008,Debit Card,71.0,Delivered,3.0
+ORD01308,2025-03-13,C0336,Chandigarh,Dosa Point,South Indian,402,30,0,432,UPI,61.0,Delivered,3.0
+ORD01309,2025-09-24,C0466,Mohali,Wok Express,Chinese,360,50,0,410,UPI,37.0,Delivered,1.0
+ORD01310,2025-06-24,C0173,Delhi,Wok Express,Chinese,233,50,0,283,Debit Card,47.0,Delivered,4.0
+ORD01311,2025-04-26,C0443,Delhi,Pizza Corner,Pizza,331,40,0,371,UPI,60.0,Delivered,4.0
+ORD01312,2025-11-23,C0258,Panchkula,Pizza Corner,Pizza,723,40,0,763,UPI,39.0,Delivered,4.0
+ORD01313,2025-01-07,C0273,Chandigarh,Pizza Corner,Pizza,1144,30,50,1124,Cash on Delivery,55.0,Delivered,4.0
+ORD01314,2025-10-15,C0098,Chandigarh,Dosa Point,South Indian,933,20,50,903,Credit Card,71.0,Delivered,1.0
+ORD01315,2025-07-04,C0536,Chandigarh,Dosa Point,South Indian,956,20,0,976,Cash on Delivery,46.0,Delivered,4.0
+ORD01316,2025-11-18,C0102,Panchkula,Dosa Point,South Indian,202,30,50,182,Cash on Delivery,58.0,Delivered,3.0
+ORD01317,2025-01-15,C0457,Chandigarh,Taco Street,Mexican,669,40,100,609,Debit Card,33.0,Delivered,3.0
+ORD01318,2025-08-23,C0411,Panchkula,Wok Express,Chinese,478,30,50,458,Credit Card,53.0,Delivered,3.0
+ORD01319,2025-09-13,C0325,Panchkula,Pizza Corner,Pizza,833,40,50,823,UPI,69.0,Delivered,2.0
+ORD01320,2025-02-16,C0272,Delhi,Dosa Point,South Indian,790,50,100,740,Debit Card,42.0,Delivered,2.0
+ORD01321,2025-06-22,C0318,Gurugram,Taco Street,Mexican,890,30,0,920,Wallet,25.0,Delivered,2.0
+ORD01322,2025-06-01,C0415,Panchkula,Burger Hub,Fast Food,965,20,0,985,Credit Card,63.0,Delivered,5.0
+ORD01323,2025-06-24,C0085,Panchkula,Healthy Bowl,Healthy,962,30,25,967,Credit Card,65.0,Delivered,3.0
+ORD01324,2025-08-15,C0027,Delhi,Spice Garden,Indian,653,30,100,0,Credit Card,,Cancelled,
+ORD01325,2025-12-22,C0013,Panchkula,Biryani House,Indian,652,30,25,657,Credit Card,31.0,Delivered,2.0
+ORD01326,2025-01-11,C0423,Mohali,Taco Street,Mexican,1048,50,50,1048,Wallet,54.0,Delivered,2.0
+ORD01327,2025-10-25,C0442,Panchkula,Dosa Point,South Indian,942,40,100,882,Debit Card,41.0,Delivered,3.0
+ORD01328,2025-05-01,C0132,Chandigarh,Healthy Bowl,Healthy,881,20,100,801,Wallet,73.0,Delivered,2.0
+ORD01329,2025-12-29,C0230,Delhi,Taco Street,Mexican,792,20,50,762,Debit Card,40.0,Delivered,5.0
+ORD01330,2025-10-22,C0023,Gurugram,Spice Garden,Indian,1092,50,25,1117,Cash on Delivery,22.0,Delivered,2.0
+ORD01331,2025-10-14,C0067,Panchkula,Spice Garden,Indian,861,50,100,811,Wallet,61.0,Delivered,3.0
+ORD01332,2025-05-10,C0221,Delhi,Spice Garden,Indian,1155,50,100,1105,Debit Card,26.0,Delivered,4.0
+ORD01333,2025-10-03,C0148,Gurugram,Wok Express,Chinese,826,30,50,806,Wallet,50.0,Delivered,4.0
+ORD01334,2025-06-11,C0066,Gurugram,Spice Garden,Indian,258,40,50,248,Cash on Delivery,22.0,Delivered,5.0
+ORD01335,2025-03-24,C0340,Chandigarh,Biryani House,Indian,659,30,0,689,UPI,49.0,Delivered,1.0
+ORD01336,2025-07-26,C0188,Chandigarh,Dosa Point,South Indian,984,50,100,934,Debit Card,72.0,Delivered,3.0
+ORD01337,2025-07-01,C0206,Mohali,Burger Hub,Fast Food,1031,40,25,1046,Debit Card,34.0,Delivered,4.0
+ORD01338,2025-11-28,C0063,Gurugram,Pizza Corner,Pizza,845,50,0,895,UPI,19.0,Delivered,5.0
+ORD01339,2025-12-16,C0542,Chandigarh,Healthy Bowl,Healthy,345,30,0,0,UPI,,Cancelled,
+ORD01340,2025-06-17,C0177,Mohali,Dosa Point,South Indian,777,20,50,747,Wallet,72.0,Delivered,1.0
+ORD01341,2025-09-13,C0384,Gurugram,Burger Hub,Fast Food,597,40,0,637,Credit Card,27.0,Delivered,5.0
+ORD01342,2025-08-14,C0124,Panchkula,Burger Hub,Fast Food,1189,30,25,1194,Debit Card,20.0,Delivered,5.0
+ORD01343,2025-02-25,C0346,Delhi,Healthy Bowl,Healthy,519,30,0,549,Wallet,56.0,Delivered,2.0
+ORD01344,2025-07-19,C0503,Mohali,Taco Street,Mexican,388,20,0,408,Cash on Delivery,27.0,Delivered,2.0
+ORD01345,2025-01-22,C0102,Gurugram,Healthy Bowl,Healthy,270,50,100,220,UPI,71.0,Delivered,5.0
+ORD01346,2025-12-06,C0300,Delhi,Healthy Bowl,Healthy,957,30,0,987,Cash on Delivery,46.0,Delivered,2.0
+ORD01347,2025-08-11,C0496,Gurugram,Dosa Point,South Indian,318,50,0,368,Cash on Delivery,38.0,Delivered,5.0
+ORD01348,2025-06-06,C0315,Gurugram,Taco Street,Mexican,738,20,50,708,Wallet,30.0,Delivered,1.0
+ORD01349,2025-10-05,C0193,Panchkula,Burger Hub,Fast Food,792,20,50,762,Wallet,37.0,Delivered,4.0
+ORD01350,2025-01-27,C0220,Chandigarh,Dosa Point,South Indian,1191,30,50,1171,Cash on Delivery,62.0,Delivered,1.0
+ORD01351,2025-04-06,C0016,Chandigarh,Biryani House,Indian,805,20,100,725,Cash on Delivery,31.0,Delivered,5.0
+ORD01352,2025-04-16,C0182,Delhi,Pizza Corner,Pizza,744,20,0,764,Credit Card,71.0,Delivered,3.0
+ORD01353,2025-07-10,C0433,Gurugram,Dosa Point,South Indian,241,30,0,271,Debit Card,57.0,Delivered,3.0
+ORD01354,2025-04-15,C0195,Delhi,Wok Express,Chinese,988,20,25,983,Debit Card,42.0,Delivered,3.0
+ORD01355,2025-11-04,C0073,Chandigarh,Spice Garden,Indian,959,20,100,879,UPI,26.0,Delivered,2.0
+ORD01356,2025-03-23,C0408,Panchkula,Taco Street,Mexican,286,30,50,266,Wallet,65.0,Delivered,3.0
+ORD01357,2025-05-27,C0089,Gurugram,Wok Express,Chinese,685,20,0,705,Cash on Delivery,74.0,Delivered,2.0
+ORD01358,2025-04-13,C0398,Mohali,Burger Hub,Fast Food,223,50,25,248,UPI,32.0,Delivered,1.0
+ORD01359,2025-12-22,C0453,Gurugram,Pizza Corner,Pizza,645,50,50,645,UPI,65.0,Delivered,2.0
+ORD01360,2025-12-06,C0257,Mohali,Biryani House,Indian,580,40,0,620,Debit Card,27.0,Delivered,3.0
+ORD01361,2025-08-25,C0066,Mohali,Biryani House,Indian,265,50,25,290,Credit Card,36.0,Delivered,5.0
+ORD01362,2025-11-18,C0542,Panchkula,Biryani House,Indian,837,50,0,887,Wallet,22.0,Delivered,2.0
+ORD01363,2025-03-24,C0548,Chandigarh,Burger Hub,Fast Food,800,20,0,820,Wallet,44.0,Delivered,5.0
+ORD01364,2025-03-28,C0007,Delhi,Healthy Bowl,Healthy,908,20,0,928,UPI,61.0,Delivered,2.0
+ORD01365,2025-10-16,C0076,Chandigarh,Spice Garden,Indian,943,20,0,963,Cash on Delivery,20.0,Delivered,5.0
+ORD01366,2025-10-20,C0257,Panchkula,Dosa Point,South Indian,728,50,25,753,Cash on Delivery,33.0,Delivered,4.0
+ORD01367,2025-09-03,C0398,Panchkula,Burger Hub,Fast Food,1080,40,0,1120,Credit Card,58.0,Delivered,2.0
+ORD01368,2025-07-08,C0233,Delhi,Spice Garden,Indian,1034,40,0,1074,Credit Card,44.0,Delivered,5.0
+ORD01369,2025-11-17,C0455,Delhi,Healthy Bowl,Healthy,576,50,25,601,Cash on Delivery,47.0,Delivered,4.0
+ORD01370,2025-07-06,C0223,Mohali,Healthy Bowl,Healthy,817,50,0,867,Wallet,31.0,Delivered,2.0
+ORD01371,2025-04-10,C0145,Delhi,Healthy Bowl,Healthy,1098,50,0,1148,UPI,31.0,Delivered,4.0
+ORD01372,2025-10-05,C0161,Delhi,Taco Street,Mexican,765,50,0,815,Wallet,39.0,Delivered,5.0
+ORD01373,2025-08-10,C0280,Gurugram,Burger Hub,Fast Food,1057,20,100,977,Credit Card,54.0,Delivered,2.0
+ORD01374,2025-11-25,C0499,Panchkula,Dosa Point,South Indian,555,30,25,560,Wallet,33.0,Delivered,2.0
+ORD01375,2025-11-10,C0340,Chandigarh,Spice Garden,Indian,348,20,0,368,Debit Card,73.0,Delivered,1.0
+ORD01376,2025-07-02,C0324,Gurugram,Biryani House,Indian,458,30,0,488,Cash on Delivery,41.0,Delivered,5.0
+ORD01377,2025-09-01,C0156,Mohali,Healthy Bowl,Healthy,508,40,0,548,Cash on Delivery,53.0,Delivered,2.0
+ORD01378,2025-03-02,C0256,Chandigarh,Dosa Point,South Indian,474,50,100,0,Credit Card,,Cancelled,
+ORD01379,2025-08-16,C0021,Gurugram,Pizza Corner,Pizza,230,30,25,235,Debit Card,48.0,Delivered,2.0
+ORD01380,2025-08-14,C0353,Panchkula,Burger Hub,Fast Food,1066,20,25,0,UPI,,Cancelled,
+ORD01381,2025-07-09,C0114,Mohali,Pizza Corner,Pizza,512,30,50,492,Debit Card,43.0,Delivered,2.0
+ORD01382,2025-05-30,C0174,Panchkula,Pizza Corner,Pizza,876,50,0,926,Debit Card,55.0,Delivered,4.0
+ORD01383,2025-04-09,C0314,Panchkula,Wok Express,Chinese,198,50,0,248,Cash on Delivery,21.0,Delivered,2.0
+ORD01384,2025-08-10,C0470,Chandigarh,Healthy Bowl,Healthy,232,40,100,0,Debit Card,,Cancelled,
+ORD01385,2025-10-10,C0205,Delhi,Spice Garden,Indian,417,20,100,337,Cash on Delivery,37.0,Delivered,4.0
+ORD01386,2025-07-18,C0417,Panchkula,Spice Garden,Indian,703,50,0,753,Credit Card,50.0,Delivered,4.0
+ORD01387,2025-06-27,C0327,Gurugram,Wok Express,Chinese,545,50,0,595,UPI,46.0,Delivered,1.0
+ORD01388,2025-01-12,C0243,Chandigarh,Burger Hub,Fast Food,369,30,0,399,UPI,22.0,Delivered,2.0
+ORD01389,2025-01-05,C0339,Chandigarh,Spice Garden,Indian,848,20,0,868,Wallet,73.0,Delivered,4.0
+ORD01390,2025-03-04,C0094,Chandigarh,Spice Garden,Indian,434,30,100,364,Cash on Delivery,29.0,Delivered,1.0
+ORD01391,2025-12-18,C0198,Delhi,Biryani House,Indian,580,20,100,500,Credit Card,38.0,Delivered,5.0
+ORD01392,2025-12-29,C0454,Mohali,Taco Street,Mexican,531,50,0,581,Wallet,55.0,Delivered,1.0
+ORD01393,2025-01-04,C0194,Chandigarh,Pizza Corner,Pizza,510,30,0,540,UPI,52.0,Delivered,5.0
+ORD01394,2025-04-07,C0304,Gurugram,Burger Hub,Fast Food,808,30,0,838,Cash on Delivery,71.0,Delivered,5.0
+ORD01395,2025-09-17,C0544,Chandigarh,Wok Express,Chinese,596,50,0,646,Debit Card,65.0,Delivered,2.0
+ORD01396,2025-05-25,C0441,Chandigarh,Burger Hub,Fast Food,282,20,0,302,Cash on Delivery,75.0,Delivered,1.0
+ORD01397,2025-01-07,C0269,Panchkula,Pizza Corner,Pizza,802,40,100,742,Cash on Delivery,61.0,Delivered,1.0
+ORD01398,2025-07-03,C0195,Mohali,Taco Street,Mexican,908,50,0,958,Wallet,38.0,Delivered,5.0
+ORD01399,2025-03-29,C0475,Delhi,Spice Garden,Indian,872,50,25,897,Cash on Delivery,38.0,Delivered,4.0
+ORD01400,2025-03-20,C0391,Mohali,Burger Hub,Fast Food,939,50,0,989,Cash on Delivery,68.0,Delivered,3.0
+ORD01401,2025-07-07,C0098,Chandigarh,Spice Garden,Indian,1039,30,0,1069,Cash on Delivery,29.0,Delivered,2.0
+ORD01402,2025-08-30,C0311,Gurugram,Burger Hub,Fast Food,704,40,0,744,Debit Card,43.0,Delivered,2.0
+ORD01403,2025-04-27,C0500,Chandigarh,Biryani House,Indian,1146,50,25,1171,Debit Card,72.0,Delivered,2.0
+ORD01404,2025-02-24,C0507,Mohali,Pizza Corner,Pizza,812,50,50,812,Cash on Delivery,33.0,Delivered,5.0
+ORD01405,2025-09-09,C0440,Gurugram,Spice Garden,Indian,780,30,0,810,UPI,61.0,Delivered,5.0
+ORD01406,2025-11-03,C0379,Gurugram,Burger Hub,Fast Food,727,40,100,667,Cash on Delivery,62.0,Delivered,2.0
+ORD01407,2025-02-02,C0321,Delhi,Spice Garden,Indian,1065,40,25,1080,Debit Card,38.0,Delivered,2.0
+ORD01408,2025-10-12,C0235,Gurugram,Healthy Bowl,Healthy,828,30,0,0,Wallet,,Cancelled,
+ORD01409,2025-05-02,C0394,Mohali,Biryani House,Indian,1150,50,0,1200,Wallet,74.0,Delivered,1.0
+ORD01410,2025-06-14,C0069,Delhi,Pizza Corner,Pizza,1155,50,50,1155,Cash on Delivery,64.0,Delivered,3.0
+ORD01411,2025-04-09,C0336,Panchkula,Wok Express,Chinese,443,40,0,483,Wallet,32.0,Delivered,1.0
+ORD01412,2025-09-05,C0550,Mohali,Burger Hub,Fast Food,708,40,25,0,Credit Card,,Cancelled,
+ORD01413,2025-11-02,C0290,Mohali,Pizza Corner,Pizza,755,20,100,675,Cash on Delivery,51.0,Delivered,5.0
+ORD01414,2025-08-05,C0432,Chandigarh,Spice Garden,Indian,760,40,0,800,Debit Card,19.0,Delivered,1.0
+ORD01415,2025-08-27,C0111,Panchkula,Burger Hub,Fast Food,1064,50,50,1064,Cash on Delivery,46.0,Delivered,3.0
+ORD01416,2025-05-22,C0127,Chandigarh,Biryani House,Indian,1078,40,0,1118,Debit Card,38.0,Delivered,1.0
+ORD01417,2025-10-10,C0027,Delhi,Taco Street,Mexican,905,30,0,935,Debit Card,42.0,Delivered,5.0
+ORD01418,2025-07-22,C0041,Gurugram,Burger Hub,Fast Food,818,20,100,738,UPI,54.0,Delivered,5.0
+ORD01419,2025-03-09,C0241,Chandigarh,Taco Street,Mexican,280,20,0,300,Debit Card,51.0,Delivered,2.0
+ORD01420,2025-07-02,C0064,Gurugram,Healthy Bowl,Healthy,316,50,0,366,Cash on Delivery,49.0,Delivered,4.0
+ORD01421,2025-11-25,C0233,Mohali,Dosa Point,South Indian,467,20,0,487,UPI,25.0,Delivered,3.0
+ORD01422,2025-11-27,C0157,Mohali,Spice Garden,Indian,257,30,25,262,Wallet,32.0,Delivered,2.0
+ORD01423,2025-06-13,C0025,Delhi,Healthy Bowl,Healthy,943,50,0,993,Wallet,36.0,Delivered,4.0
+ORD01424,2025-02-04,C0358,Chandigarh,Spice Garden,Indian,559,20,0,579,Wallet,49.0,Delivered,1.0
+ORD01425,2025-07-08,C0289,Panchkula,Burger Hub,Fast Food,963,30,0,993,Wallet,58.0,Delivered,5.0
+ORD01426,2025-07-11,C0267,Delhi,Dosa Point,South Indian,477,30,50,457,UPI,30.0,Delivered,3.0
+ORD01427,2025-11-30,C0416,Mohali,Wok Express,Chinese,1074,20,25,1069,Credit Card,59.0,Delivered,5.0
+ORD01428,2025-02-27,C0306,Mohali,Spice Garden,Indian,943,20,100,863,Wallet,31.0,Delivered,2.0
+ORD01429,2025-06-05,C0223,Gurugram,Healthy Bowl,Healthy,1099,20,100,1019,UPI,54.0,Delivered,3.0
+ORD01430,2025-06-08,C0336,Delhi,Spice Garden,Indian,593,30,0,623,Cash on Delivery,64.0,Delivered,4.0
+ORD01431,2025-11-05,C0080,Gurugram,Burger Hub,Fast Food,1156,50,50,1156,UPI,68.0,Delivered,2.0
+ORD01432,2025-01-01,C0391,Gurugram,Spice Garden,Indian,252,20,0,272,Credit Card,37.0,Delivered,4.0
+ORD01433,2025-02-19,C0078,Panchkula,Spice Garden,Indian,903,30,100,833,Cash on Delivery,45.0,Delivered,3.0
+ORD01434,2025-12-01,C0210,Chandigarh,Spice Garden,Indian,759,20,0,779,UPI,34.0,Delivered,4.0
+ORD01435,2025-09-01,C0280,Panchkula,Burger Hub,Fast Food,179,20,0,199,UPI,47.0,Delivered,5.0
+ORD01436,2025-12-26,C0031,Chandigarh,Taco Street,Mexican,279,30,0,309,Cash on Delivery,61.0,Delivered,4.0
+ORD01437,2025-08-10,C0288,Panchkula,Taco Street,Mexican,994,30,0,1024,Cash on Delivery,20.0,Delivered,1.0
+ORD01438,2025-04-14,C0046,Gurugram,Wok Express,Chinese,199,40,0,239,Cash on Delivery,46.0,Delivered,1.0
+ORD01439,2025-10-14,C0468,Delhi,Taco Street,Mexican,624,20,0,644,Wallet,56.0,Delivered,3.0
+ORD01440,2025-03-25,C0179,Gurugram,Healthy Bowl,Healthy,910,30,0,940,Cash on Delivery,40.0,Delivered,4.0
+ORD01441,2025-07-10,C0418,Panchkula,Taco Street,Mexican,861,40,0,901,Cash on Delivery,66.0,Delivered,4.0
+ORD01442,2025-02-14,C0169,Chandigarh,Wok Express,Chinese,431,40,0,471,Debit Card,46.0,Delivered,5.0
+ORD01443,2025-09-17,C0406,Chandigarh,Burger Hub,Fast Food,849,30,50,829,Cash on Delivery,70.0,Delivered,2.0
+ORD01444,2025-02-27,C0233,Panchkula,Spice Garden,Indian,362,20,0,382,Cash on Delivery,60.0,Delivered,2.0
+ORD01445,2025-03-01,C0360,Delhi,Healthy Bowl,Healthy,914,50,50,914,UPI,43.0,Delivered,2.0
+ORD01446,2025-04-26,C0111,Delhi,Taco Street,Mexican,468,30,100,398,Credit Card,68.0,Delivered,5.0
+ORD01447,2025-02-06,C0196,Chandigarh,Wok Express,Chinese,645,50,0,695,UPI,52.0,Delivered,1.0
+ORD01448,2025-01-16,C0069,Panchkula,Wok Express,Chinese,397,30,0,427,Cash on Delivery,61.0,Delivered,1.0
+ORD01449,2025-03-02,C0398,Panchkula,Dosa Point,South Indian,882,50,0,932,Credit Card,37.0,Delivered,3.0
+ORD01450,2025-06-05,C0328,Panchkula,Dosa Point,South Indian,1129,20,100,1049,UPI,20.0,Delivered,4.0
+ORD01451,2025-05-11,C0503,Chandigarh,Taco Street,Mexican,935,20,25,930,Cash on Delivery,57.0,Delivered,3.0
+ORD01452,2025-01-20,C0097,Delhi,Taco Street,Mexican,327,50,0,377,Cash on Delivery,23.0,Delivered,2.0
+ORD01453,2025-06-22,C0222,Gurugram,Biryani House,Indian,1111,20,0,1131,Cash on Delivery,67.0,Delivered,4.0
+ORD01454,2025-02-18,C0475,Panchkula,Spice Garden,Indian,412,20,50,382,Wallet,50.0,Delivered,2.0
+ORD01455,2025-07-18,C0301,Mohali,Spice Garden,Indian,668,20,100,588,UPI,29.0,Delivered,4.0
+ORD01456,2025-05-29,C0204,Delhi,Healthy Bowl,Healthy,1023,20,100,943,Cash on Delivery,71.0,Delivered,1.0
+ORD01457,2025-05-08,C0349,Gurugram,Spice Garden,Indian,943,30,25,948,Cash on Delivery,29.0,Delivered,2.0
+ORD01458,2025-04-28,C0025,Delhi,Taco Street,Mexican,387,20,0,407,Cash on Delivery,65.0,Delivered,5.0
+ORD01459,2025-07-07,C0035,Panchkula,Dosa Point,South Indian,192,40,100,132,Cash on Delivery,44.0,Delivered,4.0
+ORD01460,2025-10-13,C0487,Delhi,Dosa Point,South Indian,287,20,0,307,Wallet,60.0,Delivered,3.0
+ORD01461,2025-05-05,C0457,Gurugram,Burger Hub,Fast Food,397,20,0,417,Debit Card,29.0,Delivered,2.0
+ORD01462,2025-10-13,C0041,Mohali,Wok Express,Chinese,1128,20,100,1048,Credit Card,44.0,Delivered,1.0
+ORD01463,2025-03-17,C0116,Gurugram,Wok Express,Chinese,422,50,0,472,Debit Card,50.0,Delivered,1.0
+ORD01464,2025-10-27,C0219,Mohali,Spice Garden,Indian,771,30,0,801,Cash on Delivery,73.0,Delivered,4.0
+ORD01465,2025-09-02,C0073,Mohali,Taco Street,Mexican,588,20,0,608,Credit Card,58.0,Delivered,5.0
+ORD01466,2025-09-19,C0075,Gurugram,Burger Hub,Fast Food,289,50,50,0,Credit Card,,Cancelled,
+ORD01467,2025-05-07,C0044,Panchkula,Dosa Point,South Indian,890,30,0,920,Cash on Delivery,66.0,Delivered,4.0
+ORD01468,2025-01-15,C0131,Delhi,Biryani House,Indian,915,50,25,940,Wallet,73.0,Delivered,2.0
+ORD01469,2025-09-18,C0444,Gurugram,Dosa Point,South Indian,472,30,50,452,UPI,49.0,Delivered,1.0
+ORD01470,2025-08-02,C0288,Delhi,Pizza Corner,Pizza,323,30,100,253,Debit Card,35.0,Delivered,4.0
+ORD01471,2025-06-05,C0141,Delhi,Healthy Bowl,Healthy,781,50,50,781,Debit Card,66.0,Delivered,5.0
+ORD01472,2025-02-16,C0526,Mohali,Taco Street,Mexican,851,20,0,871,Debit Card,35.0,Delivered,3.0
+ORD01473,2025-06-15,C0422,Panchkula,Biryani House,Indian,541,40,0,581,Debit Card,39.0,Delivered,5.0
+ORD01474,2025-11-03,C0329,Mohali,Dosa Point,South Indian,535,30,100,465,Cash on Delivery,61.0,Delivered,3.0
+ORD01475,2025-10-25,C0188,Delhi,Burger Hub,Fast Food,390,40,100,330,Debit Card,56.0,Delivered,3.0
+ORD01476,2025-05-06,C0261,Gurugram,Dosa Point,South Indian,1141,40,50,1131,UPI,39.0,Delivered,2.0
+ORD01477,2025-05-10,C0507,Delhi,Pizza Corner,Pizza,921,50,0,971,Wallet,69.0,Delivered,3.0
+ORD01478,2025-10-26,C0111,Delhi,Wok Express,Chinese,1196,50,0,1246,Cash on Delivery,45.0,Delivered,4.0
+ORD01479,2025-07-18,C0043,Chandigarh,Healthy Bowl,Healthy,394,30,0,424,Debit Card,66.0,Delivered,1.0
+ORD01480,2025-02-25,C0062,Chandigarh,Wok Express,Chinese,410,20,100,330,UPI,31.0,Delivered,1.0
+ORD01481,2025-06-22,C0274,Gurugram,Wok Express,Chinese,732,50,0,782,Debit Card,57.0,Delivered,5.0
+ORD01482,2025-05-02,C0209,Gurugram,Burger Hub,Fast Food,197,40,0,237,Wallet,70.0,Delivered,4.0
+ORD01483,2025-01-09,C0227,Mohali,Burger Hub,Fast Food,336,40,25,351,Cash on Delivery,33.0,Delivered,4.0
+ORD01484,2025-11-09,C0446,Gurugram,Burger Hub,Fast Food,505,30,0,535,Wallet,33.0,Delivered,3.0
+ORD01485,2025-07-17,C0454,Mohali,Taco Street,Mexican,587,30,0,617,Cash on Delivery,44.0,Delivered,4.0
+ORD01486,2025-11-11,C0537,Panchkula,Dosa Point,South Indian,197,40,0,237,Debit Card,49.0,Delivered,4.0
+ORD01487,2025-01-11,C0080,Gurugram,Taco Street,Mexican,1189,50,25,1214,Cash on Delivery,41.0,Delivered,2.0
+ORD01488,2025-03-28,C0298,Mohali,Dosa Point,South Indian,574,30,0,604,Cash on Delivery,35.0,Delivered,2.0
+ORD01489,2025-11-04,C0399,Gurugram,Taco Street,Mexican,199,30,100,129,Debit Card,46.0,Delivered,1.0
+ORD01490,2025-07-04,C0448,Panchkula,Dosa Point,South Indian,191,50,25,216,Debit Card,45.0,Delivered,1.0
+ORD01491,2025-04-28,C0530,Gurugram,Wok Express,Chinese,900,40,25,915,Wallet,32.0,Delivered,5.0
+ORD01492,2025-04-11,C0095,Gurugram,Spice Garden,Indian,931,40,0,971,Wallet,23.0,Delivered,2.0
+ORD01493,2025-01-26,C0286,Mohali,Wok Express,Chinese,312,40,25,327,Credit Card,27.0,Delivered,4.0
+ORD01494,2025-07-29,C0181,Panchkula,Wok Express,Chinese,491,20,0,511,Wallet,57.0,Delivered,1.0
+ORD01495,2025-08-29,C0079,Chandigarh,Dosa Point,South Indian,493,30,0,523,UPI,30.0,Delivered,5.0
+ORD01496,2025-05-18,C0157,Gurugram,Burger Hub,Fast Food,404,50,50,404,Credit Card,64.0,Delivered,2.0
+ORD01497,2025-05-06,C0517,Chandigarh,Spice Garden,Indian,816,30,0,846,Cash on Delivery,19.0,Delivered,5.0
+ORD01498,2025-03-11,C0377,Gurugram,Burger Hub,Fast Food,249,50,0,299,Debit Card,33.0,Delivered,5.0
+ORD01499,2025-08-25,C0044,Chandigarh,Biryani House,Indian,1081,30,100,1011,Cash on Delivery,33.0,Delivered,2.0
+ORD01500,2025-03-11,C0414,Gurugram,Spice Garden,Indian,738,50,50,738,Cash on Delivery,61.0,Delivered,4.0
+ORD01501,2025-11-28,C0512,Mohali,Healthy Bowl,Healthy,979,40,50,969,UPI,28.0,Delivered,5.0
+ORD01502,2025-04-16,C0385,Panchkula,Pizza Corner,Pizza,902,40,0,942,Debit Card,44.0,Delivered,4.0
+ORD01503,2025-01-13,C0461,Gurugram,Healthy Bowl,Healthy,1147,30,0,1177,Credit Card,67.0,Delivered,2.0
+ORD01504,2025-11-29,C0259,Delhi,Wok Express,Chinese,961,30,0,991,Cash on Delivery,32.0,Delivered,4.0
+ORD01505,2025-08-27,C0150,Chandigarh,Taco Street,Mexican,910,30,25,915,Debit Card,21.0,Delivered,2.0
+ORD01506,2025-07-11,C0080,Gurugram,Spice Garden,Indian,867,50,25,892,Debit Card,73.0,Delivered,4.0
+ORD01507,2025-07-01,C0519,Mohali,Taco Street,Mexican,232,50,0,282,UPI,30.0,Delivered,3.0
+ORD01508,2025-02-21,C0381,Chandigarh,Burger Hub,Fast Food,702,20,0,722,Cash on Delivery,58.0,Delivered,5.0
+ORD01509,2025-07-26,C0530,Gurugram,Healthy Bowl,Healthy,1092,40,50,1082,UPI,41.0,Delivered,1.0
+ORD01510,2025-08-13,C0519,Chandigarh,Taco Street,Mexican,1037,20,100,957,Credit Card,64.0,Delivered,5.0
+ORD01511,2025-07-13,C0394,Panchkula,Healthy Bowl,Healthy,1050,40,0,1090,Cash on Delivery,30.0,Delivered,1.0
+ORD01512,2025-04-23,C0200,Delhi,Spice Garden,Indian,240,40,0,0,Wallet,,Cancelled,
+ORD01513,2025-04-10,C0068,Mohali,Dosa Point,South Indian,460,50,50,460,UPI,31.0,Delivered,1.0
+ORD01514,2025-05-16,C0117,Chandigarh,Taco Street,Mexican,285,30,25,290,Cash on Delivery,28.0,Delivered,4.0
+ORD01515,2025-06-25,C0335,Gurugram,Healthy Bowl,Healthy,1110,40,50,1100,Credit Card,74.0,Delivered,3.0
+ORD01516,2025-12-08,C0522,Panchkula,Wok Express,Chinese,652,30,0,682,Cash on Delivery,35.0,Delivered,3.0
+ORD01517,2025-07-27,C0225,Mohali,Spice Garden,Indian,765,40,0,805,Cash on Delivery,53.0,Delivered,2.0
+ORD01518,2025-03-20,C0340,Panchkula,Pizza Corner,Pizza,1185,40,25,1200,UPI,44.0,Delivered,5.0
+ORD01519,2025-05-05,C0416,Delhi,Burger Hub,Fast Food,1135,20,0,1155,Credit Card,21.0,Delivered,4.0
+ORD01520,2025-08-01,C0504,Delhi,Taco Street,Mexican,212,40,0,252,Wallet,33.0,Delivered,4.0
+ORD01521,2025-04-20,C0345,Mohali,Dosa Point,South Indian,1030,30,0,1060,Wallet,69.0,Delivered,2.0
+ORD01522,2025-06-17,C0154,Gurugram,Dosa Point,South Indian,319,20,0,339,Cash on Delivery,65.0,Delivered,1.0
+ORD01523,2025-09-10,C0299,Panchkula,Pizza Corner,Pizza,461,20,0,481,Debit Card,20.0,Delivered,2.0
+ORD01524,2025-12-08,C0085,Chandigarh,Pizza Corner,Pizza,232,30,0,262,Wallet,20.0,Delivered,5.0
+ORD01525,2025-01-01,C0539,Chandigarh,Biryani House,Indian,498,50,25,523,Wallet,55.0,Delivered,3.0
+ORD01526,2025-05-26,C0099,Delhi,Burger Hub,Fast Food,283,50,50,283,Wallet,28.0,Delivered,5.0
+ORD01527,2025-04-25,C0464,Panchkula,Wok Express,Chinese,215,50,0,265,Wallet,62.0,Delivered,4.0
+ORD01528,2025-06-06,C0335,Mohali,Wok Express,Chinese,971,50,0,1021,Credit Card,72.0,Delivered,3.0
+ORD01529,2025-08-25,C0152,Chandigarh,Burger Hub,Fast Food,467,20,0,487,Cash on Delivery,74.0,Delivered,1.0
+ORD01530,2025-03-06,C0494,Delhi,Burger Hub,Fast Food,300,40,0,340,Cash on Delivery,55.0,Delivered,2.0
+ORD01531,2025-03-04,C0197,Panchkula,Wok Express,Chinese,579,50,100,529,UPI,28.0,Delivered,4.0
+ORD01532,2025-01-26,C0332,Delhi,Spice Garden,Indian,666,50,0,716,Credit Card,47.0,Delivered,4.0
+ORD01533,2025-06-17,C0426,Chandigarh,Dosa Point,South Indian,794,30,0,824,Cash on Delivery,28.0,Delivered,3.0
+ORD01534,2025-06-21,C0208,Mohali,Burger Hub,Fast Food,236,30,0,266,Cash on Delivery,49.0,Delivered,3.0
+ORD01535,2025-01-20,C0495,Gurugram,Spice Garden,Indian,888,40,50,878,Credit Card,18.0,Delivered,1.0
+ORD01536,2025-04-19,C0202,Delhi,Burger Hub,Fast Food,830,40,50,820,UPI,51.0,Delivered,5.0
+ORD01537,2025-08-21,C0065,Delhi,Wok Express,Chinese,1084,20,0,1104,Cash on Delivery,44.0,Delivered,5.0
+ORD01538,2025-08-26,C0235,Gurugram,Biryani House,Indian,795,30,25,800,Debit Card,75.0,Delivered,1.0
+ORD01539,2025-07-22,C0245,Delhi,Wok Express,Chinese,158,30,0,188,UPI,70.0,Delivered,4.0
+ORD01540,2025-08-09,C0017,Gurugram,Spice Garden,Indian,305,40,50,295,Debit Card,52.0,Delivered,4.0
+ORD01541,2025-11-04,C0241,Delhi,Spice Garden,Indian,1167,30,50,1147,Wallet,36.0,Delivered,1.0
+ORD01542,2025-06-18,C0492,Chandigarh,Burger Hub,Fast Food,560,20,100,480,UPI,39.0,Delivered,2.0
+ORD01543,2025-03-08,C0209,Mohali,Wok Express,Chinese,496,40,100,436,Debit Card,28.0,Delivered,4.0
+ORD01544,2025-02-19,C0125,Chandigarh,Wok Express,Chinese,783,20,0,0,Credit Card,,Cancelled,
+ORD01545,2025-02-03,C0477,Gurugram,Wok Express,Chinese,516,20,25,511,UPI,50.0,Delivered,5.0
+ORD01546,2025-09-04,C0257,Chandigarh,Wok Express,Chinese,320,40,0,360,Wallet,42.0,Delivered,2.0
+ORD01547,2025-02-14,C0199,Delhi,Pizza Corner,Pizza,482,30,0,512,Debit Card,70.0,Delivered,5.0
+ORD01548,2025-01-16,C0218,Mohali,Healthy Bowl,Healthy,947,50,0,997,Credit Card,67.0,Delivered,4.0
+ORD01549,2025-11-14,C0469,Delhi,Taco Street,Mexican,287,30,100,217,Debit Card,67.0,Delivered,4.0
+ORD01550,2025-11-25,C0364,Chandigarh,Healthy Bowl,Healthy,557,20,0,577,Debit Card,18.0,Delivered,5.0
+ORD01551,2025-11-29,C0099,Gurugram,Healthy Bowl,Healthy,1001,20,0,1021,Wallet,23.0,Delivered,2.0
+ORD01552,2025-10-15,C0123,Gurugram,Pizza Corner,Pizza,428,50,25,453,UPI,53.0,Delivered,3.0
+ORD01553,2025-11-23,C0110,Chandigarh,Healthy Bowl,Healthy,653,40,50,643,Debit Card,36.0,Delivered,1.0
+ORD01554,2025-12-07,C0077,Gurugram,Burger Hub,Fast Food,678,50,0,728,Debit Card,72.0,Delivered,4.0
+ORD01555,2025-02-08,C0190,Chandigarh,Taco Street,Mexican,781,40,25,796,Credit Card,36.0,Delivered,3.0
+ORD01556,2025-09-26,C0342,Panchkula,Pizza Corner,Pizza,892,20,0,0,UPI,,Cancelled,
+ORD01557,2025-04-04,C0082,Gurugram,Biryani House,Indian,311,30,0,341,Wallet,71.0,Delivered,5.0
+ORD01558,2025-12-20,C0431,Chandigarh,Wok Express,Chinese,759,20,25,754,Debit Card,20.0,Delivered,3.0
+ORD01559,2025-05-18,C0005,Chandigarh,Spice Garden,Indian,430,20,0,0,Cash on Delivery,,Cancelled,
+ORD01560,2025-01-22,C0254,Chandigarh,Taco Street,Mexican,889,50,50,889,Debit Card,28.0,Delivered,5.0
+ORD01561,2025-03-28,C0174,Gurugram,Burger Hub,Fast Food,362,20,25,357,Credit Card,63.0,Delivered,2.0
+ORD01562,2025-07-28,C0217,Gurugram,Spice Garden,Indian,709,30,25,714,Cash on Delivery,21.0,Delivered,4.0
+ORD01563,2025-04-09,C0422,Gurugram,Wok Express,Chinese,855,30,25,0,Debit Card,,Cancelled,
+ORD01564,2025-05-18,C0118,Delhi,Biryani House,Indian,405,50,0,455,Wallet,49.0,Delivered,1.0
+ORD01565,2025-04-08,C0136,Chandigarh,Wok Express,Chinese,412,30,100,342,Credit Card,60.0,Delivered,2.0
+ORD01566,2025-05-08,C0284,Chandigarh,Spice Garden,Indian,297,50,0,0,Wallet,,Cancelled,
+ORD01567,2025-01-02,C0148,Mohali,Biryani House,Indian,376,20,25,371,UPI,31.0,Delivered,4.0
+ORD01568,2025-07-08,C0207,Mohali,Healthy Bowl,Healthy,991,50,100,941,Credit Card,35.0,Delivered,4.0
+ORD01569,2025-07-19,C0051,Panchkula,Healthy Bowl,Healthy,535,30,25,540,UPI,35.0,Delivered,4.0
+ORD01570,2025-08-10,C0209,Delhi,Taco Street,Mexican,474,20,0,494,UPI,51.0,Delivered,3.0
+ORD01571,2025-05-28,C0543,Chandigarh,Burger Hub,Fast Food,730,40,0,770,Wallet,18.0,Delivered,4.0
+ORD01572,2025-08-21,C0489,Delhi,Healthy Bowl,Healthy,770,30,25,775,Debit Card,73.0,Delivered,3.0
+ORD01573,2025-03-24,C0394,Mohali,Taco Street,Mexican,601,50,0,651,Wallet,33.0,Delivered,4.0
+ORD01574,2025-09-18,C0279,Gurugram,Burger Hub,Fast Food,374,40,100,314,Debit Card,34.0,Delivered,1.0
+ORD01575,2025-07-26,C0543,Mohali,Spice Garden,Indian,278,20,0,298,Cash on Delivery,34.0,Delivered,2.0
+ORD01576,2025-09-28,C0430,Gurugram,Spice Garden,Indian,455,20,0,475,Debit Card,67.0,Delivered,5.0
+ORD01577,2025-01-01,C0258,Panchkula,Taco Street,Mexican,546,30,0,576,Wallet,64.0,Delivered,4.0
+ORD01578,2025-04-13,C0333,Chandigarh,Dosa Point,South Indian,880,20,25,875,Debit Card,30.0,Delivered,2.0
+ORD01579,2025-07-02,C0079,Chandigarh,Taco Street,Mexican,643,40,25,658,Wallet,53.0,Delivered,1.0
+ORD01580,2025-03-12,C0106,Gurugram,Biryani House,Indian,991,20,0,1011,Cash on Delivery,52.0,Delivered,1.0
+ORD01581,2025-03-11,C0419,Chandigarh,Biryani House,Indian,589,30,0,619,Debit Card,34.0,Delivered,1.0
+ORD01582,2025-11-26,C0096,Panchkula,Taco Street,Mexican,578,20,0,598,Wallet,57.0,Delivered,1.0
+ORD01583,2025-10-02,C0502,Mohali,Biryani House,Indian,240,50,100,190,Cash on Delivery,28.0,Delivered,1.0
+ORD01584,2025-06-19,C0366,Delhi,Pizza Corner,Pizza,331,30,50,311,Wallet,45.0,Delivered,3.0
+ORD01585,2025-12-23,C0198,Mohali,Burger Hub,Fast Food,205,20,100,125,Credit Card,60.0,Delivered,3.0
+ORD01586,2025-04-30,C0063,Delhi,Spice Garden,Indian,517,30,0,547,Credit Card,36.0,Delivered,4.0
+ORD01587,2025-11-13,C0307,Delhi,Burger Hub,Fast Food,214,20,100,134,Credit Card,31.0,Delivered,3.0
+ORD01588,2025-12-19,C0546,Mohali,Pizza Corner,Pizza,475,50,25,500,Cash on Delivery,41.0,Delivered,1.0
+ORD01589,2025-02-25,C0235,Mohali,Pizza Corner,Pizza,472,30,0,502,Debit Card,24.0,Delivered,4.0
+ORD01590,2025-09-24,C0460,Delhi,Healthy Bowl,Healthy,1077,30,50,1057,Credit Card,54.0,Delivered,2.0
+ORD01591,2025-11-09,C0201,Delhi,Taco Street,Mexican,721,40,0,761,Debit Card,64.0,Delivered,1.0
+ORD01592,2025-07-12,C0547,Chandigarh,Taco Street,Mexican,336,20,100,256,Wallet,21.0,Delivered,2.0
+ORD01593,2025-09-03,C0130,Mohali,Dosa Point,South Indian,426,20,50,396,UPI,74.0,Delivered,2.0
+ORD01594,2025-09-18,C0268,Panchkula,Pizza Corner,Pizza,644,20,0,664,Wallet,23.0,Delivered,3.0
+ORD01595,2025-03-11,C0226,Chandigarh,Burger Hub,Fast Food,240,50,25,265,Wallet,31.0,Delivered,2.0
+ORD01596,2025-03-17,C0472,Mohali,Taco Street,Mexican,296,50,100,246,Debit Card,23.0,Delivered,3.0
+ORD01597,2025-06-22,C0032,Chandigarh,Spice Garden,Indian,217,20,0,237,Debit Card,62.0,Delivered,1.0
+ORD01598,2025-03-26,C0101,Delhi,Pizza Corner,Pizza,319,30,25,0,Wallet,,Cancelled,
+ORD01599,2025-11-28,C0389,Chandigarh,Healthy Bowl,Healthy,267,20,100,187,Wallet,40.0,Delivered,3.0
+ORD01600,2025-11-27,C0489,Panchkula,Wok Express,Chinese,748,40,0,788,Cash on Delivery,70.0,Delivered,2.0
+ORD01601,2025-09-25,C0322,Delhi,Pizza Corner,Pizza,458,30,0,488,Cash on Delivery,68.0,Delivered,1.0
+ORD01602,2025-01-21,C0252,Delhi,Dosa Point,South Indian,1107,20,0,1127,Debit Card,18.0,Delivered,3.0
+ORD01603,2025-11-22,C0415,Delhi,Healthy Bowl,Healthy,331,40,100,271,Wallet,51.0,Delivered,2.0
+ORD01604,2025-03-04,C0051,Panchkula,Biryani House,Indian,995,30,0,1025,Debit Card,38.0,Delivered,3.0
+ORD01605,2025-03-29,C0247,Delhi,Dosa Point,South Indian,235,20,100,155,Wallet,44.0,Delivered,2.0
+ORD01606,2025-11-11,C0190,Mohali,Taco Street,Mexican,877,20,50,847,UPI,72.0,Delivered,5.0
+ORD01607,2025-02-01,C0542,Chandigarh,Wok Express,Chinese,246,20,25,241,Debit Card,51.0,Delivered,1.0
+ORD01608,2025-11-17,C0199,Delhi,Wok Express,Chinese,513,50,25,538,Credit Card,33.0,Delivered,5.0
+ORD01609,2025-09-28,C0410,Gurugram,Pizza Corner,Pizza,968,40,0,1008,Debit Card,22.0,Delivered,2.0
+ORD01610,2025-03-29,C0134,Panchkula,Wok Express,Chinese,984,40,0,1024,Wallet,74.0,Delivered,4.0
+ORD01611,2025-08-09,C0400,Panchkula,Biryani House,Indian,363,40,0,403,Cash on Delivery,73.0,Delivered,1.0
+ORD01612,2025-03-22,C0378,Panchkula,Healthy Bowl,Healthy,915,40,0,955,Wallet,68.0,Delivered,2.0
+ORD01613,2025-12-16,C0387,Panchkula,Burger Hub,Fast Food,751,30,100,681,Cash on Delivery,23.0,Delivered,4.0
+ORD01614,2025-05-24,C0513,Gurugram,Wok Express,Chinese,1200,20,0,1220,Credit Card,41.0,Delivered,2.0
+ORD01615,2025-05-22,C0039,Panchkula,Healthy Bowl,Healthy,424,50,50,424,UPI,21.0,Delivered,3.0
+ORD01616,2025-05-30,C0364,Mohali,Biryani House,Indian,569,30,0,0,Wallet,,Cancelled,
+ORD01617,2025-05-12,C0093,Chandigarh,Healthy Bowl,Healthy,400,50,100,350,Wallet,27.0,Delivered,1.0
+ORD01618,2025-08-21,C0247,Gurugram,Taco Street,Mexican,403,20,50,0,UPI,,Cancelled,
+ORD01619,2025-11-20,C0041,Delhi,Biryani House,Indian,1158,30,0,1188,UPI,38.0,Delivered,2.0
+ORD01620,2025-02-09,C0098,Delhi,Pizza Corner,Pizza,1184,50,0,0,Wallet,,Cancelled,
+ORD01621,2025-07-28,C0110,Panchkula,Spice Garden,Indian,171,30,0,201,Cash on Delivery,69.0,Delivered,1.0
+ORD01622,2025-02-27,C0271,Panchkula,Burger Hub,Fast Food,176,30,100,106,Wallet,48.0,Delivered,4.0
+ORD01623,2025-03-03,C0138,Chandigarh,Dosa Point,South Indian,156,30,25,161,UPI,68.0,Delivered,3.0
+ORD01624,2025-06-09,C0407,Gurugram,Pizza Corner,Pizza,402,40,0,442,Cash on Delivery,32.0,Delivered,2.0
+ORD01625,2025-06-25,C0221,Gurugram,Spice Garden,Indian,435,50,0,485,Wallet,64.0,Delivered,2.0
+ORD01626,2025-09-16,C0079,Chandigarh,Burger Hub,Fast Food,300,30,25,305,Debit Card,39.0,Delivered,4.0
+ORD01627,2025-01-19,C0346,Mohali,Wok Express,Chinese,416,50,100,366,Cash on Delivery,41.0,Delivered,1.0
+ORD01628,2025-07-22,C0437,Chandigarh,Dosa Point,South Indian,1041,20,50,1011,UPI,25.0,Delivered,2.0
+ORD01629,2025-04-09,C0028,Delhi,Spice Garden,Indian,566,40,25,581,Credit Card,56.0,Delivered,1.0
+ORD01630,2025-12-17,C0261,Panchkula,Taco Street,Mexican,298,40,100,238,Debit Card,29.0,Delivered,2.0
+ORD01631,2025-01-27,C0435,Gurugram,Dosa Point,South Indian,1192,30,25,1197,Credit Card,49.0,Delivered,4.0
+ORD01632,2025-11-15,C0119,Mohali,Biryani House,Indian,690,40,100,0,Debit Card,,Cancelled,
+ORD01633,2025-10-11,C0542,Mohali,Spice Garden,Indian,1066,30,0,1096,Cash on Delivery,48.0,Delivered,5.0
+ORD01634,2025-01-24,C0380,Delhi,Biryani House,Indian,628,40,50,618,UPI,21.0,Delivered,1.0
+ORD01635,2025-11-07,C0293,Gurugram,Spice Garden,Indian,1189,40,50,1179,Credit Card,22.0,Delivered,3.0
+ORD01636,2025-01-09,C0431,Gurugram,Taco Street,Mexican,672,30,25,677,Wallet,63.0,Delivered,5.0
+ORD01637,2025-07-12,C0394,Gurugram,Wok Express,Chinese,1084,20,50,1054,Credit Card,52.0,Delivered,3.0
+ORD01638,2025-03-17,C0200,Mohali,Healthy Bowl,Healthy,360,40,0,400,Credit Card,74.0,Delivered,3.0
+ORD01639,2025-02-25,C0057,Delhi,Burger Hub,Fast Food,606,40,0,646,Wallet,45.0,Delivered,4.0
+ORD01640,2025-12-25,C0032,Delhi,Spice Garden,Indian,1118,30,25,1123,Credit Card,47.0,Delivered,4.0
+ORD01641,2025-04-21,C0250,Gurugram,Wok Express,Chinese,617,30,0,647,Credit Card,56.0,Delivered,3.0
+ORD01642,2025-12-03,C0121,Mohali,Spice Garden,Indian,733,20,0,0,Wallet,,Cancelled,
+ORD01643,2025-11-09,C0416,Gurugram,Dosa Point,South Indian,849,20,50,819,Debit Card,68.0,Delivered,2.0
+ORD01644,2025-10-06,C0388,Panchkula,Burger Hub,Fast Food,1039,40,0,1079,Cash on Delivery,42.0,Delivered,5.0
+ORD01645,2025-11-19,C0150,Mohali,Pizza Corner,Pizza,593,20,50,563,Wallet,45.0,Delivered,1.0
+ORD01646,2025-06-10,C0153,Mohali,Healthy Bowl,Healthy,396,40,0,436,Wallet,43.0,Delivered,5.0
+ORD01647,2025-06-09,C0007,Gurugram,Wok Express,Chinese,233,20,0,253,Cash on Delivery,32.0,Delivered,1.0
+ORD01648,2025-11-04,C0516,Mohali,Dosa Point,South Indian,947,20,0,967,UPI,66.0,Delivered,4.0
+ORD01649,2025-02-11,C0385,Gurugram,Biryani House,Indian,835,20,0,0,UPI,,Cancelled,
+ORD01650,2025-11-10,C0056,Delhi,Wok Express,Chinese,314,40,100,254,Cash on Delivery,72.0,Delivered,3.0
+ORD01651,2025-04-01,C0226,Panchkula,Biryani House,Indian,1057,50,100,1007,Debit Card,64.0,Delivered,3.0
+ORD01652,2025-01-09,C0460,Mohali,Taco Street,Mexican,1052,50,50,1052,Cash on Delivery,28.0,Delivered,1.0
+ORD01653,2025-07-30,C0486,Delhi,Burger Hub,Fast Food,430,40,0,470,UPI,23.0,Delivered,4.0
+ORD01654,2025-03-24,C0270,Chandigarh,Pizza Corner,Pizza,689,20,25,684,Credit Card,61.0,Delivered,5.0
+ORD01655,2025-04-12,C0176,Mohali,Biryani House,Indian,1079,30,0,1109,Debit Card,38.0,Delivered,3.0
+ORD01656,2025-07-25,C0105,Chandigarh,Pizza Corner,Pizza,1106,20,25,1101,Wallet,72.0,Delivered,2.0
+ORD01657,2025-03-25,C0326,Mohali,Spice Garden,Indian,927,20,0,947,Cash on Delivery,33.0,Delivered,5.0
+ORD01658,2025-09-11,C0304,Panchkula,Healthy Bowl,Healthy,920,20,0,940,Debit Card,22.0,Delivered,5.0
+ORD01659,2025-10-31,C0523,Chandigarh,Spice Garden,Indian,495,40,0,535,UPI,43.0,Delivered,3.0
+ORD01660,2025-08-09,C0105,Delhi,Wok Express,Chinese,733,20,0,753,Cash on Delivery,61.0,Delivered,3.0
+ORD01661,2025-10-01,C0175,Mohali,Pizza Corner,Pizza,440,50,100,390,UPI,60.0,Delivered,5.0
+ORD01662,2025-01-08,C0199,Panchkula,Burger Hub,Fast Food,338,50,50,338,Wallet,29.0,Delivered,1.0
+ORD01663,2025-08-03,C0437,Mohali,Burger Hub,Fast Food,846,50,100,796,Wallet,46.0,Delivered,2.0
+ORD01664,2025-05-05,C0461,Chandigarh,Pizza Corner,Pizza,512,40,25,527,Cash on Delivery,32.0,Delivered,5.0
+ORD01665,2025-12-26,C0509,Mohali,Dosa Point,South Indian,974,20,25,969,Cash on Delivery,21.0,Delivered,4.0
+ORD01666,2025-09-23,C0176,Mohali,Burger Hub,Fast Food,181,40,0,221,Credit Card,27.0,Delivered,1.0
+ORD01667,2025-11-19,C0375,Chandigarh,Healthy Bowl,Healthy,821,30,0,0,Debit Card,,Cancelled,
+ORD01668,2025-10-04,C0536,Mohali,Taco Street,Mexican,364,40,25,379,UPI,64.0,Delivered,1.0
+ORD01669,2025-10-20,C0548,Panchkula,Burger Hub,Fast Food,820,50,25,845,Credit Card,20.0,Delivered,5.0
+ORD01670,2025-08-09,C0035,Gurugram,Wok Express,Chinese,183,30,0,213,Credit Card,20.0,Delivered,3.0
+ORD01671,2025-12-06,C0346,Gurugram,Dosa Point,South Indian,663,40,100,603,Wallet,74.0,Delivered,5.0
+ORD01672,2025-10-11,C0469,Chandigarh,Pizza Corner,Pizza,322,40,0,362,Cash on Delivery,52.0,Delivered,5.0
+ORD01673,2025-02-16,C0201,Gurugram,Healthy Bowl,Healthy,516,30,50,496,Credit Card,42.0,Delivered,4.0
+ORD01674,2025-01-14,C0066,Delhi,Taco Street,Mexican,712,50,0,0,Cash on Delivery,,Cancelled,
+ORD01675,2025-11-09,C0510,Mohali,Taco Street,Mexican,937,30,50,917,Credit Card,45.0,Delivered,5.0
+ORD01676,2025-06-13,C0001,Delhi,Biryani House,Indian,1161,20,100,1081,Credit Card,61.0,Delivered,5.0
+ORD01677,2025-12-16,C0400,Delhi,Biryani House,Indian,905,20,100,825,Wallet,19.0,Delivered,3.0
+ORD01678,2025-06-19,C0181,Panchkula,Taco Street,Mexican,228,20,100,148,Debit Card,35.0,Delivered,5.0
+ORD01679,2025-05-18,C0362,Gurugram,Wok Express,Chinese,523,50,25,548,Debit Card,30.0,Delivered,2.0
+ORD01680,2025-04-06,C0106,Panchkula,Biryani House,Indian,422,40,25,437,Cash on Delivery,32.0,Delivered,2.0
+ORD01681,2025-03-26,C0183,Panchkula,Wok Express,Chinese,313,40,0,353,Cash on Delivery,39.0,Delivered,4.0
+ORD01682,2025-03-27,C0379,Chandigarh,Burger Hub,Fast Food,976,30,100,906,Credit Card,51.0,Delivered,5.0
+ORD01683,2025-09-16,C0532,Panchkula,Pizza Corner,Pizza,951,40,0,991,Cash on Delivery,59.0,Delivered,4.0
+ORD01684,2025-10-14,C0230,Chandigarh,Healthy Bowl,Healthy,182,40,25,197,Credit Card,36.0,Delivered,3.0
+ORD01685,2025-06-06,C0169,Chandigarh,Pizza Corner,Pizza,1199,20,0,1219,Credit Card,56.0,Delivered,4.0
+ORD01686,2025-09-25,C0404,Panchkula,Healthy Bowl,Healthy,633,40,0,673,UPI,41.0,Delivered,2.0
+ORD01687,2025-06-16,C0222,Mohali,Wok Express,Chinese,1079,20,0,1099,Debit Card,30.0,Delivered,1.0
+ORD01688,2025-11-14,C0244,Delhi,Biryani House,Indian,1009,50,100,959,Cash on Delivery,51.0,Delivered,1.0
+ORD01689,2025-06-12,C0291,Chandigarh,Spice Garden,Indian,182,40,0,222,UPI,59.0,Delivered,1.0
+ORD01690,2025-07-01,C0537,Delhi,Burger Hub,Fast Food,1085,50,50,1085,Wallet,25.0,Delivered,5.0
+ORD01691,2025-01-31,C0540,Gurugram,Burger Hub,Fast Food,1128,20,0,1148,Debit Card,33.0,Delivered,5.0
+ORD01692,2025-07-25,C0427,Chandigarh,Burger Hub,Fast Food,430,40,50,420,Debit Card,69.0,Delivered,4.0
+ORD01693,2025-10-26,C0505,Panchkula,Dosa Point,South Indian,1071,50,0,1121,Wallet,28.0,Delivered,2.0
+ORD01694,2025-06-22,C0295,Mohali,Wok Express,Chinese,845,50,0,895,Wallet,38.0,Delivered,5.0
+ORD01695,2025-03-07,C0140,Chandigarh,Wok Express,Chinese,393,20,100,313,UPI,39.0,Delivered,1.0
+ORD01696,2025-01-22,C0075,Mohali,Burger Hub,Fast Food,778,40,100,718,Credit Card,59.0,Delivered,2.0
+ORD01697,2025-11-26,C0493,Chandigarh,Pizza Corner,Pizza,817,40,0,857,Wallet,38.0,Delivered,3.0
+ORD01698,2025-04-15,C0538,Gurugram,Dosa Point,South Indian,523,20,0,543,Cash on Delivery,72.0,Delivered,5.0
+ORD01699,2025-07-17,C0228,Delhi,Taco Street,Mexican,445,50,100,0,Cash on Delivery,,Cancelled,
+ORD01700,2025-11-23,C0528,Mohali,Taco Street,Mexican,749,50,0,799,Debit Card,26.0,Delivered,3.0
+ORD01701,2025-05-28,C0137,Mohali,Biryani House,Indian,292,30,0,322,UPI,69.0,Delivered,1.0
+ORD01702,2025-03-06,C0387,Chandigarh,Biryani House,Indian,443,20,100,363,UPI,23.0,Delivered,1.0
+ORD01703,2025-09-24,C0475,Panchkula,Biryani House,Indian,1000,40,25,1015,UPI,63.0,Delivered,5.0
+ORD01704,2025-09-30,C0182,Mohali,Burger Hub,Fast Food,1115,50,50,1115,Debit Card,60.0,Delivered,4.0
+ORD01705,2025-09-03,C0273,Delhi,Taco Street,Mexican,807,40,100,0,Credit Card,,Cancelled,
+ORD01706,2025-07-14,C0392,Gurugram,Burger Hub,Fast Food,216,40,0,256,Credit Card,50.0,Delivered,4.0
+ORD01707,2025-02-22,C0180,Chandigarh,Dosa Point,South Indian,258,30,100,188,Cash on Delivery,25.0,Delivered,4.0
+ORD01708,2025-12-18,C0191,Chandigarh,Biryani House,Indian,556,50,100,506,Debit Card,54.0,Delivered,5.0
+ORD01709,2025-04-04,C0438,Panchkula,Burger Hub,Fast Food,467,30,100,397,Wallet,28.0,Delivered,1.0
+ORD01710,2025-02-08,C0251,Gurugram,Wok Express,Chinese,633,30,0,663,Wallet,38.0,Delivered,3.0
+ORD01711,2025-04-15,C0505,Mohali,Healthy Bowl,Healthy,780,40,25,795,Credit Card,64.0,Delivered,4.0
+ORD01712,2025-07-21,C0511,Gurugram,Wok Express,Chinese,656,20,50,626,UPI,73.0,Delivered,3.0
+ORD01713,2025-04-03,C0166,Chandigarh,Taco Street,Mexican,1048,20,0,1068,Debit Card,46.0,Delivered,1.0
+ORD01714,2025-05-07,C0142,Gurugram,Taco Street,Mexican,1169,20,0,1189,Wallet,75.0,Delivered,3.0
+ORD01715,2025-09-23,C0138,Panchkula,Biryani House,Indian,417,30,0,447,Cash on Delivery,66.0,Delivered,1.0
+ORD01716,2025-01-28,C0477,Gurugram,Biryani House,Indian,504,20,0,524,Wallet,53.0,Delivered,4.0
+ORD01717,2025-09-17,C0527,Panchkula,Taco Street,Mexican,865,30,100,795,Credit Card,63.0,Delivered,3.0
+ORD01718,2025-05-02,C0398,Chandigarh,Dosa Point,South Indian,274,20,0,294,Wallet,37.0,Delivered,2.0
+ORD01719,2025-10-21,C0216,Gurugram,Healthy Bowl,Healthy,374,50,0,424,UPI,73.0,Delivered,2.0
+ORD01720,2025-01-12,C0490,Panchkula,Burger Hub,Fast Food,492,40,100,432,Wallet,37.0,Delivered,2.0
+ORD01721,2025-04-09,C0216,Gurugram,Spice Garden,Indian,552,20,50,522,Cash on Delivery,48.0,Delivered,1.0
+ORD01722,2025-02-17,C0119,Mohali,Pizza Corner,Pizza,447,50,0,497,Credit Card,64.0,Delivered,2.0
+ORD01723,2025-03-02,C0092,Chandigarh,Taco Street,Mexican,989,50,100,939,UPI,25.0,Delivered,5.0
+ORD01724,2025-07-15,C0458,Mohali,Dosa Point,South Indian,364,30,0,394,Debit Card,57.0,Delivered,1.0
+ORD01725,2025-12-05,C0301,Gurugram,Taco Street,Mexican,659,30,50,639,Credit Card,31.0,Delivered,1.0
+ORD01726,2025-08-09,C0309,Gurugram,Dosa Point,South Indian,840,30,50,820,UPI,29.0,Delivered,4.0
+ORD01727,2025-03-18,C0405,Gurugram,Wok Express,Chinese,510,20,0,530,Credit Card,68.0,Delivered,5.0
+ORD01728,2025-06-22,C0018,Gurugram,Spice Garden,Indian,818,30,0,848,Credit Card,42.0,Delivered,2.0
+ORD01729,2025-12-25,C0220,Gurugram,Healthy Bowl,Healthy,866,50,0,916,Wallet,65.0,Delivered,1.0
+ORD01730,2025-06-26,C0146,Panchkula,Burger Hub,Fast Food,1166,20,0,1186,Credit Card,47.0,Delivered,1.0
+ORD01731,2025-08-06,C0028,Panchkula,Healthy Bowl,Healthy,818,40,25,833,UPI,26.0,Delivered,2.0
+ORD01732,2025-03-21,C0166,Delhi,Spice Garden,Indian,438,50,0,488,Credit Card,41.0,Delivered,5.0
+ORD01733,2025-10-13,C0088,Delhi,Taco Street,Mexican,719,20,0,739,Cash on Delivery,21.0,Delivered,4.0
+ORD01734,2025-10-30,C0110,Panchkula,Spice Garden,Indian,994,30,0,1024,Debit Card,36.0,Delivered,5.0
+ORD01735,2025-05-14,C0256,Chandigarh,Burger Hub,Fast Food,165,30,100,95,UPI,36.0,Delivered,1.0
+ORD01736,2025-01-09,C0378,Delhi,Healthy Bowl,Healthy,980,50,50,980,Debit Card,58.0,Delivered,4.0
+ORD01737,2025-11-15,C0292,Delhi,Pizza Corner,Pizza,909,50,50,909,Credit Card,40.0,Delivered,3.0
+ORD01738,2025-05-07,C0445,Chandigarh,Wok Express,Chinese,1132,20,0,1152,UPI,34.0,Delivered,4.0
+ORD01739,2025-01-23,C0236,Chandigarh,Spice Garden,Indian,392,20,0,412,Cash on Delivery,69.0,Delivered,4.0
+ORD01740,2025-07-24,C0014,Gurugram,Wok Express,Chinese,334,50,0,384,UPI,20.0,Delivered,5.0
+ORD01741,2025-12-10,C0351,Chandigarh,Healthy Bowl,Healthy,1067,20,0,1087,Cash on Delivery,73.0,Delivered,1.0
+ORD01742,2025-02-13,C0474,Mohali,Biryani House,Indian,1191,20,25,1186,Debit Card,33.0,Delivered,1.0
+ORD01743,2025-02-10,C0504,Panchkula,Spice Garden,Indian,739,40,50,0,Credit Card,,Cancelled,
+ORD01744,2025-07-25,C0358,Gurugram,Burger Hub,Fast Food,383,30,0,413,Wallet,45.0,Delivered,2.0
+ORD01745,2025-12-13,C0031,Mohali,Healthy Bowl,Healthy,1065,50,100,1015,UPI,34.0,Delivered,4.0
+ORD01746,2025-10-15,C0413,Mohali,Spice Garden,Indian,833,30,100,763,Cash on Delivery,67.0,Delivered,2.0
+ORD01747,2025-05-11,C0538,Mohali,Dosa Point,South Indian,956,50,0,1006,Credit Card,55.0,Delivered,1.0
+ORD01748,2025-12-25,C0413,Delhi,Taco Street,Mexican,188,20,0,0,Cash on Delivery,,Cancelled,
+ORD01749,2025-02-21,C0498,Delhi,Wok Express,Chinese,826,20,0,846,UPI,21.0,Delivered,4.0
+ORD01750,2025-05-10,C0070,Gurugram,Spice Garden,Indian,190,40,50,180,Debit Card,67.0,Delivered,5.0
+ORD01751,2025-10-21,C0068,Panchkula,Spice Garden,Indian,795,30,100,0,Credit Card,,Cancelled,
+ORD01752,2025-01-22,C0509,Delhi,Wok Express,Chinese,1177,20,50,1147,Wallet,71.0,Delivered,5.0
+ORD01753,2025-09-28,C0425,Delhi,Taco Street,Mexican,608,20,0,628,Wallet,46.0,Delivered,1.0
+ORD01754,2025-10-12,C0153,Mohali,Wok Express,Chinese,359,50,25,0,Cash on Delivery,,Cancelled,
+ORD01755,2025-05-27,C0331,Delhi,Spice Garden,Indian,1143,50,50,1143,Credit Card,32.0,Delivered,2.0
+ORD01756,2025-04-18,C0170,Delhi,Wok Express,Chinese,383,50,0,433,Credit Card,70.0,Delivered,3.0
+ORD01757,2025-01-14,C0176,Chandigarh,Biryani House,Indian,1106,20,50,1076,UPI,75.0,Delivered,5.0
+ORD01758,2025-07-30,C0098,Gurugram,Spice Garden,Indian,474,20,100,394,UPI,58.0,Delivered,3.0
+ORD01759,2025-05-01,C0023,Gurugram,Healthy Bowl,Healthy,1200,50,0,1250,Wallet,23.0,Delivered,4.0
+ORD01760,2025-11-17,C0409,Panchkula,Wok Express,Chinese,1190,20,0,0,Debit Card,,Cancelled,
+ORD01761,2025-10-01,C0365,Gurugram,Burger Hub,Fast Food,479,20,25,0,Wallet,,Cancelled,
+ORD01762,2025-04-30,C0064,Chandigarh,Taco Street,Mexican,1188,40,25,1203,Debit Card,52.0,Delivered,2.0
+ORD01763,2025-10-04,C0194,Delhi,Spice Garden,Indian,1007,50,0,1057,Wallet,23.0,Delivered,2.0
+ORD01764,2025-02-13,C0512,Gurugram,Wok Express,Chinese,975,20,100,895,Debit Card,28.0,Delivered,5.0
+ORD01765,2025-03-26,C0489,Chandigarh,Dosa Point,South Indian,1183,30,25,1188,Debit Card,43.0,Delivered,5.0
+ORD01766,2025-01-23,C0434,Chandigarh,Healthy Bowl,Healthy,619,20,0,639,Debit Card,23.0,Delivered,5.0
+ORD01767,2025-08-07,C0230,Panchkula,Spice Garden,Indian,1162,30,0,1192,Cash on Delivery,61.0,Delivered,5.0
+ORD01768,2025-07-01,C0432,Panchkula,Pizza Corner,Pizza,1092,50,0,1142,Wallet,20.0,Delivered,5.0
+ORD01769,2025-07-12,C0524,Panchkula,Dosa Point,South Indian,659,40,50,649,Credit Card,35.0,Delivered,4.0
+ORD01770,2025-02-03,C0164,Panchkula,Taco Street,Mexican,173,30,50,153,Wallet,42.0,Delivered,2.0
+ORD01771,2025-05-05,C0273,Gurugram,Dosa Point,South Indian,713,30,0,743,Cash on Delivery,54.0,Delivered,2.0
+ORD01772,2025-09-30,C0405,Delhi,Biryani House,Indian,234,50,0,0,Credit Card,,Cancelled,
+ORD01773,2025-09-27,C0308,Chandigarh,Taco Street,Mexican,289,50,0,339,Credit Card,22.0,Delivered,1.0
+ORD01774,2025-02-27,C0219,Delhi,Biryani House,Indian,882,30,0,912,Cash on Delivery,24.0,Delivered,2.0
+ORD01775,2025-01-01,C0524,Chandigarh,Healthy Bowl,Healthy,532,30,0,562,Cash on Delivery,38.0,Delivered,5.0
+ORD01776,2025-06-20,C0269,Chandigarh,Spice Garden,Indian,489,40,0,529,Wallet,49.0,Delivered,2.0
+ORD01777,2025-02-19,C0427,Delhi,Dosa Point,South Indian,801,20,0,821,UPI,35.0,Delivered,1.0
+ORD01778,2025-08-29,C0043,Gurugram,Taco Street,Mexican,283,30,100,213,Wallet,52.0,Delivered,5.0
+ORD01779,2025-01-02,C0424,Gurugram,Dosa Point,South Indian,1095,30,0,1125,UPI,46.0,Delivered,3.0
+ORD01780,2025-04-26,C0433,Gurugram,Healthy Bowl,Healthy,528,50,100,478,Wallet,34.0,Delivered,5.0
+ORD01781,2025-11-13,C0320,Chandigarh,Biryani House,Indian,960,50,0,1010,Debit Card,42.0,Delivered,5.0
+ORD01782,2025-06-24,C0185,Chandigarh,Wok Express,Chinese,792,20,0,812,Cash on Delivery,26.0,Delivered,5.0
+ORD01783,2025-07-04,C0433,Chandigarh,Biryani House,Indian,931,20,0,951,Credit Card,48.0,Delivered,1.0
+ORD01784,2025-11-02,C0103,Gurugram,Dosa Point,South Indian,574,50,0,624,Wallet,63.0,Delivered,2.0
+ORD01785,2025-05-14,C0309,Mohali,Healthy Bowl,Healthy,912,20,25,907,Debit Card,21.0,Delivered,1.0
+ORD01786,2025-09-29,C0446,Delhi,Wok Express,Chinese,516,20,0,536,Cash on Delivery,42.0,Delivered,3.0
+ORD01787,2025-07-30,C0323,Delhi,Spice Garden,Indian,819,50,0,869,Debit Card,70.0,Delivered,3.0
+ORD01788,2025-09-08,C0227,Mohali,Taco Street,Mexican,846,20,50,816,Wallet,37.0,Delivered,3.0
+ORD01789,2025-11-08,C0415,Delhi,Spice Garden,Indian,1020,30,0,1050,Credit Card,41.0,Delivered,3.0
+ORD01790,2025-11-21,C0343,Gurugram,Burger Hub,Fast Food,1007,40,100,947,Wallet,24.0,Delivered,4.0
+ORD01791,2025-06-27,C0192,Chandigarh,Biryani House,Indian,259,20,100,179,Credit Card,45.0,Delivered,2.0
+ORD01792,2025-03-19,C0490,Delhi,Wok Express,Chinese,520,50,25,0,Debit Card,,Cancelled,
+ORD01793,2025-07-25,C0288,Chandigarh,Burger Hub,Fast Food,797,20,25,792,UPI,23.0,Delivered,2.0
+ORD01794,2025-07-10,C0111,Delhi,Wok Express,Chinese,945,20,0,965,Wallet,52.0,Delivered,1.0
+ORD01795,2025-09-22,C0178,Gurugram,Dosa Point,South Indian,1135,50,50,1135,Wallet,73.0,Delivered,1.0
+ORD01796,2025-07-03,C0270,Mohali,Taco Street,Mexican,177,40,25,192,Cash on Delivery,63.0,Delivered,4.0
+ORD01797,2025-02-08,C0491,Panchkula,Burger Hub,Fast Food,377,30,0,407,Credit Card,34.0,Delivered,2.0
+ORD01798,2025-08-09,C0378,Panchkula,Healthy Bowl,Healthy,940,20,25,935,Wallet,70.0,Delivered,2.0
+ORD01799,2025-03-31,C0516,Panchkula,Wok Express,Chinese,411,20,100,331,Debit Card,66.0,Delivered,2.0
+ORD01800,2025-07-05,C0261,Panchkula,Wok Express,Chinese,246,20,100,0,Debit Card,,Cancelled,
+ORD01801,2025-05-27,C0144,Mohali,Taco Street,Mexican,843,30,0,873,Credit Card,22.0,Delivered,1.0
+ORD01802,2025-08-18,C0212,Mohali,Wok Express,Chinese,1156,20,25,1151,Debit Card,67.0,Delivered,4.0
+ORD01803,2025-11-27,C0389,Mohali,Burger Hub,Fast Food,1152,30,0,1182,UPI,71.0,Delivered,5.0
+ORD01804,2025-09-01,C0043,Panchkula,Healthy Bowl,Healthy,175,20,0,195,Debit Card,42.0,Delivered,2.0
+ORD01805,2025-11-22,C0236,Panchkula,Biryani House,Indian,217,50,50,0,Wallet,,Cancelled,
+ORD01806,2025-09-15,C0013,Chandigarh,Burger Hub,Fast Food,696,30,0,726,UPI,74.0,Delivered,3.0
+ORD01807,2025-09-21,C0436,Panchkula,Pizza Corner,Pizza,961,50,25,986,Credit Card,50.0,Delivered,1.0
+ORD01808,2025-05-23,C0216,Gurugram,Wok Express,Chinese,670,40,0,710,Debit Card,21.0,Delivered,5.0
+ORD01809,2025-12-19,C0016,Panchkula,Pizza Corner,Pizza,1123,30,25,1128,Credit Card,53.0,Delivered,1.0
+ORD01810,2025-11-26,C0396,Gurugram,Pizza Corner,Pizza,451,50,50,451,Wallet,34.0,Delivered,5.0
+ORD01811,2025-10-24,C0323,Delhi,Dosa Point,South Indian,467,20,0,0,Wallet,,Cancelled,
+ORD01812,2025-12-26,C0260,Delhi,Burger Hub,Fast Food,1131,20,0,1151,Credit Card,61.0,Delivered,2.0
+ORD01813,2025-01-19,C0232,Gurugram,Pizza Corner,Pizza,930,40,0,970,Cash on Delivery,75.0,Delivered,2.0
+ORD01814,2025-03-25,C0512,Chandigarh,Biryani House,Indian,637,20,0,0,Cash on Delivery,,Cancelled,
+ORD01815,2025-03-22,C0150,Chandigarh,Biryani House,Indian,503,20,100,423,UPI,31.0,Delivered,2.0
+ORD01816,2025-03-01,C0535,Delhi,Spice Garden,Indian,529,30,0,559,Cash on Delivery,19.0,Delivered,1.0
+ORD01817,2025-08-11,C0493,Delhi,Dosa Point,South Indian,384,20,0,404,UPI,58.0,Delivered,5.0
+ORD01818,2025-01-06,C0064,Mohali,Pizza Corner,Pizza,755,30,0,785,Wallet,23.0,Delivered,3.0
+ORD01819,2025-05-29,C0283,Delhi,Healthy Bowl,Healthy,649,20,50,619,Wallet,21.0,Delivered,4.0
+ORD01820,2025-11-25,C0101,Chandigarh,Burger Hub,Fast Food,549,40,0,589,UPI,55.0,Delivered,3.0
+ORD01821,2025-04-12,C0338,Gurugram,Spice Garden,Indian,1086,50,0,1136,Cash on Delivery,70.0,Delivered,3.0
+ORD01822,2025-08-13,C0433,Panchkula,Pizza Corner,Pizza,828,20,100,748,UPI,45.0,Delivered,4.0
+ORD01823,2025-02-07,C0231,Panchkula,Spice Garden,Indian,954,40,0,994,UPI,63.0,Delivered,1.0
+ORD01824,2025-08-17,C0481,Chandigarh,Healthy Bowl,Healthy,355,50,50,355,Wallet,55.0,Delivered,3.0
+ORD01825,2025-11-11,C0145,Delhi,Spice Garden,Indian,902,30,25,907,Wallet,30.0,Delivered,3.0
+ORD01826,2025-10-18,C0240,Gurugram,Dosa Point,South Indian,476,50,50,476,Cash on Delivery,18.0,Delivered,5.0
+ORD01827,2025-10-13,C0440,Mohali,Pizza Corner,Pizza,1117,50,50,1117,Debit Card,19.0,Delivered,3.0
+ORD01828,2025-08-21,C0023,Chandigarh,Pizza Corner,Pizza,1080,50,0,1130,Credit Card,33.0,Delivered,2.0
+ORD01829,2025-08-09,C0006,Gurugram,Healthy Bowl,Healthy,1080,30,25,1085,Debit Card,23.0,Delivered,5.0
+ORD01830,2025-03-13,C0499,Delhi,Pizza Corner,Pizza,1094,40,0,1134,Debit Card,25.0,Delivered,4.0
+ORD01831,2025-12-28,C0099,Gurugram,Pizza Corner,Pizza,432,50,0,482,Wallet,29.0,Delivered,1.0
+ORD01832,2025-03-16,C0145,Gurugram,Wok Express,Chinese,338,50,0,388,Cash on Delivery,29.0,Delivered,2.0
+ORD01833,2025-06-21,C0376,Panchkula,Pizza Corner,Pizza,1070,20,100,990,Credit Card,74.0,Delivered,3.0
+ORD01834,2025-02-23,C0446,Gurugram,Healthy Bowl,Healthy,751,40,25,766,Credit Card,20.0,Delivered,3.0
+ORD01835,2025-01-02,C0019,Chandigarh,Burger Hub,Fast Food,408,40,25,423,UPI,63.0,Delivered,5.0
+ORD01836,2025-11-20,C0176,Mohali,Dosa Point,South Indian,599,40,25,614,Credit Card,21.0,Delivered,4.0
+ORD01837,2025-05-23,C0006,Chandigarh,Taco Street,Mexican,513,30,50,493,UPI,74.0,Delivered,3.0
+ORD01838,2025-09-06,C0430,Chandigarh,Burger Hub,Fast Food,479,40,100,419,Cash on Delivery,23.0,Delivered,2.0
+ORD01839,2025-10-05,C0061,Chandigarh,Healthy Bowl,Healthy,162,50,0,212,UPI,40.0,Delivered,5.0
+ORD01840,2025-10-22,C0323,Mohali,Healthy Bowl,Healthy,152,30,25,157,Cash on Delivery,24.0,Delivered,1.0
+ORD01841,2025-02-11,C0205,Chandigarh,Spice Garden,Indian,892,30,25,897,UPI,54.0,Delivered,2.0
+ORD01842,2025-08-25,C0089,Gurugram,Pizza Corner,Pizza,1031,40,100,971,Wallet,48.0,Delivered,3.0
+ORD01843,2025-06-09,C0480,Delhi,Healthy Bowl,Healthy,750,30,100,680,Wallet,54.0,Delivered,5.0
+ORD01844,2025-10-12,C0119,Delhi,Biryani House,Indian,994,40,0,1034,UPI,35.0,Delivered,4.0
+ORD01845,2025-11-16,C0073,Chandigarh,Burger Hub,Fast Food,1121,30,0,1151,Debit Card,23.0,Delivered,2.0
+ORD01846,2025-06-20,C0188,Chandigarh,Spice Garden,Indian,464,40,50,454,Cash on Delivery,43.0,Delivered,2.0
+ORD01847,2025-06-01,C0346,Mohali,Biryani House,Indian,887,50,0,937,Cash on Delivery,74.0,Delivered,2.0
+ORD01848,2025-09-29,C0459,Mohali,Spice Garden,Indian,980,40,50,970,Wallet,65.0,Delivered,4.0
+ORD01849,2025-10-08,C0182,Panchkula,Biryani House,Indian,664,40,50,654,Credit Card,53.0,Delivered,3.0
+ORD01850,2025-07-15,C0457,Delhi,Wok Express,Chinese,981,30,50,961,Debit Card,39.0,Delivered,1.0
+ORD01851,2025-12-27,C0373,Delhi,Spice Garden,Indian,955,40,25,970,Credit Card,40.0,Delivered,1.0
+ORD01852,2025-04-16,C0110,Chandigarh,Burger Hub,Fast Food,169,20,50,139,Cash on Delivery,75.0,Delivered,3.0
+ORD01853,2025-11-19,C0474,Gurugram,Wok Express,Chinese,206,20,0,226,Cash on Delivery,23.0,Delivered,1.0
+ORD01854,2025-02-18,C0056,Mohali,Spice Garden,Indian,441,40,0,481,Credit Card,46.0,Delivered,4.0
+ORD01855,2025-11-21,C0182,Chandigarh,Spice Garden,Indian,981,40,0,1021,UPI,35.0,Delivered,1.0
+ORD01856,2025-12-08,C0366,Chandigarh,Burger Hub,Fast Food,523,50,0,573,UPI,75.0,Delivered,5.0
+ORD01857,2025-03-22,C0356,Gurugram,Dosa Point,South Indian,253,20,0,273,Debit Card,31.0,Delivered,2.0
+ORD01858,2025-08-14,C0103,Delhi,Healthy Bowl,Healthy,215,50,0,265,Credit Card,71.0,Delivered,4.0
+ORD01859,2025-03-08,C0029,Mohali,Taco Street,Mexican,251,40,100,191,UPI,61.0,Delivered,3.0
+ORD01860,2025-01-25,C0209,Gurugram,Spice Garden,Indian,954,40,100,894,UPI,37.0,Delivered,1.0
+ORD01861,2025-01-02,C0519,Gurugram,Wok Express,Chinese,863,30,0,893,Debit Card,45.0,Delivered,1.0
+ORD01862,2025-02-02,C0345,Gurugram,Pizza Corner,Pizza,764,20,0,0,Wallet,,Cancelled,
+ORD01863,2025-03-31,C0047,Panchkula,Healthy Bowl,Healthy,858,30,0,888,Cash on Delivery,39.0,Delivered,2.0
+ORD01864,2025-02-06,C0020,Delhi,Spice Garden,Indian,271,50,25,296,Wallet,54.0,Delivered,1.0
+ORD01865,2025-08-08,C0248,Delhi,Spice Garden,Indian,300,50,100,250,Wallet,34.0,Delivered,1.0
+ORD01866,2025-05-17,C0384,Mohali,Burger Hub,Fast Food,596,30,50,576,UPI,37.0,Delivered,5.0
+ORD01867,2025-01-02,C0343,Panchkula,Dosa Point,South Indian,1155,50,25,1180,UPI,72.0,Delivered,2.0
+ORD01868,2025-04-22,C0262,Mohali,Burger Hub,Fast Food,862,20,0,882,Cash on Delivery,42.0,Delivered,3.0
+ORD01869,2025-04-05,C0192,Gurugram,Wok Express,Chinese,366,50,50,366,Credit Card,55.0,Delivered,1.0
+ORD01870,2025-04-23,C0041,Delhi,Biryani House,Indian,780,40,0,820,UPI,65.0,Delivered,1.0
+ORD01871,2025-07-02,C0120,Chandigarh,Biryani House,Indian,161,50,50,161,Cash on Delivery,18.0,Delivered,2.0
+ORD01872,2025-07-21,C0468,Panchkula,Taco Street,Mexican,600,30,50,580,Wallet,36.0,Delivered,3.0
+ORD01873,2025-10-12,C0434,Panchkula,Taco Street,Mexican,812,30,0,842,Credit Card,65.0,Delivered,5.0
+ORD01874,2025-07-22,C0009,Mohali,Spice Garden,Indian,622,30,25,627,Cash on Delivery,74.0,Delivered,2.0
+ORD01875,2025-07-09,C0130,Chandigarh,Healthy Bowl,Healthy,532,20,0,552,Cash on Delivery,47.0,Delivered,1.0
+ORD01876,2025-02-28,C0186,Mohali,Pizza Corner,Pizza,855,30,0,885,Cash on Delivery,53.0,Delivered,1.0
+ORD01877,2025-12-25,C0535,Gurugram,Burger Hub,Fast Food,352,30,0,382,Cash on Delivery,51.0,Delivered,1.0
+ORD01878,2025-01-03,C0217,Gurugram,Healthy Bowl,Healthy,343,50,0,393,Debit Card,50.0,Delivered,4.0
+ORD01879,2025-06-20,C0172,Chandigarh,Pizza Corner,Pizza,790,50,100,0,Cash on Delivery,,Cancelled,
+ORD01880,2025-10-12,C0222,Chandigarh,Spice Garden,Indian,253,40,0,293,Wallet,66.0,Delivered,5.0
+ORD01881,2025-07-12,C0319,Chandigarh,Burger Hub,Fast Food,1191,50,0,1241,UPI,35.0,Delivered,3.0
+ORD01882,2025-09-21,C0219,Gurugram,Burger Hub,Fast Food,494,50,0,544,Debit Card,29.0,Delivered,5.0
+ORD01883,2025-10-02,C0061,Panchkula,Burger Hub,Fast Food,618,30,100,0,UPI,,Cancelled,
+ORD01884,2025-05-23,C0113,Chandigarh,Wok Express,Chinese,1147,40,100,1087,Cash on Delivery,26.0,Delivered,5.0
+ORD01885,2025-07-04,C0037,Mohali,Biryani House,Indian,170,30,100,100,UPI,18.0,Delivered,2.0
+ORD01886,2025-05-22,C0131,Chandigarh,Burger Hub,Fast Food,598,30,0,628,Credit Card,49.0,Delivered,3.0
+ORD01887,2025-07-10,C0417,Panchkula,Biryani House,Indian,234,30,50,214,Cash on Delivery,39.0,Delivered,1.0
+ORD01888,2025-04-11,C0468,Delhi,Spice Garden,Indian,267,40,100,207,Debit Card,32.0,Delivered,4.0
+ORD01889,2025-07-23,C0092,Delhi,Pizza Corner,Pizza,609,30,0,639,UPI,59.0,Delivered,2.0
+ORD01890,2025-08-29,C0123,Chandigarh,Wok Express,Chinese,924,20,0,944,Debit Card,51.0,Delivered,2.0
+ORD01891,2025-05-07,C0208,Chandigarh,Wok Express,Chinese,286,50,25,311,Cash on Delivery,54.0,Delivered,1.0
+ORD01892,2025-09-07,C0428,Delhi,Spice Garden,Indian,1176,20,0,1196,Cash on Delivery,74.0,Delivered,3.0
+ORD01893,2025-01-21,C0371,Panchkula,Dosa Point,South Indian,628,50,0,678,UPI,50.0,Delivered,4.0
+ORD01894,2025-06-05,C0202,Panchkula,Wok Express,Chinese,671,40,100,611,Wallet,45.0,Delivered,4.0
+ORD01895,2025-04-07,C0172,Delhi,Biryani House,Indian,1003,40,0,1043,Credit Card,56.0,Delivered,4.0
+ORD01896,2025-03-08,C0303,Mohali,Burger Hub,Fast Food,939,30,25,944,Debit Card,25.0,Delivered,1.0
+ORD01897,2025-04-21,C0155,Chandigarh,Dosa Point,South Indian,431,40,100,371,Wallet,38.0,Delivered,3.0
+ORD01898,2025-09-20,C0246,Panchkula,Spice Garden,Indian,1159,20,100,1079,UPI,44.0,Delivered,2.0
+ORD01899,2025-12-03,C0138,Panchkula,Dosa Point,South Indian,689,30,0,719,Cash on Delivery,69.0,Delivered,2.0
+ORD01900,2025-04-06,C0208,Chandigarh,Healthy Bowl,Healthy,267,40,50,257,Credit Card,33.0,Delivered,3.0
+ORD01901,2025-02-09,C0379,Delhi,Pizza Corner,Pizza,899,50,25,924,Cash on Delivery,64.0,Delivered,3.0
+ORD01902,2025-12-20,C0344,Mohali,Wok Express,Chinese,1172,40,25,1187,Debit Card,63.0,Delivered,3.0
+ORD01903,2025-05-03,C0515,Delhi,Dosa Point,South Indian,909,50,0,959,UPI,64.0,Delivered,5.0
+ORD01904,2025-08-09,C0023,Gurugram,Biryani House,Indian,724,30,0,754,UPI,36.0,Delivered,3.0
+ORD01905,2025-10-21,C0147,Panchkula,Healthy Bowl,Healthy,777,20,0,797,Debit Card,43.0,Delivered,5.0
+ORD01906,2025-10-22,C0014,Delhi,Dosa Point,South Indian,963,40,25,978,Debit Card,72.0,Delivered,2.0
+ORD01907,2025-03-11,C0054,Panchkula,Biryani House,Indian,903,20,0,923,Wallet,25.0,Delivered,3.0
+ORD01908,2025-10-26,C0317,Mohali,Biryani House,Indian,657,30,25,662,UPI,37.0,Delivered,3.0
+ORD01909,2025-08-20,C0031,Gurugram,Dosa Point,South Indian,600,50,0,650,UPI,61.0,Delivered,1.0
+ORD01910,2025-09-11,C0458,Chandigarh,Healthy Bowl,Healthy,492,30,0,522,Wallet,64.0,Delivered,5.0
+ORD01911,2025-05-24,C0181,Delhi,Healthy Bowl,Healthy,470,30,0,500,Wallet,60.0,Delivered,3.0
+ORD01912,2025-08-24,C0026,Gurugram,Wok Express,Chinese,696,50,0,746,Cash on Delivery,30.0,Delivered,2.0
+ORD01913,2025-06-24,C0410,Panchkula,Burger Hub,Fast Food,605,50,25,630,Cash on Delivery,54.0,Delivered,4.0
+ORD01914,2025-04-07,C0366,Mohali,Biryani House,Indian,1108,20,0,1128,Cash on Delivery,21.0,Delivered,1.0
+ORD01915,2025-10-02,C0038,Chandigarh,Pizza Corner,Pizza,200,40,0,240,Credit Card,60.0,Delivered,1.0
+ORD01916,2025-09-05,C0123,Delhi,Burger Hub,Fast Food,412,20,0,432,UPI,47.0,Delivered,2.0
+ORD01917,2025-11-06,C0507,Mohali,Wok Express,Chinese,614,20,0,634,UPI,51.0,Delivered,1.0
+ORD01918,2025-04-12,C0531,Delhi,Pizza Corner,Pizza,555,50,50,555,Credit Card,63.0,Delivered,2.0
+ORD01919,2025-01-14,C0361,Mohali,Burger Hub,Fast Food,1142,30,0,1172,Credit Card,41.0,Delivered,5.0
+ORD01920,2025-03-17,C0179,Chandigarh,Burger Hub,Fast Food,458,50,0,508,Debit Card,30.0,Delivered,5.0
+ORD01921,2025-07-06,C0090,Gurugram,Taco Street,Mexican,604,40,0,644,Debit Card,45.0,Delivered,4.0
+ORD01922,2025-01-18,C0524,Mohali,Taco Street,Mexican,963,20,0,983,Cash on Delivery,47.0,Delivered,1.0
+ORD01923,2025-11-07,C0504,Chandigarh,Taco Street,Mexican,397,30,0,427,Credit Card,24.0,Delivered,1.0
+ORD01924,2025-07-22,C0092,Delhi,Pizza Corner,Pizza,875,30,50,855,Cash on Delivery,58.0,Delivered,2.0
+ORD01925,2025-12-29,C0135,Mohali,Wok Express,Chinese,678,50,25,703,Credit Card,46.0,Delivered,3.0
+ORD01926,2025-04-21,C0300,Panchkula,Burger Hub,Fast Food,440,30,100,370,Credit Card,58.0,Delivered,1.0
+ORD01927,2025-06-27,C0415,Chandigarh,Burger Hub,Fast Food,527,30,100,0,Cash on Delivery,,Cancelled,
+ORD01928,2025-04-04,C0491,Mohali,Healthy Bowl,Healthy,582,40,100,522,UPI,42.0,Delivered,2.0
+ORD01929,2025-11-28,C0108,Mohali,Pizza Corner,Pizza,263,40,25,278,UPI,49.0,Delivered,3.0
+ORD01930,2025-09-06,C0014,Chandigarh,Healthy Bowl,Healthy,619,40,0,659,Credit Card,38.0,Delivered,2.0
+ORD01931,2025-07-17,C0235,Gurugram,Burger Hub,Fast Food,971,20,50,941,Cash on Delivery,60.0,Delivered,4.0
+ORD01932,2025-12-03,C0047,Panchkula,Healthy Bowl,Healthy,940,20,0,960,Debit Card,68.0,Delivered,4.0
+ORD01933,2025-05-09,C0074,Chandigarh,Pizza Corner,Pizza,506,20,0,526,Wallet,64.0,Delivered,3.0
+ORD01934,2025-12-11,C0385,Gurugram,Healthy Bowl,Healthy,825,50,0,875,Credit Card,60.0,Delivered,1.0
+ORD01935,2025-10-30,C0001,Mohali,Healthy Bowl,Healthy,1073,50,0,1123,UPI,21.0,Delivered,4.0
+ORD01936,2025-05-10,C0099,Mohali,Burger Hub,Fast Food,1040,30,100,970,UPI,57.0,Delivered,4.0
+ORD01937,2025-03-18,C0414,Delhi,Wok Express,Chinese,300,30,50,280,Wallet,63.0,Delivered,4.0
+ORD01938,2025-10-18,C0486,Mohali,Taco Street,Mexican,981,20,50,0,UPI,,Cancelled,
+ORD01939,2025-03-26,C0136,Delhi,Dosa Point,South Indian,1154,50,0,1204,Cash on Delivery,56.0,Delivered,2.0
+ORD01940,2025-12-12,C0487,Gurugram,Spice Garden,Indian,1092,40,100,1032,Cash on Delivery,51.0,Delivered,5.0
+ORD01941,2025-06-30,C0337,Panchkula,Biryani House,Indian,575,40,0,615,Credit Card,23.0,Delivered,4.0
+ORD01942,2025-01-16,C0071,Panchkula,Healthy Bowl,Healthy,522,30,0,552,UPI,28.0,Delivered,1.0
+ORD01943,2025-06-28,C0492,Chandigarh,Taco Street,Mexican,924,40,0,964,UPI,47.0,Delivered,3.0
+ORD01944,2025-01-01,C0509,Delhi,Burger Hub,Fast Food,1011,50,25,1036,Debit Card,52.0,Delivered,4.0
+ORD01945,2025-10-21,C0356,Delhi,Taco Street,Mexican,1071,40,0,1111,UPI,30.0,Delivered,4.0
+ORD01946,2025-05-12,C0482,Mohali,Healthy Bowl,Healthy,217,20,25,212,UPI,38.0,Delivered,2.0
+ORD01947,2025-10-29,C0081,Chandigarh,Dosa Point,South Indian,707,50,50,707,Wallet,47.0,Delivered,4.0
+ORD01948,2025-11-29,C0478,Chandigarh,Healthy Bowl,Healthy,431,50,0,481,Credit Card,21.0,Delivered,3.0
+ORD01949,2025-07-08,C0437,Panchkula,Healthy Bowl,Healthy,375,30,50,355,Credit Card,44.0,Delivered,2.0
+ORD01950,2025-02-10,C0446,Mohali,Healthy Bowl,Healthy,743,40,50,733,Debit Card,36.0,Delivered,4.0
+ORD01951,2025-06-19,C0313,Gurugram,Wok Express,Chinese,748,30,0,778,UPI,68.0,Delivered,1.0
+ORD01952,2025-07-22,C0277,Delhi,Biryani House,Indian,646,40,0,686,Debit Card,36.0,Delivered,2.0
+ORD01953,2025-01-09,C0132,Gurugram,Burger Hub,Fast Food,449,30,0,479,Cash on Delivery,50.0,Delivered,4.0
+ORD01954,2025-04-22,C0457,Mohali,Wok Express,Chinese,354,30,0,384,UPI,18.0,Delivered,5.0
+ORD01955,2025-12-20,C0357,Mohali,Burger Hub,Fast Food,385,50,0,435,Debit Card,37.0,Delivered,5.0
+ORD01956,2025-11-19,C0039,Mohali,Dosa Point,South Indian,908,40,25,923,UPI,26.0,Delivered,2.0
+ORD01957,2025-01-22,C0229,Gurugram,Wok Express,Chinese,719,50,0,769,UPI,22.0,Delivered,2.0
+ORD01958,2025-01-15,C0342,Delhi,Burger Hub,Fast Food,878,20,0,898,Debit Card,31.0,Delivered,4.0
+ORD01959,2025-09-28,C0003,Gurugram,Dosa Point,South Indian,539,40,50,529,Cash on Delivery,61.0,Delivered,4.0
+ORD01960,2025-02-10,C0266,Panchkula,Biryani House,Indian,290,40,100,230,Cash on Delivery,37.0,Delivered,2.0
+ORD01961,2025-07-18,C0050,Mohali,Biryani House,Indian,323,20,0,343,Debit Card,53.0,Delivered,3.0
+ORD01962,2025-04-04,C0200,Panchkula,Biryani House,Indian,984,30,100,914,Cash on Delivery,20.0,Delivered,2.0
+ORD01963,2025-05-30,C0238,Delhi,Burger Hub,Fast Food,692,50,0,742,Wallet,19.0,Delivered,3.0
+ORD01964,2025-08-01,C0145,Gurugram,Dosa Point,South Indian,207,20,50,177,Debit Card,59.0,Delivered,3.0
+ORD01965,2025-07-15,C0293,Chandigarh,Spice Garden,Indian,463,20,100,383,Cash on Delivery,49.0,Delivered,4.0
+ORD01966,2025-05-15,C0234,Gurugram,Biryani House,Indian,226,40,0,266,Debit Card,21.0,Delivered,2.0
+ORD01967,2025-01-25,C0345,Mohali,Burger Hub,Fast Food,481,40,25,496,Credit Card,29.0,Delivered,4.0
+ORD01968,2025-04-13,C0411,Gurugram,Burger Hub,Fast Food,463,30,0,493,UPI,26.0,Delivered,3.0
+ORD01969,2025-04-21,C0480,Delhi,Biryani House,Indian,170,30,0,200,UPI,34.0,Delivered,4.0
+ORD01970,2025-12-21,C0438,Mohali,Pizza Corner,Pizza,1026,50,0,1076,Cash on Delivery,18.0,Delivered,4.0
+ORD01971,2025-11-09,C0216,Chandigarh,Healthy Bowl,Healthy,795,30,100,725,UPI,35.0,Delivered,3.0
+ORD01972,2025-03-30,C0135,Chandigarh,Biryani House,Indian,679,50,0,729,Credit Card,31.0,Delivered,3.0
+ORD01973,2025-10-04,C0094,Delhi,Wok Express,Chinese,1088,20,50,1058,Credit Card,69.0,Delivered,1.0
+ORD01974,2025-03-25,C0266,Gurugram,Burger Hub,Fast Food,749,20,0,769,Cash on Delivery,70.0,Delivered,4.0
+ORD01975,2025-02-22,C0188,Panchkula,Taco Street,Mexican,1164,40,0,1204,UPI,57.0,Delivered,5.0
+ORD01976,2025-07-17,C0348,Gurugram,Healthy Bowl,Healthy,615,50,0,665,UPI,48.0,Delivered,2.0
+ORD01977,2025-04-03,C0404,Gurugram,Burger Hub,Fast Food,798,20,50,768,Debit Card,39.0,Delivered,4.0
+ORD01978,2025-12-31,C0463,Gurugram,Wok Express,Chinese,1188,30,0,1218,UPI,58.0,Delivered,2.0
+ORD01979,2025-04-06,C0123,Gurugram,Pizza Corner,Pizza,416,20,0,0,Cash on Delivery,,Cancelled,
+ORD01980,2025-09-20,C0052,Chandigarh,Spice Garden,Indian,632,40,100,572,Cash on Delivery,69.0,Delivered,5.0
+ORD01981,2025-01-26,C0361,Chandigarh,Taco Street,Mexican,746,20,100,666,Wallet,56.0,Delivered,2.0
+ORD01982,2025-11-14,C0506,Chandigarh,Wok Express,Chinese,876,30,50,856,Credit Card,74.0,Delivered,1.0
+ORD01983,2025-03-31,C0466,Mohali,Burger Hub,Fast Food,1158,50,100,1108,Credit Card,32.0,Delivered,5.0
+ORD01984,2025-01-11,C0329,Panchkula,Healthy Bowl,Healthy,742,30,0,772,Wallet,29.0,Delivered,4.0
+ORD01985,2025-11-27,C0201,Mohali,Dosa Point,South Indian,543,30,100,473,Debit Card,62.0,Delivered,5.0
+ORD01986,2025-05-31,C0521,Gurugram,Wok Express,Chinese,1056,20,0,1076,Wallet,51.0,Delivered,4.0
+ORD01987,2025-06-19,C0387,Gurugram,Spice Garden,Indian,704,50,0,754,Debit Card,18.0,Delivered,3.0
+ORD01988,2025-02-06,C0407,Delhi,Healthy Bowl,Healthy,538,50,25,563,Credit Card,62.0,Delivered,2.0
+ORD01989,2025-03-23,C0327,Mohali,Healthy Bowl,Healthy,998,30,0,1028,Credit Card,49.0,Delivered,4.0
+ORD01990,2025-07-03,C0086,Mohali,Burger Hub,Fast Food,185,50,0,235,Wallet,40.0,Delivered,5.0
+ORD01991,2025-03-10,C0331,Delhi,Spice Garden,Indian,905,30,0,935,Credit Card,25.0,Delivered,1.0
+ORD01992,2025-01-22,C0447,Mohali,Burger Hub,Fast Food,800,40,100,740,Cash on Delivery,43.0,Delivered,2.0
+ORD01993,2025-12-09,C0044,Delhi,Burger Hub,Fast Food,986,30,50,966,Cash on Delivery,60.0,Delivered,2.0
+ORD01994,2025-02-08,C0200,Mohali,Healthy Bowl,Healthy,680,20,100,600,UPI,39.0,Delivered,1.0
+ORD01995,2025-04-25,C0161,Chandigarh,Spice Garden,Indian,239,40,50,229,UPI,72.0,Delivered,2.0
+ORD01996,2025-04-01,C0116,Panchkula,Burger Hub,Fast Food,343,30,0,373,Wallet,36.0,Delivered,5.0
+ORD01997,2025-03-20,C0113,Gurugram,Dosa Point,South Indian,1004,50,25,1029,Debit Card,18.0,Delivered,1.0
+ORD01998,2025-05-15,C0044,Delhi,Spice Garden,Indian,947,40,0,987,Credit Card,71.0,Delivered,1.0
+ORD01999,2025-10-19,C0398,Delhi,Taco Street,Mexican,1055,50,0,1105,Debit Card,51.0,Delivered,3.0
+ORD02000,2025-07-24,C0115,Gurugram,Wok Express,Chinese,393,50,100,343,Credit Card,36.0,Delivered,2.0

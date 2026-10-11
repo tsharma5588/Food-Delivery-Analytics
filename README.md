@@ -86,6 +86,14 @@ Food-Delivery-Analytics/
 
 This project demonstrates how food delivery data can be transformed into actionable business information to support decisions about restaurant performance, revenue growth, customer preferences, and delivery operations.
 
+## Power BI Dashboard Preview
+
+### Dashboard Screenshot 1
+
+
+### Dashboard Screenshot 2
+![Food Delivery Dashboard 2](Dashboard-Screenshot%202.png)
+
 ## Author
 
 **Tushar Sharma**

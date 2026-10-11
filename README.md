@@ -89,10 +89,26 @@ This project demonstrates how food delivery data can be transformed into actiona
 ## Power BI Dashboard Preview
 
 ### Dashboard Screenshot 1
-
+![Food Delivery Dashboard 2](Dashboard-Screenshot%202.png)
 
 ### Dashboard Screenshot 2
-![Food Delivery Dashboard 2](Dashboard-Screenshot%202.png)
+![Food Delivery Dashboard 1](Dashboard-Screenshot%201.png)
+
+## Key Business Insights
+
+- **Revenue Performance:** The dashboard reports approximately ₹1.28 million in total revenue from around 2,000 orders.
+- **Average Order Value:** Customers spend approximately ₹680.46 per order.
+- **Delivery Efficiency:** Average delivery time is approximately 45 minutes and 37 seconds, providing a baseline for operational improvements.
+- **Restaurant Performance:** The Top 5 Restaurants chart helps identify restaurants contributing the most revenue.
+- **Customer Preferences:** Cuisine and payment-method charts reveal customer ordering and payment patterns.
+- **Geographic Performance:** City-wise revenue analysis helps compare demand and sales performance across locations.
+
+## Business Recommendations
+
+1. Investigate opportunities to reduce average delivery time.
+2. Study top-performing restaurants to identify successful sales strategies.
+3. Use cuisine preferences to plan targeted promotions.
+4. Review city-wise revenue to identify potential growth opportunities.
 
 ## Author
 
